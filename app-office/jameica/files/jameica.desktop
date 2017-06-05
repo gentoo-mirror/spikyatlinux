@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Office;
+Comment=Banking Software
+Comment[en_US]=Bankingapplication
+Exec=/usr/bin/jameica
+GenericName=Jameica
+GenericName[en_US]=Jameica
+Icon=/opt/jameica/jameica-icon.png
+MimeType=
+Name=Jameica
+Name[en_US]=Jameica
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

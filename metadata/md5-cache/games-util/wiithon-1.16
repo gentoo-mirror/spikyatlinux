@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup unpack
+DEPEND=dev-lang/python dev-python/sqlalchemy
+DESCRIPTION=WBFS Partition Manager
+EAPI=2
+HOMEPAGE=https://launchpad.net/wiithon
+KEYWORDS=amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-lang/python dev-python/sqlalchemy app-arch/rar games-misc/games-envd
+SLOT=0
+SRC_URI=http://ppa.launchpad.net/wii.sceners.linux/wiithon-1.1/ubuntu/pool/main/w/wiithon/wiithon_1.16.orig.tar.gz http://ppa.launchpad.net/wii.sceners.linux/wiithon-1.1/ubuntu/pool/main/w/wiithon/wiithon_1.16-404.diff.gz
+_eclasses_=base	df2aa567b3f0595aae0d0923889f7631	eutils	3c847a0129fed780bd709b98e426f89c	games	2bb3ede665927a68ffdb7c41eec7efde	multilib	0236be304ee52e7f179ed2f337075515	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	53b75b4a49cf3e61530a523804045432	user	e4b567c44272a719fabf53f0f885d3f7
+_md5_=fbe73d88ca57917b02c976fe8cb234f0

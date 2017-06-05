@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile unpack
+DEPEND=>=media-video/vlc-2 virtual/pkgconfig dev-vcs/git
+DESCRIPTION=Plugin for VLC to access TVHeadend via HTSP
+EAPI=5
+HOMEPAGE=https://github.com/BtbN/vlc-htsp-plugin
+KEYWORDS=amd64
+LICENSE=GPL-2
+RDEPEND=>=media-video/vlc-2
+SLOT=0
+_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	53b75b4a49cf3e61530a523804045432
+_md5_=c73bee6a300e7eea518b50ff4ab0ea02

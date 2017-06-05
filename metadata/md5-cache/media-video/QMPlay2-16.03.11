@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure install
+DEPEND=qt4? ( dev-qt/qtcore:4= dev-qt/qtgui:4= dev-qt/qtscript:4= ) qt5? ( dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qtnetwork:5= dev-qt/qtscript:5= dev-qt/qtwidgets:5= )
+DESCRIPTION=QMPlay2 is a video player, it can plays all formats and stream
+EAPI=5
+HOMEPAGE=http://qt-apps.org/content/show.php/QMPlay2?content=153339
+IUSE=-pulseaudio openal qt4 +qt5
+KEYWORDS=amd64 ~i686
+LICENSE=LGPL
+RDEPEND=media-libs/game-music-emu media-libs/libsidplayfp dev-qt/qtchooser >=media-video/ffmpeg-2.2.0 media-libs/libass media-libs/mesa x11-libs/libva x11-libs/libXv dev-libs/libcdio media-libs/portaudio >=media-libs/taglib-1.9.1 media-libs/libcddb net-misc/youtube-dl media-video/atomicparsley media-video/rtmpdump[abi_x86_32] pulseaudio? ( media-sound/pulseaudio ) openal? ( media-libs/openal )
+RESTRICT=strip
+SLOT=0
+SRC_URI=http://downloads.sourceforge.net/project/zaps166/QMPlay2/QMPlay2-src-16.03.11.tar.xz
+_eclasses_=user	e4b567c44272a719fabf53f0f885d3f7
+_md5_=4999754a52fed65a30d3d04c424e6122
