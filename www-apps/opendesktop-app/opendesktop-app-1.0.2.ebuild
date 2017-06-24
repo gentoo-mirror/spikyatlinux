@@ -20,6 +20,7 @@ DEPEND="app-arch/dpkg"
 RDEPEND="
 	dev-qt/qtsvg:5
 	dev-qt/qtdeclarative:5
+	dev-qt/qtwebsockets
 	dev-qt/qtquickcontrols
 	dev-qt/qtquickcontrols2"
 
