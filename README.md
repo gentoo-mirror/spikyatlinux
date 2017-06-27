@@ -13,7 +13,8 @@ outdated ebuilds let me know ;-)
 
 To use my ebuilds download spikyatlinunx.conf
 in your /etc/portage/repos.conf directory
-and run emaint sync -r spikyatlinux
+and run "emaint sync -r spikyatlinux",
+without quotes of course.
 
 #################################################
 
