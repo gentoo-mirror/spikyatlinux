@@ -3,10 +3,11 @@
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
 
 Here are some of my own or modified ebuilds.
-Also some of them I´ve found in the web. If you
-find some errors let me know, please ;-)
+Also some of them I´ve found in the web.
 
-Use all of them at your own risk.
+Use all of them at your own risk. I´ve tested all
+on my local system, if you find some errors or
+outdated ebuilds let me know ;-)
 
 #################################################
 
