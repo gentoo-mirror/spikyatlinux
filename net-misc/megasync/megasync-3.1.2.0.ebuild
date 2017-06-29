@@ -9,12 +9,12 @@ inherit qmake-utils git-r3 autotools eutils
 DESCRIPTION="Automated syncing between your computers and your MEGA cloud drive"
 HOMEPAGE="https://mega.nz/ https://github.com/meganz/MEGAsync"
 EGIT_REPO_URI="https://github.com/meganz/MEGAsync.git"
-EGIT_COMMIT="06d9ffecbc543318489dea36577a0184aa802baf"
+EGIT_COMMIT="0e411c374482927541a4f4f911e9d98fd05f0478"
 
 LICENSE="MEGA-Code-Review BSD-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
-IUSE="qt5 libressl"
+IUSE="+qt5 libressl"
 
 RESTRICT="bindist"
 
