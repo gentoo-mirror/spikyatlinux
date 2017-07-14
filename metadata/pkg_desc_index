@@ -2,7 +2,7 @@ app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
 app-admin/webmin 1.850: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
 app-backup/wimlib 1.12.0: The open source Windows Imaging (WIM) library
-app-cdr/isomd5sum 1.1.0: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
+app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-crypt/certbot 0.15.0: Let's encrypt client to automate deployment of X.509 certificates
 app-crypt/certbot-apache 0.15.0: Apache plugin for certbot (Let's Encrypt Client)
 app-crypt/certbot-nginx 0.15.0: Nginx plugin for certbot (Let's Encrypt Client)
