@@ -4,10 +4,9 @@
 EAPI="6"
 
 inherit multilib unpacker
-
 MY_PV=${PV/_p/-}
 MY_PN=${PN%%-0ubuntu1}
-DLID="1498824426"
+DLID="1500039052"
 DESCRIPTION="An opendesktop.org application."
 HOMEPAGE="https://linux-apps.com/p/1175480/"
 SRC_URI="https://dl.opendesktop.org/api/files/download/id/${DLID}/${PN}_${PV}-0ubuntu1_amd64.deb"
