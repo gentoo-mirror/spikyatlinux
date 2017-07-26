@@ -1,10 +1,7 @@
-# Copyright 1999-2016 Gentoo Foundation
+# Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=6
-
-SNAPSHOT="571d889620c57303d75d299e714387b891713ff9"
-SNAPVER="571d889"
 
 inherit autotools pax-utils
 if [[ -z ${PV%%*9999} ]]; then
@@ -12,11 +9,9 @@ if [[ -z ${PV%%*9999} ]]; then
 	EGIT_REPO_URI="git://wimlib.net/${PN}"
 else
 	inherit vcs-snapshot
-	SRC_URI="https://wimlib.net/downloads/${P}-BETA2.tar.gz"
-	SRC_URI="
-		https://wimlib.net/git/?p=wimlib;a=snapshot;h=$SNAPSHOT;sf=tgz
-		-> ${P}-r1.tar.gz
-	"
+	MY_PV="${PV/_/-}"
+	MY_PV="${MY_PV^^}"
+	SRC_URI="https://wimlib.net/downloads/${PN}-${MY_PV}.tar.gz -> ${P}.tar.gz"
 	RESTRICT="primaryuri"
 	KEYWORDS="~amd64 ~x86"
 fi
@@ -26,7 +21,7 @@ HOMEPAGE="https://wimlib.net/"
 
 LICENSE="|| ( GPL-3+ LGPL-3+ ) CC0-1.0"
 SLOT="0"
-IUSE="cpu_flags_x86_ssse3 +fuse +ntfs openssl threads yasm"
+IUSE="cpu_flags_x86_ssse3 fuse ntfs openssl threads yasm"
 REQUIRED_USE="cpu_flags_x86_ssse3? ( !openssl )"
 
 RDEPEND="
@@ -42,8 +37,6 @@ DEPEND="
 		!yasm? ( dev-lang/nasm )
 	)
 "
-
-S=${WORKDIR}/${P}-r1
 
 src_prepare() {
 	default
