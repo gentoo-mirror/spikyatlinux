@@ -10,7 +10,7 @@ RDEPEND=dev-libs/libxml2:2 ntfs? ( sys-fs/ntfs3g ) fuse? ( sys-fs/fuse ) openssl
 REQUIRED_USE=cpu_flags_x86_ssse3? ( !openssl )
 RESTRICT=primaryuri
 SLOT=0
-SRC_URI=https://wimlib.net/git/?p=wimlib;a=snapshot;h=dcb76e926947411f874498a652fd9836d18d05c9;sf=tgz -> wimlib-1.12.0.tar.gz
+SRC_URI=https://wimlib.net/downloads/wimlib-1.12.0-BETA2.tar.gz -> wimlib-1.12.0_beta2.tar.gz
 _eclass_exported_funcs=src_unpack:vcs-snapshot src_prepare:- src_configure:- src_compile:-
 _eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	e32ea84bf82cf8987965b574672dba93	multilib	97f470f374f2e94ccab04a2fb21d811e	pax-utils	4f95120230a315c8caaabeb2307b7eee	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163	vcs-snapshot	03289f51c769cf409d200d2d628cdd6e
-_md5_=e7e114e371f1b5074de7c68e05d8e4cb
+_md5_=5fe5c98feb5a6c27379bd0ee4e8b9865
