@@ -9,6 +9,8 @@ Use all of them at your own risk. I´ve tested all
 on my local system, if you find some errors or
 outdated ebuilds let me know ;-)
 
+Perhaps you can star me if you find something
+useful ;-)
 #################################################
 
 To use my ebuilds download spikyatlinunx.conf
