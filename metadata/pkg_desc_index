@@ -25,6 +25,7 @@ dev-util/platform-tools 1.0.39-r1: Android platform-tools same as android-tools,
 dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 kde-misc/kde-services 3.0.1: kde-service multifunction
 kde-misc/ksmoothdock 5.6 5.7: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+media-gfx/XnViewMP 0.86: XnView MP image viewer/converter
 media-plugins/kodi-pvr-hts 3.4.24 4.0.7: Tvheadend Live TV and Radio PVR client addon for Kodi
 media-video/handbrake 1.0.7-r1: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
 media-video/webcamoid 7.2.0 8.0.0: A full featured webcam capture application
