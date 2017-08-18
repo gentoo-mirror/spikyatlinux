@@ -13,6 +13,7 @@ EGIT_COMMIT="d40e795503aea4a3ebfaec9ff838fde3411e98cc"
 LICENSE="GPL-2"
 KEYWORDS="amd64"
 IUSE=""
+SLOT="${PV}"
 
 need_httpd_cgi
 
