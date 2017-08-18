@@ -1,17 +1,18 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI="6"
+EAPI=6
 
 inherit webapp eutils
 
 DESCRIPTION="ruTorrent is a front-end for the popular Bittorrent client rTorrent"
 HOMEPAGE="https://github.com/Novik/ruTorrent"
-SRC_URI="https://bintray.com/artifact/download/novik65/generic/ruTorrent-${PV}.zip"
+SRC_URI="https://github.com/Novik/ruTorrent/archive/v${PV}.zip -> ${P}.zip"
 
 LICENSE="GPL-2"
 KEYWORDS="~alpha ~amd64 ~ppc ~x86"
 IUSE=""
+SLOT="${PV}"
 
 need_httpd_cgi
 
@@ -20,7 +21,7 @@ DEPEND="
 "
 RDEPEND="virtual/httpd-php"
 
-S="${WORKDIR}/ruTorrent-master"
+S="${WORKDIR}/ruTorrent-${PV}"
 
 pkg_setup() {
 	webapp_pkg_setup
