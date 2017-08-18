@@ -34,7 +34,7 @@ net-misc/megasync 3.1.4.0: Automated syncing between your computers and your MEG
 net-proxy/dansguardian 2.12.0.3-r3: Web content filtering via proxy
 sys-boot/multibootusb 8.8.0: Boot multiple live Linux distros from an USB flash drive
 sys-fs/fuse 3.1.0-r1: An interface for filesystems implemented in userspace
-www-apps/nextcloud 12.0.1: Personal cloud that runs on your own server
+www-apps/nextcloud 12.0.1 12.0.2: Personal cloud that runs on your own server
 www-apps/ocs-url 3.0.2: An install helper program for items served via OpenCollaborationServices (OCS).
 www-apps/ocsstore 2.1.0 2.1.1: An opendesktop.org application.
 www-apps/rutorrent 3.7-r1 3.8: ruTorrent is a front-end for the popular Bittorrent client rTorrent
