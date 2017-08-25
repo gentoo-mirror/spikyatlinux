@@ -15,7 +15,7 @@ app-office/jameica 2.7.0: Jameica Online Banking Software, written in Java
 app-portage/findcruft2 9999: findcruft2 is a tool to find orphaned files for unmerged packages
 app-portage/showbuild 0.9: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-db/phpmyadmin 4.7.2: Web-based administration for MySQL database in PHP
+dev-db/phpmyadmin 4.7.4: Web-based administration for MySQL database in PHP
 dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
 dev-qt/qt4pas 2.5: The Free Pascal Qt4 binding allows Free Pascal to interface with the C++ Library Qt.
 dev-util/apktool-bin 2.2.2: A tool for reverse engineering 3rd party, closed, binary Android apps
