@@ -12,7 +12,7 @@ EGIT_COMMIT="11a7ede01b0a958fed22c585f33157bef6525cf3"
 
 LICENSE="MEGA-Code-Review BSD-2"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 ~x86"
 IUSE="+qt5 libressl"
 
 RESTRICT="bindist"
