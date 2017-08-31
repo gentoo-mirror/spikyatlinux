@@ -9,7 +9,7 @@ WEBMIN_EXE="%exe%"
 WEBMIN_PID="%pid%"
 WEBMIN_CONF="%conf%"
 WEBMIN_CONFIG="%config%"
-
+MYPORT="`grep port /etc/webmin/miniserv.conf | cut -c6-`"
 extra_started_commands="reload"
 
 depend() {
@@ -72,6 +72,8 @@ start() {
 	eend $?
 	# Leave time to spawn, so no stop is received while spawning
 	sleep 3
+	einfo "Webin is reachable under"
+	einfo "https://127.0.0.1:$MYPORT"
 }
 
 stop() {
