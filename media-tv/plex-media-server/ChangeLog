@@ -1,0 +1,130 @@
+2017.09.26 (1.9.3.4290-9798172d4)
+(Hubs) Massive speedup to discovery hubs via caching system
+(iOS) Allow syncing ALAC music without conversion.
+(Transcoder) Portrait videos would be stretched out when being transcoded (#7287)
+(Music) Artist album sorting was sometimes overridden incorrectly (#7349)
+(Network) Fallback to IPv4 only if IPv6 networking fails to setup (#7382)
+(Transcoder) Extracting chapter thumbnails could use significant memory (#7397)
+(Scanner) Some plexignore rules were not being applied for photo libraries (#5866)
+(DVR) Setups with multiple HDHomeRun tuners now properly tune on both (#7417)
+(Relay) Don't attempt to load ~/.ssh/config on macOS/Linux (#7528)
+
+2017.09.25 (1.9.2.4285-9f65b88ae)
+(Web) Updated Plex Web to 3.20.8
+
+2017.09.19 (1.9.1.4272-b207937f1)
+(Crash Reporting) Preference to opt out of crash reporting
+(Privacy) Updates for new privacy policy
+(Transcoder) Deadlocks when performing concurrent static and streaming transcodes (#7554)
+
+2017.09.08 (1.9.0.4252-d07c1f408)
+(Streaming Brain) ABR streams will now balance their BW usage among each other (#7414)
+(DVR) Sort by release date more sensibly in the Program Guide - Movies view (#6981)
+(DVR) Fixed intermittent crash when tuning live TV (#7383)
+(DVR) Recorded shows were occasionally mistagged based on show year (#7328)
+(DVR) In certain cases, tuners could be shared inappropriately, leading to bad behavior (#7170)
+(Streaming Brain) Reduced wasted segments during quality change (#6623)
+(Transcoder) Portrait videos would be stretched out when being transcoded (#7287)
+(Music) Artist album sorting was sometimes overridden incorrectly (#7349)
+(DVR) Parse timestamps out of XMLTV orignial air date fields (#7379)
+(Hubs) Crashes when getting hubs (#7419)
+(Transcoder) Potential deadlock with static and streaming transcodes (#7410)
+
+2017.09.07 (1.8.4.4249-3497d6779)
+(Web) Bumped web client to 3.20.5
+
+2017.09.04 (1.8.3.4235-2d20185b0)
+(Web) Updated Plex Web to 3.20.4
+
+2017.08.30 (1.8.2.4209-b1d4aa012)
+(LIveTV) Stability improvements
+
+2017.08.08 (1.8.1.4139-c789b3fbb)
+(Web) Updated Plex Web to 3.14.1
+(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)
+(Preferences) Hide auto-update preference on platforms that don't support it (#7332)
+(Streaming Brain) Allow clients to buffer more when at max quality (#6624)
+(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)
+(DVR) Log tuner make/model and support status when media grabs start. (#7167)
+(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)
+(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)
+(Android) Green tint in software-decoded video (#7385)
+(Transcoder) Crashes when playing VP8 content (#7281) (#7359)
+
+2017.07.26 (1.8.0.4109-42bd8c63f)
+(Web) Updated Plex Web to 3.11.0
+(DVR) Various rare crashes
+(Photos) Missing date attribute on home videos leads to incorrect timeline view. (#6791)
+(DVR) Stop blacklisting infomercials in EyeQ program guide data (#7188)
+(DVR) Avoid crash with when loading program guide data for certain channels in Denmark (#7274)
+(Playback) Deadlocks could occur during playback (#7201)
+(Transcoder) Some AVI files would fail to transcode (#7164)
+(Analysis) Rare crashes during analysis (#7190)
+(Transcoder) HLS segment durations could be incorrectly calculated (#7266)
+
+2017.07.05 (1.7.6.4058-8fa494d15)
+(Web) Updated Plex Web to 3.10.0
+(Local Media Agent) Add support for ietf subtitle language extensions
+(DVR) Use MPEGTS for all DVR recordings
+(Photos) Support dates before 1970 for photos (#5926)
+(DVR) Failed to find paths to XMLTV files in Windows (#6776)
+
+2017.06.28 (1.7.5.4035-313f93718)
+(Linux) Ubuntu package would not install unless udev was installed (#7205)
+
+2017.06.22 (1.7.4.4017-3886b5c85)
+ - (Web) Updated Plex Web to 3.9.1
+ - (DVR) Support for WinTV-HVR-22XX PCIe tuners
+ - (DVR) Support for timeshift in live streams (requires upcoming iOS v4.14 and Android TV v6.2 app releases)
+ - (Butler) Allow server updates triggered from client apps to occur during nightly maintenance (#6246)
+ - (Windows) Failures when transcoding with EAE
+ - (Windows) Cygwin1.dll reported as insecure by Secunia PSI, updated to 2.8.0
+ - (Windows) Failures transcoding AAC on older versions of Windows when using the Media Foundation AAC Encoder (#7132)
+ - (Butler) Clean up previous updaters during maintenance. PMS will keep the previous three updates (#4510)
+ - (Photos) Moving files between folders inside the same section may result in the timeline view becoming inconsistent.
+ - (Xbox 360) Videos with MP3 audio could go out-of-sync. (#6989)
+ - (Discovery) Improve quality of related media on movie/show pages.
+ - (DVR) Under certain circumstances, duplicate recordings could occur (#7144)
+ - (DVR) Some supported WinTV models were not detected
+ - (DVR) TVButler was not detected on Ubuntu/CentOS/Fedora/Synology (#7162)
+ - (SHEILD) Transcoded videos were incorrectly cropped
+
+2017.06.22 (1.5.7.4016-25d94bad9)
+(Cloud Sync) Using Cloud Sync with Dropbox would have failed after June 28th (#7152)
+
+2017.06.08 (1.7.3.3937-70f781325)
+(DVR) Support of extra versions of the WinTV QuadHD
+(Linux) Fix RPM package to not overwrite repo files on upgrades. (#7078)
+(Chromecast) Multi-channel audio would not play back on updated devices (#7089)
+(Companion) Remote control could be unreliable in some cases (e.g. Xbox One) (#3635)
+(Sync) Shared users would not see sync updates in the web UI
+
+2017.05.27 (1.7.2.3878-8088811b8)
+(Web) Updated Plex Web to 3.7.0
+(Metadata) Use 16x9 aspect ratios for 480p and 576p resolution limits. (#6795)
+(MDE) Corrected codec decision to prefer AAC over MP3 when on windows (#6737)
+(DVR) Stutter during playback of remuxed DVR recordings (#7070)
+(Tags) Tags including numbers were sorted incorrectly (#7027)
+(DVR) Multiple concurrent recordings could not be made with the HDHR Dual (#6934)
+
+2017.05.23 (1.7.1.3856-757424396)
+(Streaming Brain) Incorrectly chose to Direct Stream audio under certain circumstances
+
+2017.05.20 (1.7.0.3840-45a6a85f4)
+(Library) Enable the 'Allow media deletion' preference on new and default installations (#6753)
+(NAS) Added Synology multivolume support (#6782)
+(Camera Upload) Trying to upload files larger than 4GB would fail.
+(Linux) Fix install issue if user has a systemd override.conf in place for PMS. (#6904)
+(Linux) Install error on Ubuntu 17.04 (#6783)
+(Music) Albums were incorrectly sorted (#6537 #6043)
+(Streaming Brain) Rare deadlock when transcoding DASH
+(Scannner) Cancelling a photo section scan could take a significant amount of time (#6663 #6699)
+
+2017.05.09 (1.5.6.3790-4613ce077)
+- (Windows) Installer improvements
+
+2017.04.27 (1.6.1.3722-4955e31cf)
+(Transcoder) Fix an issue with transcodes failing with long Windows user names. (#6709)
+
+2017.04.12 (1.5.5.3634-995f1dead)
+(Transcoder) Fix an issue with transcodes failing with long Windows user names. (#6709)
