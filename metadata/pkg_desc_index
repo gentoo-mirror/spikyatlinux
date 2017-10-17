@@ -16,7 +16,7 @@ dev-qt/qt4pas 2.5: The Free Pascal Qt4 binding allows Free Pascal to interface w
 dev-util/apktool-bin 2.2.2: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon-bin 2.3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/meld 1.8.6: A graphical diff and merge tool
-dev-util/platform-tools 1.0.39-r1: Android platform-tools same as android-tools, but latest versions without sdk from google
+dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 kde-misc/kde-services 3.0.1: kde-service multifunction
 kde-misc/ksmoothdock 5.6 5.7: KSmoothDock is a dock program for KDE with smooth parabolic zooming
