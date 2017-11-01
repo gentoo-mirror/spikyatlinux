@@ -1,16 +1,17 @@
+app-admin/findcruft2 9999: findcruft2 is a tool to find orphaned files for unmerged packages
 app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
 app-admin/webmin 1.850: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
 app-arch/wimlib 1.12.0_beta2: The open source Windows Imaging (WIM) library
 app-backup/prebackup 1.1: Organize your directories before a backup
 app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
+app-emulation/lutris 0.4.13: Lutris is an open source gaming platform for GNU/Linux.
 app-misc/double-commander 0.7.8: Cross Platform file manager.
 app-office/hibiscus 2.7.0: HBCI Plugin for Jameica
 app-office/jameica 2.7.0: Jameica Online Banking Software, written in Java
-app-portage/findcruft2 9999: findcruft2 is a tool to find orphaned files for unmerged packages
 app-portage/showbuild 0.9: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-db/phpmyadmin 4.7.4: Web-based administration for MySQL database in PHP
+dev-db/phpmyadmin 4.7.4 4.7.5: Web-based administration for MySQL database in PHP
 dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
 dev-qt/qt4pas 2.5: The Free Pascal Qt4 binding allows Free Pascal to interface with the C++ Library Qt.
 dev-util/apktool-bin 2.2.2: A tool for reverse engineering 3rd party, closed, binary Android apps
