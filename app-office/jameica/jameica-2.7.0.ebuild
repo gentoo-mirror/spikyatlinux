@@ -1,21 +1,21 @@
 # Copyright 1999-2009 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
-EAPI="5"
+EAPI="6"
 
-DESCRIPTION="Jameica Online Banking Software, written in Java"
+DESCRIPTION="Official prebuilt nightly Jameica Online Banking Software, written in Java"
 HOMEPAGE="http://www.jameica.org"
 SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-${PV}-nightly-linux.zip
 			-> ${P}.zip )
 		 amd64? (
 		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-${PV}-nightly-linux64.zip
 		 	-> ${P}-linux64.zip )"
-
 LICENSE="GPL"
 SLOT="0"
 KEYWORDS="~x86 amd64"
+
 S="${WORKDIR}"
+
 DEPEND="app-arch/unzip"
 RDEPEND="${DEPEND}
 >=virtual/jre-1.6.0"
