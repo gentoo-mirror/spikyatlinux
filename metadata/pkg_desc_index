@@ -9,7 +9,7 @@ app-emulation/lutris 0.4.13: Lutris is an open source gaming platform for GNU/Li
 app-misc/double-commander 0.7.8: Cross Platform file manager.
 app-office/hibiscus 2.7.0: HBCI Plugin for Jameica
 app-office/jameica 2.7.0: Jameica Online Banking Software, written in Java
-app-portage/showbuild 0.9: Script to follow log of running portage builds
+app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 dev-db/phpmyadmin 4.7.4 4.7.5: Web-based administration for MySQL database in PHP
 dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
