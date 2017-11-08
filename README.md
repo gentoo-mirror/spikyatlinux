@@ -1,9 +1,9 @@
+#
+# Copyright 2016-2017 SpikyAtLinux
+#
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
 # |G|e|n|t|o|o| |6|4|-|B|i|t|
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
-#
-# Copyright 2016-2017 SpikyAtLinux
-  Mail: spikyatlinux_AT_gmail.com
 #
 # Unofficial repository
 #
