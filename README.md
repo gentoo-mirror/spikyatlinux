@@ -3,12 +3,12 @@
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
 #
 # Copyright 2016-2017 SpikyAtLinux
-# email: spikyatlinux@gmail.com
+  Mail: spikyatlinux_AT_gmail.com
 #
 # Unofficial repository
 #
 Here are some of my own or modified ebuilds.
-Also some of them I´ve found in the web.
+Also some of them I´ve found Min the web.
 
 Use all of them at your own risk. I´ve tested all
 on my local system, if you find some errors or
