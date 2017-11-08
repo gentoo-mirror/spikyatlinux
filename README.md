@@ -8,7 +8,8 @@
 # Unofficial repository
 #
 Here are some of my own or modified ebuilds.
-Also some of them I´ve found Min the web.
+Also some of them I´ve found in the web, or
+in other overlays ;-)
 
 Use all of them at your own risk. I´ve tested all
 on my local system, if you find some errors or
