@@ -1,7 +1,12 @@
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
 # |G|e|n|t|o|o| |6|4|-|B|i|t|
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
-
+#
+# Copyright 2016-2017 SpikyAtLinux
+# email: spikyatlinux@gmail.com
+#
+# Unofficial repository
+#
 Here are some of my own or modified ebuilds.
 Also some of them I´ve found in the web.
 
@@ -21,8 +26,34 @@ without quotes of course.
 
 #################################################
 
-# Oneliner
+# Oneliner to use my repo without layman
 
-wget https://raw.githubusercontent.com/spikyatlinux/ebuilds_for_gentoo/master/spikyatlinux.conf -O /etc/portage/repos.conf/spikyatlinux.conf && emaint sync -r ebuilds_for_gentoo && eix-update
+wget https://raw.githubusercontent.com/spikyatlinux/ebuilds_for_gentoo/master/spikyatlinux.conf -O /etc/portage/repos.conf/spikyatlinux.conf && emaint sync -r spikyatlinux && eix-update
 
 # ebuilds_for_gentoo
+
+
+# Add repository with layman
+#################################################
+
+1st install layman:
+
+    # emerge -av layman
+
+2nd Sync layman:
+
+    # sudo layman -S
+
+3rd Add my repository:
+
+    # sudo layman -f -a spikyatlinux
+
+4th Perhaps you have to sync your local db:
+    
+    # sudo emaint sync -r spikyatlinux
+
+or if you have eix installed
+
+    # sudo eix-update
+    
+# ;-)
