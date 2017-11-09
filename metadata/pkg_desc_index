@@ -1,5 +1,5 @@
 app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
-app-admin/webmin 1.850: A web-based Unix systems administration interface
+app-admin/webmin 1.850 1.860: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
 app-arch/wimlib 1.12.0: The open source Windows Imaging (WIM) library
 app-backup/prebackup 1.1: Organize your directories before a backup
@@ -11,7 +11,7 @@ app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
 dev-qt/qt4pas 2.5: The Free Pascal Qt4 binding allows Free Pascal to interface with the C++ Library Qt.
-dev-util/apktool-bin 2.2.2: A tool for reverse engineering 3rd party, closed, binary Android apps
+dev-util/apktool-bin 2.3.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon-bin 2.3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
