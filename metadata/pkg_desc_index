@@ -1,7 +1,7 @@
 app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
 app-admin/webmin 1.850: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
-app-arch/wimlib 1.12.0_beta2: The open source Windows Imaging (WIM) library
+app-arch/wimlib 1.12.0: The open source Windows Imaging (WIM) library
 app-backup/prebackup 1.1: Organize your directories before a backup
 app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-misc/double-commander 0.7.8: Cross Platform file manager.
