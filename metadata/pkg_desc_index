@@ -3,6 +3,7 @@ app-admin/webmin 1.850 1.860: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
 app-arch/wimlib 1.12.0: The open source Windows Imaging (WIM) library
 app-backup/prebackup 1.1: Organize your directories before a backup
+app-benchmarks/s-tui 0.6.7_pre 9999: Stress-Terminal UI monitoring tool
 app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-misc/double-commander 0.7.8: Cross Platform file manager.
 app-office/hibiscus 2.7.0: Official prebuilt nightly HBCI Plugin for Jameica
@@ -16,6 +17,7 @@ dev-util/bluegriffon-bin 2.3.1: The next-generation Web Editor based on the rend
 dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
+games-util/ds4drv 0.5.1 9999: A Sony DualShock 4 userspace driver for Linux
 kde-misc/kde-services 3.0.1: kde-service multifunction
 kde-misc/ksmoothdock 5.6 5.7: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-plugins/kodi-pvr-hts 3.4.24 4.0.7: Tvheadend Live TV and Radio PVR client addon for Kodi
