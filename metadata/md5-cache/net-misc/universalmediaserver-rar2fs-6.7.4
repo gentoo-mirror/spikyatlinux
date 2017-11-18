@@ -1,13 +1,13 @@
 DEFINED_PHASES=install postinst prepare
 DEPEND=app-arch/unzip
-DESCRIPTION=Universal Media Server is a DLNA-compliant UPnP Media Server.
+DESCRIPTION=Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
 EAPI=6
 HOMEPAGE=http://www.universalmediaserver.com/
-IUSE=+dcraw +ffmpeg +libmediainfo +libzen +mplayer multiuser tsmuxer +vlc
+IUSE=+dcraw +ffmpeg +libmediainfo +libzen +mplayer +rar2fs +multiuser tsmuxer +vlc
 KEYWORDS=~amd64 ~x86 ~arm64
 LICENSE=GPL-2
-RDEPEND=>=virtual/jre-1.8.0 dcraw? ( media-gfx/dcraw ) ffmpeg? ( media-video/ffmpeg[encode] ) libmediainfo? ( media-libs/libmediainfo ) libzen? ( media-libs/libzen ) mplayer? ( media-video/mplayer[encode] ) tsmuxer? ( media-video/tsmuxer ) vlc? ( media-video/vlc[encode] )
+RDEPEND=>=virtual/jre-1.8.0 dcraw? ( media-gfx/dcraw ) ffmpeg? ( media-video/ffmpeg[encode] ) libmediainfo? ( media-libs/libmediainfo ) libzen? ( media-libs/libzen ) mplayer? ( media-video/mplayer[encode] ) rar2fs? ( sys-fs/rar2fs ) tsmuxer? ( media-video/tsmuxer ) vlc? ( media-video/vlc[encode] )
 SLOT=0
 SRC_URI=mirror://sourceforge/project/unimediaserver/Official%20Releases/Linux/UMS-6.7.4.tgz
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=a4353ab5d650e062914fe281356e0970
+_md5_=ffa3208be39dab5e946b4ecccfcd3fb8
