@@ -1,0 +1,10 @@
+# Copyright 1999-2017 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+
+UMS_USER=$USER
+UMS_GROUP=$USER
+UMS_PIDFILE=/var/run/ums.pid
+# Mountpoint for rarfs
+VIDDIR=/mnt/Filme
+# Path where your movies exists example
+MOVDIR=/MultiMedia
