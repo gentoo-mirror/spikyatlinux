@@ -31,7 +31,7 @@ net-misc/megasync 3.1.4.0 3.1.4.0-r1: Automated syncing between your computers a
 net-misc/universalmediaserver-rar2fs 6.7.4: Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
 net-proxy/dansguardian 2.12.0.3-r3: Web content filtering via proxy
 sys-apps/bleachbit 9999: Clean junk to free disk space and to maintain privacy
-sys-boot/multibootusb 8.8.0: Boot multiple live Linux distros from an USB flash drive
+sys-boot/multibootusb 8.8.0 8.9.0: Boot multiple live Linux distros from an USB flash drive
 sys-fs/fuse 3.1.0-r1: An interface for filesystems implemented in userspace
 sys-fs/rar2fs 1.25.2-r1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
 www-apps/nextcloud 12.0.1 12.0.2: Personal cloud that runs on your own server
