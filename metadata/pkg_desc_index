@@ -39,4 +39,3 @@ www-apps/ocs-url 3.0.2: An install helper program for items served via OpenColla
 www-apps/ocsstore 2.1.0 2.1.1 2.2.0 2.2.1: An opendesktop.org application.
 www-apps/rutorrent 3.7-r1 3.8 9999: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 www-client/uget 2.0.9: Download manager using gtk+ and libcurl
-x11-wm/lumina 1.3.0 1.3.0-r1: Lumina desktop environment
