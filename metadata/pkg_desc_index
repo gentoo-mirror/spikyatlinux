@@ -1,5 +1,5 @@
 app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
-app-admin/webmin 1.850 1.860: A web-based Unix systems administration interface
+app-admin/webmin 1.850 1.860 1.870: A web-based Unix systems administration interface
 app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
 app-arch/wimlib 1.12.0: The open source Windows Imaging (WIM) library
 app-backup/prebackup 1.1: Organize your directories before a backup
@@ -38,4 +38,5 @@ www-apps/nextcloud 12.0.1 12.0.2: Personal cloud that runs on your own server
 www-apps/ocs-url 3.0.2: An install helper program for items served via OpenCollaborationServices (OCS).
 www-apps/ocsstore 2.1.0 2.1.1 2.2.0 2.2.1: An opendesktop.org application.
 www-apps/rutorrent 3.7-r1 3.8 9999: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+www-client/firefox 56.0: Firefox Web Browser
 www-client/uget 2.0.9: Download manager using gtk+ and libcurl
