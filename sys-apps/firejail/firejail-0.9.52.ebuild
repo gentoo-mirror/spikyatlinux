@@ -12,7 +12,7 @@ SRC_URI="mirror://sourceforge/${PN}/${P}.tar.xz"
 LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
-IUSE="apparmor +bind +chroot +contrib +file-transfer +network
+IUSE="apparmor +bind +chroot contrib +file-transfer +network
 	network-restricted +seccomp +userns x11"
 
 DEPEND="!sys-apps/firejail-lts
