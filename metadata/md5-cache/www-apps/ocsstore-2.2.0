@@ -9,5 +9,5 @@ RDEPEND=dev-qt/qtsvg:5 dev-qt/qtdeclarative:5 dev-qt/qtwebsockets dev-qt/qtquick
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://dl.opendesktop.org/api/files/download/id/1502985368/ocsstore_2.2.0-0ubuntu1_amd64.deb
-_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af	unpacker	f40f7b4bd5aa88c2a4ba7b0d1e0ded70
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	unpacker	f40f7b4bd5aa88c2a4ba7b0d1e0ded70
 _md5_=ac358e7a062879366b638744b2e3db73
