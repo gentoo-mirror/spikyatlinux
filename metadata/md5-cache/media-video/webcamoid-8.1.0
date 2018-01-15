@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure install prepare
+DEPEND=dev-qt/qtcore:5 dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtmultimedia:5 dev-qt/qtnetwork:5 dev-qt/qtopengl:5 dev-qt/qtwidgets:5 >=media-libs/gstreamer-1.6.0 >=media-video/ffmpeg-3.1.0:= media-libs/libv4l jack? ( virtual/jack ) pulseaudio? ( media-sound/pulseaudio ) >=sys-kernel/linux-headers-3.6 virtual/pkgconfig doc? ( dev-qt/qdoc )
+DESCRIPTION=A full featured webcam capture application
+EAPI=6
+HOMEPAGE=https://webcamoid.github.io
+IUSE=doc headers jack pulseaudio
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-qt/qtcore:5 dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtmultimedia:5 dev-qt/qtnetwork:5 dev-qt/qtopengl:5 dev-qt/qtwidgets:5 >=media-libs/gstreamer-1.6.0 >=media-video/ffmpeg-3.1.0:= media-libs/libv4l jack? ( virtual/jack ) pulseaudio? ( media-sound/pulseaudio )
+SLOT=0
+SRC_URI=https://github.com/webcamoid/webcamoid/archive/8.1.0.tar.gz -> webcamoid-8.1.0.tar.gz
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	l10n	07318ed5f26525a9d302ca87d20b2865	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	versionator	ce21313503c41896ebcd7d58b0607e37
+_md5_=e6327740a80c34e8824a53335d472a7a
