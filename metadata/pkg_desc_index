@@ -13,7 +13,6 @@ dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 kde-misc/kde-services 3.0.1: kde-service multifunction
 kde-misc/ksmoothdock 5.6 5.7: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-media-plugins/kodi-pvr-hts 3.4.24: Tvheadend Live TV and Radio PVR client addon for Kodi
 media-video/handbrake 1.0.7-r1: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
 media-video/webcamoid 7.2.0: qt5 Webcamoid, the full webcam and multimedia suite.
 net-misc/megasync 3.1.4.0: Automated syncing between your computers and your MEGA cloud drive
