@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-forensics/chkrootkit:cron - Install cron script for weekly rootkit scans
 app-portage/showbuild:tailf - use tailf from sys-apps/util-linux instead of 'tail -f' from sys-apps/coreutils
 net-proxy/dansguardian:avast - Enable support for the AvastD content scanner.
 net-proxy/dansguardian:backtrace - Enable logging a backtrace when a segmentation fault occurs.

@@ -1,7 +1,4 @@
-app-backup/prebackup 1.1: Organize your directories before a backup
-app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
-app-forensics/chkrootkit 0.52: Tool to locally check for signs of a rootkit
-app-forensics/lynis 2.5.7: Security and system auditing tool
+app-cdr/isomd5sum 1.1.0 1.2.3: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-office/hibiscus 2.7.0: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.7.0: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
@@ -10,13 +7,7 @@ dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP 
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/bluegriffon-bin 2.3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/meld 1.8.6: A graphical diff and merge tool
-dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
-kde-misc/kde-services 3.0.1: kde-service multifunction
-kde-misc/ksmoothdock 5.6 5.7 5.8: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-media-video/handbrake 1.0.7-r1: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
-media-video/webcamoid 7.2.0: qt5 Webcamoid, the full webcam and multimedia suite.
+kde-misc/ksmoothdock 5.9: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 net-proxy/dansguardian 2.12.0.3-r3: Web content filtering via proxy
 sys-block/gparted 0.31.0: Gnome Partition Editor
-sys-fs/rar2fs 1.25.2-r1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
-www-apps/rutorrent 3.7-r1: ruTorrent is a front-end for the popular Bittorrent client rTorrent
-www-client/waterfox-bin 56.0.4: Download manager using gtk+ and libcurl
+sys-fs/rar2fs 1.25.2-r1 1.27.0: A FUSE based filesystem that can mount one or multiple RAR archive(s)
