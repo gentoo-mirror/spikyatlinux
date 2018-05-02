@@ -12,7 +12,7 @@ SLOT="0"
 
 inherit eutils
 
-KEYWORDS="amd64 ~mips x86"
+KEYWORDS="~amd64 ~x86"
 
 RDEPEND=">=kde-frameworks/oxygen-icons-5.21:5"
 DEPEND="${RDEPEND}
@@ -25,7 +25,6 @@ DEPEND="${RDEPEND}
     app-crypt/gnupg
     app-misc/mc
     app-text/ghostscript-gpl
-    app-text/pdftk
     app-text/poppler
     app-text/recode
     dev-haskell/iproute

@@ -7,8 +7,7 @@ inherit meson multilib-minimal
 
 DESCRIPTION="An interface for filesystems implemented in userspace"
 HOMEPAGE="https://github.com/libfuse/libfuse"
-SRC_URI="https://github.com/libfuse/libfuse/releases/download/${P}/${P}.tar.gz"
-
+SRC_URI="https://github.com/libfuse/libfuse/archive/${P}/${P}.tar.gz"
 LICENSE="GPL-2 LGPL-2.1"
 SLOT="3"
 KEYWORDS="~amd64"

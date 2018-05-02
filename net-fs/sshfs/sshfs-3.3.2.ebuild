@@ -5,8 +5,7 @@ EAPI=6
 
 DESCRIPTION="Fuse-filesystem utilizing the sftp service"
 HOMEPAGE="https://github.com/libfuse/sshfs"
-SRC_URI="https://github.com/libfuse/${PN}/releases/download/${P}/${P}.tar.gz"
-
+SRC_URI="https://github.com/libfuse/${PN}/archive/${PN}-${PV}.tar.gz"
 LICENSE="GPL-2"
 KEYWORDS="~amd64 ~arm ~hppa ~ppc ~ppc64 ~x86 ~x86-fbsd ~amd64-linux ~arm-linux ~x86-linux"
 SLOT="0"
