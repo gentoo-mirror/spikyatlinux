@@ -8,7 +8,7 @@ inherit git-r3 autotools eutils
 DESCRIPTION="KSmoothDock is a dock program for KDE with smooth parabolic zooming"
 HOMEPAGE="https://store.kde.org/p/1081169/"
 EGIT_REPO_URI="https://github.com/dangvd/ksmoothdock.git"
-EGIT_COMMIT="3c31d8843f248a0d0b82804a0b94b15f1d2c7e2c"
+EGIT_COMMIT="ce4c3887e7c32843b39a9f84d23019b8cc4ea916"
 
 LICENSE="GPL"
 SLOT="0"
@@ -27,6 +27,6 @@ src_configure() {
 src_install() {
 	insinto /usr/bin
 	dobin ksmoothdock
-    domenu "${FILESDIR}/ksmoothdock.desktop"
+	domenu "${FILESDIR}/ksmoothdock.desktop"
 }
 
