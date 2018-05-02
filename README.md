@@ -1,5 +1,5 @@
 #
-# Copyright 2016-2017 SpikyAtLinux
+# Copyright 2016-2018 SpikyAtLinux
 #
 # +-+-+-+-+-+-+ +-+-+-+-+-+-+
 # |G|e|n|t|o|o| |6|4|-|B|i|t|
