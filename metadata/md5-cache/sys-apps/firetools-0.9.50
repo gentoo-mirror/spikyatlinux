@@ -10,5 +10,5 @@ RDEPEND=|| ( sys-apps/firejail sys-apps/firejail-lts ) qt4? ( dev-qt/qtcore:4 de
 REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
 SRC_URI=https://github.com/netblue30/firetools/archive/0.9.50.tar.gz -> firetools-0.9.50.tar.gz
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
 _md5_=cc968f137edf5947c1b9905e14b1e561
