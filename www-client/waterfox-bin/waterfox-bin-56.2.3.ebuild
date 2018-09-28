@@ -63,7 +63,7 @@ src_install() {
 	done
 	# Install a 48x48 icon into /usr/share/pixmaps for legacy DEs:
 	newicon "${S}"/browser/chrome/icons/default/default48.png ${PN}.png
-	domenu "${FILESDIR}"/icon/${PN}.desktop
+	#domenu "${FILESDIR}"/icon/${PN}.desktop
 
     make_desktop_entry ${PN} "Waterfox Web Browser" ${PN} "Network;WebBrowser;"
 
