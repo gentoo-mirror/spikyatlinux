@@ -3,19 +3,18 @@
 
 EAPI=5
 
-inherit eutils
+inherit eutils git-r3
 
 DESCRIPTION="/etc/portage cleaner"
 HOMEPAGE="https://github.com/megabaks/portconf"
-SRC_URI="https://github.com/megabaks/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
+EGIT_REPO_URI="git://github.com/megabaks/${PN}.git -> ${P}.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~arm ~amd64 ~x86"
 IUSE=""
-RESTRICT="mirror"
 
-DEPEND="app-shells/bash:=
+DEPEND="app-shells/bash
 		sys-apps/portage"
 RDEPEND="${DEPEND}
 		app-portage/eix
@@ -23,8 +22,10 @@ RDEPEND="${DEPEND}
 		sys-apps/gawk
 		app-text/agrep"
 
+S="${WORKDIR}"
+
 src_install(){
 	insinto /etc/
-	newins portconf.conf portconf.conf
-	dosbin portconf
+	newins $S/${P}/portconf.conf portconf.conf
+	dosbin $S/${P}/portconf
 }
