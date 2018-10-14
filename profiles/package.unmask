@@ -1,1 +1,3 @@
-=app-emulation/q4wine-1.3.5-r1
+>=app-emulation/q4wine-1.3.5-r1
+>=sys-fs/fuse-3.2.6
+>=net-fs/sshfs-3.5.0
