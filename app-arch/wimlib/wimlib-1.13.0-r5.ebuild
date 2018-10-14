@@ -11,7 +11,7 @@ else
 	inherit vcs-snapshot
 	MY_PV="${PV/_/-}"
 	MY_PV="${MY_PV^^}"
-	SRC_URI="https://wimlib.net/downloads/${PN}-${MY_PV}-BETA2.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://wimlib.net/downloads/${PN}-${MY_PV}-BETA5.tar.gz -> ${P}-r5.tar.gz"
 	RESTRICT="primaryuri"
 	KEYWORDS="~amd64 ~x86"
 fi
