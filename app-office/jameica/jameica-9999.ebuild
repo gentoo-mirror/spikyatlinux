@@ -5,14 +5,14 @@ EAPI="6"
 
 DESCRIPTION="Official prebuilt nightly Jameica Online Banking Software, written in Java"
 HOMEPAGE="http://www.jameica.org"
-SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux-${PV}-nightly.zip
+SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux-2.9.0-nightly.zip
 			-> ${P}.zip )
 		 amd64? (
-		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-${PV}-nightly.zip
+		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-2.9.0-nightly.zip
 		 	-> ${P}-linux64.zip )"
 LICENSE="GPL"
 SLOT="0"
-KEYWORDS="~x86 amd64"
+KEYWORDS=""
 
 S="${WORKDIR}"
 
