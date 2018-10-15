@@ -8,7 +8,7 @@ Type=simple
 User=%I
 EnvironmentFile=/etc/conf.d/universalmediaserver-rar2fs
 ExecStartPre=/usr/bin/sudo /bin/mkdir -p $VIDDIR
-ExecStartPre=/usr/bin/sudo /usr/bin/rar2fs -o allow_other -o uid=1000 -o gid=1000 --seek-length=1 $MOVDIR $VIDDIR
+ExecStartPre=/usr/bin/sudo /usr/bin/rar2fs -o allow_other -o uid=$UMS_UID -o gid=$UMS_GROUP --seek-length=1 $MOVDIR $VIDDIR
 ExecStart=/opt/universalmediaserver-rar2fs/UMS.sh /home/%I/.config/UMS/UMS.conf ${UMS_USER:+--user} ${UMS_USER} ${UMS_GROUP:+--group} ${UMS_GROUP}
 ExecStop=/bin/umount -f $VIDDIR;rmdir $VIDDIR
 WorkingDirectory=/home/%I/.config/UMS/
