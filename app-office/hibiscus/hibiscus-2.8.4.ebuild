@@ -5,7 +5,7 @@ EAPI="6"
 
 DESCRIPTION="Official prebuilt nightly HBCI Plugin for Jameica"
 HOMEPAGE="http://jameica.org"
-SRC_URI="http://www.willuhn.de/products/hibiscus/releases/nightly/${PN}-${PV}-nightly.zip"
+SRC_URI="http://www.willuhn.de/products/${PN}/releases/2.8/${PN}-${PV}.zip"
 
 LICENSE="GPL"
 SLOT="0"
