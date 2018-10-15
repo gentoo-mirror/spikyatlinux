@@ -3,6 +3,7 @@
 
 UMS_USER=$USER
 UMS_GROUP=$USER
+UMS_UID=$(id -u $UMS_USER)
 UMS_PIDFILE=/var/run/ums.pid
 UMS_MAX_MEMORY=1280M
 # Mountpoint for rarfs

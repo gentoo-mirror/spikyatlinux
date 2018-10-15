@@ -19,5 +19,5 @@ src_install() {
 	mkdir ${D}/opt
 	mkdir ${D}/opt/jameica
 	mkdir ${D}/opt/jameica/plugins
-	unzip ${DISTDIR}/${PN}-${PV}-nightly.zip -d ${D}/opt/jameica/plugins
+	unzip ${DISTDIR}/${PN}-${PV}.zip -d ${D}/opt/jameica/plugins
 }

@@ -22,7 +22,7 @@ if [ ! -d $VIDDIR ]; then
     sudo mkdir -p $VIDDIR
 fi
     if [ -d $VIDDIR ]; then
-    sudo rar2fs -o allow_other -o uid=1000 -o gid=1000 --seek-length=1 $MOVDIR $VIDDIR
+    sudo rar2fs -o allow_other -o uid=$UMS_UID -o gid=$UMS_UID --seek-length=1 $MOVDIR $VIDDIR
 fi
 }
   
