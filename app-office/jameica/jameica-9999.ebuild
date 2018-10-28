@@ -26,9 +26,11 @@ src_install() {
 	mkdir ${D}/usr/bin
 	if use x86; then
 		unzip ${DISTDIR}/${P}.zip -d ${D}/opt/
+		echo "#!/bin/bash" >> ${D}/usr/bin/jameica
 		echo "/opt/jameica/jameica.sh" >> ${D}/usr/bin/jameica
 	elif use amd64; then
 		unzip ${DISTDIR}/${P}-linux64.zip -d ${D}/opt/
+		echo "#!/bin/bash" >> ${D}/usr/bin/jameica
 		echo "/opt/jameica/jameica.sh" >> ${D}/usr/bin/jameica
 	fi
 	chmod a+x ${D}/usr/bin/jameica
