@@ -7,4 +7,4 @@ LICENSE=GPL
 RDEPEND=app-arch/unzip >=virtual/jre-1.6.0
 SLOT=0
 SRC_URI=x86? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux-2.9.0-nightly.zip -> jameica-9999.zip ) amd64? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux64-2.9.0-nightly.zip -> jameica-9999-linux64.zip )
-_md5_=d284b7702ffa330e28052a15cf0da686
+_md5_=2c46defbf2d3b9ae0a4c87122e11823e
