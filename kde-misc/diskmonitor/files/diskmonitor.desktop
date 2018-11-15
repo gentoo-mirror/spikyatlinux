@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DisKMonitor
+GenericName=Tool to monitor SMART devices and MDRaid health status
+Comment=Tool to monitor SMART devices and MDRaid health status
+Exec=diskmonitor
+Terminal=false
+Icon=/usr/share/icons/diskmonitor.svg
+Type=Application
+Categories=Qt;KDE;System;
+X-KDE-SubstituteUID=true
+X-KDE-RootOnly=true
