@@ -9,5 +9,6 @@ dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the renderin
 dev-util/meld 1.8.6: A graphical diff and merge tool
 kde-misc/diskmonitor 0.3.2: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 5.11: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+media-video/cinelerra 2.3-r1: The most advanced non-linear video editor and compositor
 net-proxy/dansguardian 2.12.0.3-r3: Web content filtering via proxy
 sys-fs/rar2fs 1.27.0: A FUSE based filesystem that can mount one or multiple RAR archive(s)
