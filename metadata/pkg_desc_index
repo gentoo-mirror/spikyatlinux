@@ -1,10 +1,9 @@
 app-cdr/isomd5sum 1.1.0 1.2.3: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-emulation/q4wine 1.3.10: Qt GUI configuration tool for Wine
-app-office/hibiscus 2.8.4 2.8.6 2.8.7: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/hibiscus 2.8.7: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.2: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/meld 1.8.6: A graphical diff and merge tool
 kde-misc/diskmonitor 0.3.2: KDE tool to monitor SMART devices and MDRaid health status
