@@ -27,3 +27,11 @@ RDEPEND="
 	virtual/python-futures[${PYTHON_USEDEP}]
 	virtual/python-ipaddress[${PYTHON_USEDEP}]
 "
+
+pkg_postinst() {
+        einfo ""
+        einfo "${P} need proxy-rb and google, you can install it with pip"
+        einfo "pip3 install proxy-db google --user"
+        einfo "You find pip3 in dev-python/pip"
+        einfo ""
+}
