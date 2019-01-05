@@ -1,11 +1,11 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2019 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 
 DESCRIPTION="Epson Inkjet Printer Driver (ESC/P-R)"
 HOMEPAGE="http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX"
-SRC_URI="https://download3.ebz.epson.net/dsc/f/03/00/07/53/64/c366153bbae7cd4f77ea24d03e575b09df03a709/epson-inkjet-printer-escpr-1.6.21-1lsb3.2.tar.gz"
+SRC_URI="https://download3.ebz.epson.net/dsc/f/03/00/08/70/14/e33b7a89e843b3ac97dcab773f03fbac7769f147/epson-inkjet-printer-escpr-1.6.33-1lsb3.2.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
@@ -15,9 +15,7 @@ IUSE=""
 DEPEND="net-print/cups"
 RDEPEND="${DEPEND}"
 
-PATCHES=(
-	"${FILESDIR}/1.6.5-warnings.patch"
-)
+PATCHES=( "${FILESDIR}/1.6.5-warnings.patch" )
 
 src_configure() {
 	econf --disable-shared
