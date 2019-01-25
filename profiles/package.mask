@@ -1,0 +1,2 @@
+# Masked cause not all functions working as except.
+kde-misc/grub2-editor
