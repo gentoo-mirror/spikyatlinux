@@ -1,7 +1,7 @@
 app-cdr/isomd5sum 1.2.3: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
 app-emulation/q4wine 1.3.11: Qt GUI configuration tool for Wine
-app-office/hibiscus 2.8.8: Official prebuilt nightly HBCI Plugin for Jameica
-app-office/jameica 2.8.2: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-office/hibiscus 2.8.10: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/jameica 2.8.4: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
@@ -13,6 +13,5 @@ media-libs/avidemux-core 2.7.1: Core libraries for simple video cutting, filteri
 media-libs/avidemux-plugins 2.7.1: Plugins for the video editor media-video/avidemux
 media-video/avidemux 2.7.1: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/cinelerra 2.3-r1: The most advanced non-linear video editor and compositor
-sys-block/gparted 0.33.0: Gnome Partition Editor
 sys-fs/rar2fs 1.27.1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
 x11-misc/obmenu-generator 0.85-r1: A fast pipe/static menu generator for the Openbox Window Manager
