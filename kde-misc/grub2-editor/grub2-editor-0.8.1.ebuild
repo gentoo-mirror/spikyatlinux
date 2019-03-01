@@ -14,7 +14,7 @@ HOMEPAGE="https://github.com/maz-1/grub2-editor"
 SRC_URI="https://github.com/maz-1/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS=""
 IUSE="+hwinfo"
 
 CDEPEND="

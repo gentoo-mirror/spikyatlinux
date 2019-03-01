@@ -46,6 +46,8 @@ PDEPEND="~media-libs/avidemux-plugins-${PV}:${SLOT}[opengl?,qt5?]"
 S="${WORKDIR}/${MY_P}"
 
 src_prepare() {
+	default
+
 	processes="buildCli:avidemux/cli"
 	if use qt5 ; then
 		processes+=" buildQt4:avidemux/qt4"
@@ -79,6 +81,10 @@ src_prepare() {
 	# what the GUI can or has been built with. (Bug #463628)
 	sed -i -e '/Build Option/d' avidemux/common/ADM_commonUI/myOwnMenu.h || \
 		die "Couldn't remove \"Build Option\" dialog."
+
+	# Fix underlinking with gold
+	sed -i -e 's/{QT_QTGUI_LIBRARY}/{QT_QTGUI_LIBRARY} -lXext/' \
+		avidemux/common/ADM_render/CMakeLists.txt || die
 }
 
 src_configure() {
