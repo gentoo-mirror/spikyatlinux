@@ -14,5 +14,4 @@ media-libs/avidemux-plugins 2.7.1: Plugins for the video editor media-video/avid
 media-video/avidemux 2.7.1: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/cinelerra 2.3-r1: The most advanced non-linear video editor and compositor
 sys-fs/rar2fs 1.27.1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
-x11-misc/clipit 1.4.4: Lightweight GTK+ clipboard manager. Fork of Parcellite.
 x11-misc/obmenu-generator 0.85-r1: A fast pipe/static menu generator for the Openbox Window Manager
