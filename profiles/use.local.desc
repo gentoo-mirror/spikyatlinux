@@ -14,3 +14,5 @@ media-libs/avidemux-plugins:twolame - Enable TwoLAME support via media-sound/two
 media-libs/avidemux-plugins:vpx - Enable WebM VP8 Codec SDK support via media-libs/libvpx.
 media-libs/avidemux-plugins:x265 - Enables HEVC support with media-libs/x265.
 media-video/avidemux:nvenc - Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated encoding on NVIDIA cards.
+x11-misc/clipit:appindicator - Enable support for appindicator
+x11-misc/clipit:gtk3 - Enable GTK+ 3 support
