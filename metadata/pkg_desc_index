@@ -9,9 +9,6 @@ dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the renderin
 dev-util/meld 1.8.6: A graphical diff and merge tool
 kde-misc/diskmonitor 0.3.2: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 5.11: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-media-libs/avidemux-core 2.7.1: Core libraries for simple video cutting, filtering and encoding tasks
-media-libs/avidemux-plugins 2.7.1: Plugins for the video editor media-video/avidemux
-media-video/avidemux 2.7.1: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/cinelerra 2.3-r1: The most advanced non-linear video editor and compositor
 sys-fs/rar2fs 1.27.1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
 x11-misc/obmenu-generator 0.85-r1: A fast pipe/static menu generator for the Openbox Window Manager
