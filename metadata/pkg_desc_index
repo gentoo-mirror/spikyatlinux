@@ -3,6 +3,7 @@ app-emulation/q4wine 1.3.11: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.12: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/portconf 1.6.9: /etc/portage cleaner
+app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
