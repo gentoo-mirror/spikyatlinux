@@ -1,7 +1,8 @@
 # Copyright 1999-2018 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
+RESTRICT="mirror"
 
 if [[ ${PV} == *9999* ]] ; then
 	MY_P="${P}"
@@ -22,7 +23,7 @@ LICENSE="GPL-1 GPL-2 MIT PSF-2 public-domain"
 SLOT="2.7"
 IUSE="debug nls nvenc opengl qt5 sdl vaapi vdpau xv"
 
-COMMON_DEPEND="
+DEPEND="
 	~media-libs/avidemux-core-${PV}:${SLOT}[nls?,sdl?,vaapi?,vdpau?,xv?,nvenc?]
 	nvenc? ( amd64? ( media-video/nvidia_video_sdk:0 ) )
 	opengl? ( virtual/opengl:0 )
@@ -34,10 +35,10 @@ COMMON_DEPEND="
 	)
 	vaapi? ( x11-libs/libva:0= )
 "
-DEPEND="${COMMON_DEPEND}
+BDEPEND="
 	qt5? ( dev-qt/linguist-tools:5 )
 "
-RDEPEND="${COMMON_DEPEND}
+RDEPEND="${DEPEND}
 	nls? ( virtual/libintl:0 )
 	!<media-video/avidemux-${PV}
 "
@@ -46,6 +47,8 @@ PDEPEND="~media-libs/avidemux-plugins-${PV}:${SLOT}[opengl?,qt5?]"
 S="${WORKDIR}/${MY_P}"
 
 src_prepare() {
+	default
+
 	processes="buildCli:avidemux/cli"
 	if use qt5 ; then
 		processes+=" buildQt4:avidemux/qt4"
@@ -54,11 +57,6 @@ src_prepare() {
 	for process in ${processes} ; do
 		CMAKE_USE_DIR="${S}"/${process#*:} cmake-utils_src_prepare
 	done
-
-	# Remove "Build Option" dialog because it doesn't reflect
-	# what the GUI can or has been built with. (Bug #463628)
-	sed -i -e '/Build Option/d' avidemux/common/ADM_commonUI/myOwnMenu.h || \
-		die "Couldn't remove \"Build Option\" dialog."
 }
 
 src_configure() {
@@ -69,10 +67,6 @@ src_configure() {
 
 	# See bug 432322.
 	use x86 && replace-flags -O0 -O1
-
-	# The build relies on an avidemux-core header that uses 'nullptr'
-	# which is from >=C++11. Let's use the GCC-6 default C++ dialect.
-	append-cxxflags -std=c++14
 
 	local mycmakeargs=(
 		-DGETTEXT="$(usex nls)"
@@ -127,9 +121,6 @@ src_install() {
 		fperms +x /usr/bin/avidemux3_jobs
 	fi
 
-	cd "${S}" || die "Can't enter source folder."
-	newicon ${PN}_icon.png ${PN}-${SLOT}.png
-
 	if [[ -f "${ED}"/usr/bin/avidemux3_qt5 ]] ; then
 		fperms +x /usr/bin/avidemux3_qt5
 	fi
@@ -137,7 +128,6 @@ src_install() {
 	if [[ -f "${ED}"/usr/bin/avidemux3_jobs_qt5 ]] ; then
 		fperms +x /usr/bin/avidemux3_jobs_qt5
 	fi
-
 }
 
 pkg_postinst() {
