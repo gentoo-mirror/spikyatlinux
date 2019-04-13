@@ -1,5 +1,4 @@
 app-cdr/isomd5sum 1.2.3: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
-app-emulation/q4wine 1.3.11: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.12: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/portconf 1.6.9: /etc/portage cleaner
