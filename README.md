@@ -58,3 +58,4 @@ or if you have eix installed
     # sudo eix-update
     
 # ;-)
+[![HitCount](http://hits.dwyl.io/spikyatlinux/ebuilds_for_gentoo.svg)](http://hits.dwyl.io/spikyatlinux/ebuilds_for_gentoo)
