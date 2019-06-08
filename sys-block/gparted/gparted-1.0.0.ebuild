@@ -10,7 +10,7 @@ SRC_URI="mirror://sourceforge/${PN}/${P}.tar.gz"
 
 LICENSE="GPL-2+ FDL-1.2+"
 SLOT="0"
-KEYWORDS="amd64 ~arm ~ppc ~ppc64 x86"
+KEYWORDS="~amd64 ~arm ~ppc ~ppc64 ~x86"
 IUSE="btrfs cryptsetup dmraid f2fs fat hfs jfs kde mdadm ntfs policykit reiserfs reiser4 udf wayland xfs"
 
 COMMON_DEPEND="
@@ -22,6 +22,7 @@ COMMON_DEPEND="
 	>=dev-libs/glib-2:2
 	>=sys-block/parted-3.2:=
 	>=dev-libs/libsigc++-2.5.1:2
+	x11-libs/gtk+:3
 "
 RDEPEND="${COMMON_DEPEND}
 	>=sys-apps/util-linux-2.20
