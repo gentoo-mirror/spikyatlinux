@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Office;
-Keywords=Jameica;Hibiscus;Banking;Homebanking;Onlinebanking;HTMLUnit;Scripting;derRichter;Willuhn
+Keywords=Jameica;Hibiscus;Banking;Homebanking;Onlinebanking;HTMLUnit;Scripting;Willuhn
 Comment=Banking Software
 Comment[en_US]=Bankingapplication
 Exec=/usr/bin/jameica
