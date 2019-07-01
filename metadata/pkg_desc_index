@@ -1,44 +1,23 @@
-app-admin/remotebox 2.3: Open Source VirtualBox Client with Remote Management
-app-admin/webmin 1.881: A web-based Unix systems administration interface
-app-arch/peazip 6.4.1: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
-app-arch/wimlib 1.12.0: The open source Windows Imaging (WIM) library
-app-backup/prebackup 1.1: Organize your directories before a backup
-app-benchmarks/s-tui 0.6.7_pre 9999: Stress-Terminal UI monitoring tool
-app-cdr/isomd5sum 1.1.0 1.2.1: Provides a way of making use of the ISO9660 application data area to store md5sum data about the iso
-app-forensics/chkrootkit 0.52: Tool to locally check for signs of a rootkit
-app-forensics/lynis 2.5.7: Security and system auditing tool
-app-misc/angrysearch 1.0.1: Linux file search, instant results as you type
-app-misc/double-commander 0.7.8: Cross Platform file manager.
-app-office/hibiscus 2.7.0: Official prebuilt nightly HBCI Plugin for Jameica
-app-office/jameica 2.7.0: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-admin/webmin 1.910: A web-based Unix systems administration interface
+app-office/hibiscus 2.8.13 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-portage/portconf 1.6.9: /etc/portage cleaner
+app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
-app-shells/schily-tools 2017.09.25 2018.03.01 2018.03.16: Many tools from Joerg Schilling, including a POSIX compliant Bourne Shell
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-php/ioncube-loaders 5.1.2 6.1.0: PHP extension that support for running PHP scripts encoded with ionCube's encoder
-dev-util/apktool-bin 2.3.0: A tool for reverse engineering 3rd party, closed, binary Android apps
+dev-util/apktool-bin 2.4.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
-dev-util/bluegriffon-bin 2.3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
-dev-util/smartgit 17.0.4: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
-games-util/ds4drv 0.5.1 9999: A Sony DualShock 4 userspace driver for Linux
-kde-misc/kde-services 3.0.1: kde-service multifunction
-kde-misc/ksmoothdock 5.6 5.7 5.8: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-media-gfx/sweethome3d-bin 5.7: Sweet Home 3D is a free interior design application.
-media-video/ffmulticonverter 1.7.2 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
-media-video/handbrake 1.0.7-r1: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
-media-video/webcamoid 7.2.0 8.0.0 8.1.0: A full featured webcam capture application
-net-fs/sshfs 3.0.0: Fuse-filesystem utilizing the sftp service
-net-misc/megasync 3.6.0: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
-net-misc/universalmediaserver-rar2fs 6.7.4 6.7.4-r1: Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
-net-proxy/dansguardian 2.12.0.3-r3: Web content filtering via proxy
-sys-apps/bleachbit 9999: Clean junk to free disk space and to maintain privacy
-sys-apps/firejail 0.9.52: Security sandbox for any type of processes
-sys-apps/firetools 0.9.50: Graphical user interface of app-emulation/firejail
-sys-block/gparted 0.31.0: Gnome Partition Editor
-sys-boot/multibootusb 8.8.0 8.9.0 9.1.0: Boot multiple live Linux distros from an USB flash drive
-sys-fs/fuse 3.1.0-r1: An interface for filesystems implemented in userspace
-sys-fs/rar2fs 1.25.2-r1: A FUSE based filesystem that can mount one or multiple RAR archive(s)
-www-apps/rutorrent 3.7-r1 3.8 9999: ruTorrent is a front-end for the popular Bittorrent client rTorrent
-www-client/firefox 56.0: Firefox Web Browser
-www-client/waterfox-bin 56.0.4: Waterfox Web Browser
+kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
+kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
+kde-misc/ksmoothdock 5.12: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+media-libs/avidemux-core 2.7.3: Core libraries for simple video cutting, filtering and encoding tasks
+media-libs/avidemux-plugins 2.7.3: Plugins for the video editor media-video/avidemux
+media-video/avidemux 2.7.3: Video editor designed for simple cutting, filtering and encoding tasks
+media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
+net-misc/universalmediaserver-rar2fs 7.6.0: Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
+sys-apps/bleachbit 2.2: Clean junk to free disk space and to maintain privacy
+sys-block/gparted 1.0.0: Gnome Partition Editor
+sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
+www-client/brave-bin 0.69.18: Brave Web Browser
