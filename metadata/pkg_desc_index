@@ -5,7 +5,5 @@ app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
-dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
-kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 5.12: KSmoothDock is a dock program for KDE with smooth parabolic zooming
