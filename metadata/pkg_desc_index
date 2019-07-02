@@ -7,13 +7,3 @@ app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figle
 dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the rendering engine of Firefox
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 5.12: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-media-libs/avidemux-core 2.7.3: Core libraries for simple video cutting, filtering and encoding tasks
-media-libs/avidemux-plugins 2.7.3: Plugins for the video editor media-video/avidemux
-media-video/avidemux 2.7.3: Video editor designed for simple cutting, filtering and encoding tasks
-media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
-net-misc/universalmediaserver-rar2fs 7.6.0: Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
-sys-apps/bleachbit 2.2: Clean junk to free disk space and to maintain privacy
-sys-block/gparted 1.0.0: Gnome Partition Editor
-sys-boot/multibootusb 9.2.0: Boot multiple live Linux distros from an USB flash drive
-sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
-www-client/brave-bin 0.69.18: Brave Web Browser
