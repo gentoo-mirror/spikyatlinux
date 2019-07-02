@@ -1,7 +1,7 @@
 # Copyright 1999-2018 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 
 BRAVE_PN="${PN/-bin/}"
 
@@ -13,7 +13,7 @@ CHROMIUM_LANGS="
 
 inherit chromium-2 xdg-utils
 
-DESCRIPTION="Brave Web Browser"
+DESCRIPTION="Brave Web Browser, nightly version."
 HOMEPAGE="https://brave.com"
 SRC_URI="https://github.com/brave/brave-browser/releases/download/v${PV}/brave-v${PV}-linux-x64.zip -> ${P}.zip"
 
