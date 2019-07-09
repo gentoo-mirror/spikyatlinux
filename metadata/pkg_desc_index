@@ -1,6 +1,3 @@
-app-admin/webmin 1.920: A web-based Unix systems administration interface
-app-office/hibiscus 2.8.13 9999: Official prebuilt nightly HBCI Plugin for Jameica
-app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
