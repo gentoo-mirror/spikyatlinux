@@ -1,4 +1,5 @@
 app-admin/webmin 1.920: A web-based Unix systems administration interface
+app-emulation/q4wine 1.3.11-r1: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.13 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/portconf 1.6.9: /etc/portage cleaner
@@ -10,7 +11,7 @@ dev-util/bluegriffon 3.0.1: The next-generation Web Editor based on the renderin
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
-kde-misc/ksmoothdock 5.12: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+kde-misc/ksmoothdock 5.14: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-libs/avidemux-core 2.7.3: Core libraries for simple video cutting, filtering and encoding tasks
 media-libs/avidemux-plugins 2.7.3: Plugins for the video editor media-video/avidemux
