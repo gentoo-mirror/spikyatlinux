@@ -12,7 +12,7 @@ SRC_URI="mirror://sourceforge/project/unimediaserver/Official%20Releases/Linux/U
 LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86 ~arm64"
-IUSE="+dcraw +ffmpeg +libmediainfo +libzen mplayer +rar2fs +multiuser tsmuxer +vlc systemd"
+IUSE="dcraw ffmpeg libmediainfo libzen mplayer +rar2fs +multiuser tsmuxer vlc systemd"
 
 DEPEND="app-arch/unzip"
 RDEPEND=">=virtual/jre-1.8.0
