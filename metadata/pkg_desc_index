@@ -18,7 +18,6 @@ media-libs/avidemux-core 2.7.3: Core libraries for simple video cutting, filteri
 media-libs/avidemux-plugins 2.7.3: Plugins for the video editor media-video/avidemux
 media-video/avidemux 2.7.3: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
-net-misc/universalmediaserver-rar2fs 8.2.0: Universal Media Server is a DLNA-compliant UPnP Media Server, with rar2fs support
 sys-apps/bleachbit 2.2: Clean junk to free disk space and to maintain privacy
 sys-block/gparted 1.0.0: Gnome Partition Editor
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
