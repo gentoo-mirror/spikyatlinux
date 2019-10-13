@@ -1,0 +1,13 @@
+BDEPEND=dev-vcs/git >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install postinst postrm prepare unpack
+DEPEND=>=dev-qt/qtcore-5.2.0:5 >=dev-qt/qtdeclarative-5.2.0:5 >=dev-qt/qtquickcontrols-5.2.0:5 >=dev-qt/qtsvg-5.2.0:5
+DESCRIPTION=A program enabling web-installation of items via OpenCollaborationServices
+EAPI=7
+HOMEPAGE=https://opendesktop.org/p/1136805
+LICENSE=GPL-3+
+PROPERTIES=live
+RDEPEND=>=dev-qt/qtcore-5.2.0:5 >=dev-qt/qtdeclarative-5.2.0:5 >=dev-qt/qtquickcontrols-5.2.0:5 >=dev-qt/qtsvg-5.2.0:5
+RESTRICT=network-sandbox
+SLOT=0
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=9fed59d94e0997ae8461c64c839629c2
