@@ -20,7 +20,9 @@ media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 sys-apps/bleachbit 2.2: Clean junk to free disk space and to maintain privacy
 sys-block/gparted 1.0.0: Gnome Partition Editor
+sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
+x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
