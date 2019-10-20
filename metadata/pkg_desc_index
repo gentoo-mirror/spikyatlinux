@@ -1,4 +1,5 @@
 app-admin/webmin 1.930: A web-based Unix systems administration interface
+app-backup/backintime 1.2.1: Backup system inspired by TimeVault and FlyBack
 app-benchmarks/s-tui 0.8.3: Stress-Terminal UI monitoring tool
 app-office/hibiscus 2.8.18 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
