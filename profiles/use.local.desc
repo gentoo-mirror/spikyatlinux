@@ -2,7 +2,6 @@
 # your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using egencache *
 
-dev-db/phpmyadmin:setup - Installs the phpMyAdmin setup utility. Users who don't use the utility should disable this USE flag for security reasons as the setup tool was the target of various exploits in the past.
 www-client/ungoogled-chromium:cfi - Build with CFI (Control Flow Integrity) enabled (recommended).
 www-client/ungoogled-chromium:clang - Use Clang compiler instead of GCC
 www-client/ungoogled-chromium:closure-compile - Enable closure type-checking for Chrome's web technology-based UI. Requires Java and bundled binary compiler.jar in sources tree
