@@ -1,0 +1,33 @@
+# ChangeLog for dev-util/platform-tools
+# Copyright 1999-2019 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*platform-tools-9999 (12 May 2019)
+
+  12 May 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/72platformtools-env.d, +platform-tools-9999.ebuild:
+  Updated '2019-05-12'...
+
+  09 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/72platformtools-env.d, -platform-tools-9999.ebuild:
+  Updated '2019-04-09'...
+
+*platform-tools-9999 (17 Oct 2017)
+
+  17 Oct 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  -platform-tools-1.0.39-r1.ebuild, +platform-tools-9999.ebuild:
+  Some cleanup
+
+*platform-tools-1.0.39-r1 (06 Jun 2017)
+
+  06 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  -platform-tools-1.0.39.ebuild, +platform-tools-1.0.39-r1.ebuild:
+  Fix typo in platform-tools same as android-tools, but latest versions
+  without sdk from google
+
+*platform-tools-1.0.39 (05 Jun 2017)
+
+  05 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/72platformtools-env.d, +platform-tools-1.0.39.ebuild:
+  Updated all
+

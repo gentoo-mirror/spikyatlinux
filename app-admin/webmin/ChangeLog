@@ -1,0 +1,79 @@
+# ChangeLog for app-admin/webmin
+# Copyright 1999-2019 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*webmin-1.930 (08 Sep 2019)
+
+  08 Sep 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.920, +files/gentoo-setup-1.930, -webmin-1.920.ebuild,
+  +webmin-1.930.ebuild:
+  Some fixes
+
+*webmin-1.920 (09 Jul 2019)
+
+  09 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.910, +files/gentoo-setup-1.920, -webmin-1.910.ebuild,
+  +webmin-1.920.ebuild:
+  Add app-admin/webmin-1.9.20
+
+*webmin-1.910 (01 Jul 2019)
+
+  01 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.900, +files/gentoo-setup-1.910, -webmin-1.900.ebuild,
+  +webmin-1.910.ebuild:
+  Updated '2019-07-01'...
+
+*webmin-1.900 (05 Jan 2019)
+
+  05 Jan 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.850, -files/gentoo-setup-1.860,
+  -files/gentoo-setup-1.890, +files/gentoo-setup-1.900, -webmin-1.890.ebuild,
+  +webmin-1.900.ebuild:
+  Updated '2019-01-05'...
+
+  28 Sep 2018; SpikyAtLinux <spikyatlinux@gmail.com> webmin-1.890.ebuild:
+  Updated '2018-09-28'...
+
+*webmin-1.890 (05 Aug 2018)
+
+  05 Aug 2018; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/gentoo-setup-1.890, -webmin-1.881.ebuild, +webmin-1.890.ebuild:
+  Updated '2018-08-05'...
+
+*webmin-1.881 (22 Mar 2018)
+
+  22 Mar 2018; SpikyAtLinux <spikyatlinux@gmail.com> -webmin-1.850.ebuild,
+  -webmin-1.860.ebuild, -webmin-1.870.ebuild, +webmin-1.881.ebuild:
+  Some fixes
+
+*webmin-1.870 (12 Dec 2017)
+
+  12 Dec 2017; SpikyAtLinux <spikyatlinux@gmail.com> +webmin-1.870.ebuild:
+  Add+remove some ebuild
+
+  09 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> webmin-1.860.ebuild:
+  Updated dev-util/apktool-bin to v2.3.0
+
+*webmin-1.860 (09 Nov 2017)
+
+  09 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/gentoo-setup-1.860, +webmin-1.860.ebuild:
+  Updated app-admin/webmin to v1.860
+
+  31 Aug 2017; SpikyAtLinux <spikyatlinux@gmail.com> files/init.d.webmin:
+  Small changes in webmin init.d service
+
+*webmin-1.850 (01 Jul 2017)
+
+  01 Jul 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.840, +files/gentoo-setup-1.850, -webmin-1.840.ebuild,
+  +webmin-1.850.ebuild:
+  Updated to latest webmin v1.850
+
+*webmin-1.840 (01 Jul 2017)
+
+  01 Jul 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/gentoo-setup-1.840, +files/init.d.webmin, +files/webmin.service,
+  +webmin-1.840.ebuild:
+  add app-admin/webmin v1.840
+
