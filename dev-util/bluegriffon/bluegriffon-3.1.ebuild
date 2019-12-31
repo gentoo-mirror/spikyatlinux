@@ -1,7 +1,7 @@
 # Copyright 1999-2010 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI="6"
+EAPI="7"
 
 inherit eutils
 
@@ -9,10 +9,10 @@ MY_PN="bluegriffon"
 
 DESCRIPTION="The next-generation Web Editor based on the rendering engine of Firefox"
 HOMEPAGE="http://www.bluegriffon.org/"
-SRC_URI="http://bluegriffon.org/freshmeat/${PV}/${PN}-${PV}.Ubuntu16.04-x86_64.tar.bz2"
+SRC_URI="http://bluegriffon.org/freshmeat/${PV}/${PN}-${PV}.Ubuntu18.04-x86_64.tar.bz2"
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 ~x86"
+KEYWORDS="~amd64"
 
 RDEPEND="
 	app-misc/mime-types
