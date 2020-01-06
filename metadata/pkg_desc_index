@@ -13,7 +13,7 @@ dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering 
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
-kde-misc/ksmoothdock 6.1: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
@@ -22,4 +22,5 @@ sys-boot/etcher 1.5.60: Flash OS images to SD cards & USB drives, safely and eas
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
+x11-themes/nx-plasma-look-and-feel 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
