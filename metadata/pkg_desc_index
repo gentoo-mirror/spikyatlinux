@@ -19,6 +19,7 @@ media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 sys-apps/osinfo-db 20191125: osinfo database files
 sys-apps/osinfo-db-tools 1.7.0: Tools for managing the osinfo database
+sys-block/gparted 1.1.0: Gnome Partition Editor
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.60: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
