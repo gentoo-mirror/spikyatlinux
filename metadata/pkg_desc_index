@@ -1,6 +1,8 @@
 app-admin/webmin 1.940: A web-based Unix systems administration interface
 app-backup/backintime 1.2.1: Backup system inspired by TimeVault and FlyBack
 app-benchmarks/s-tui 0.8.3: Stress-Terminal UI monitoring tool
+app-emulation/libguestfs 1.41.5: Tools for accessing, inspect and modifying virtual machine (VM) disk images
+app-emulation/libguestfs-appliance 1.41.5: VM appliance disk image used in libguestfs package
 app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/find_cruft 5.1: find cruft files not managed by portage
