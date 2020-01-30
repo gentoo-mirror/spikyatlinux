@@ -20,6 +20,7 @@ RDEPEND="
 	>=dev-libs/libxml2-2.6.0
 	>=dev-util/meson-0.50.0
 	>=app-arch/libarchive-3.0.0:=
+        >=net-libs/libsoup-2.4
 	dev-libs/json-glib
 	!<sys-libs/libosinfo-1.0.0
 "
