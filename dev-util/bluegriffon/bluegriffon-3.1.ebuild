@@ -12,7 +12,7 @@ HOMEPAGE="http://www.bluegriffon.org/"
 SRC_URI="http://bluegriffon.org/freshmeat/${PV}/${PN}-${PV}.Ubuntu18.04-x86_64.tar.bz2"
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="amd64"
 
 RDEPEND="
 	app-misc/mime-types

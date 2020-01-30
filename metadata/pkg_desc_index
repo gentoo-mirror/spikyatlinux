@@ -19,14 +19,11 @@ kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth para
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
-sys-apps/osinfo-db 20191125: osinfo database files
-sys-apps/osinfo-db-tools 1.7.0: Tools for managing the osinfo database
 sys-block/gparted 1.1.0: Gnome Partition Editor
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.60: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
-sys-libs/libosinfo 1.7.1: GObject library for managing information about real and virtual OSes
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/obmenu-generator 0.87-r1: A fast pipe/static menu generator for the Openbox Window Manager
 x11-themes/nx-plasma-look-and-feel 9999: NX Look and Feel package.
