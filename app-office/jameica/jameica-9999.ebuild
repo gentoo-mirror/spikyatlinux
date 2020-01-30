@@ -18,7 +18,8 @@ S="${WORKDIR}"
 
 DEPEND="app-arch/unzip"
 RDEPEND="${DEPEND}
->=virtual/jre-1.6.0"
+>=virtual/jre-1.6.0
+app-office/hibiscus"
 
 src_install() {
 	mkdir ${D}/opt
