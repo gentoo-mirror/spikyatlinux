@@ -18,7 +18,6 @@ kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth para
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
-sys-block/gparted 1.1.0: Gnome Partition Editor
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.60: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
