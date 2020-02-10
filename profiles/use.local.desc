@@ -27,3 +27,4 @@ dev-db/mariadb:systemtap - Build support for profiling and tracing using dev-uti
 dev-db/mariadb:test - Install upstream testsuites for end use.
 dev-db/mariadb:tokudb - Add support for TokuDB storage engine
 dev-db/mariadb:yassl - Enable SSL connections and crypto functions using the bundled yaSSL
+media-video/avidemux:nvenc - Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated encoding on NVIDIA cards.

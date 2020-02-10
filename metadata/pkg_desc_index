@@ -16,6 +16,7 @@ kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma writ
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
+media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
 net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
