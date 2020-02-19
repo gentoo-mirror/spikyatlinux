@@ -24,6 +24,7 @@ sys-boot/etcher 1.5.60: Flash OS images to SD cards & USB drives, safely and eas
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
+x11-misc/gmrun 1.0.2: A GTK based launcher box with bash style auto completion!
 x11-misc/obmenu-generator 0.87-r1: A fast pipe/static menu generator for the Openbox Window Manager
-x11-themes/nx-plasma-look-and-feel 9999: NX Look and Feel package.
+x11-themes/nx-plasma-look-and-feel 1.6.31 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)

@@ -8,11 +8,11 @@ inherit git-r3 autotools eutils
 DESCRIPTION="NX Look and Feel package."
 HOMEPAGE="https://github.com/nx-desktop/nx-plasma-look-and-feel"
 EGIT_REPO_URI="https://github.com/nx-desktop/nx-plasma-look-and-feel.git"
-#EGIT_COMMIT="17ecc24fe58666cf68109ddb92506c9b2cb4fc41"
+EGIT_COMMIT="4fdf28c360bea3ffd9f9c19100836c703189847c"
 
 LICENSE="GPL"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 S="${S}/"
