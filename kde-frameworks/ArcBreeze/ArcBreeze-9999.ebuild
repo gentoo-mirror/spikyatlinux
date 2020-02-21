@@ -5,10 +5,10 @@ EAPI=7
 
 inherit git-r3 autotools eutils
 
-DESCRIPTION="OSX-like window decoration for KDE Plasma written in C++ "
+DESCRIPTION="A Arc theme KDecoration2 theme based on SierraBreeze. "
 HOMEPAGE="https://github.com/ishovkun/SierraBreeze"
-EGIT_REPO_URI="https://github.com/ishovkun/SierraBreeze.git"
-EGIT_COMMIT="0e132fa46871283265c4f0e22e7bb04d8ee7553e"
+EGIT_REPO_URI="https://github.com/matricci/ArcBreeze.git"
+EGIT_COMMIT="d76aa7aeaefb40de086708500f26b3cf94de5988"
 
 LICENSE="GPL"
 SLOT="0"

@@ -1,0 +1,10 @@
+# ChangeLog for x11-misc/gmrun
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*gmrun-1.0.2 (19 Feb 2020)
+
+  19 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> +gmrun-1.0.2.ebuild,
+  +metadata.xml:
+  Updated '2020-02-19'...
+
