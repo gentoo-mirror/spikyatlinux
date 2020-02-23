@@ -1,0 +1,20 @@
+--- a/breeze.json	2020-02-23 15:43:10.824103112 +0100
++++ b/breeze.json	2020-02-23 15:45:27.858709220 +0100
+@@ -38,7 +38,7 @@
+         "Description[zh_TW]": "使用 Plasma 桌面 Breeze 視覺樣式的視窗裝飾",
+         "EnabledByDefault": true,
+         "Id": "org.kde.ArcBreeze",
+-        "Name": "Sierra Breeze",
++        "Name": "Arc Breeze",
+         "Name[ar]": "نسيم",
+         "Name[ca@valencia]": "Arc Breeze",
+         "Name[ca]": "Arc Breeze",
+@@ -63,7 +63,7 @@
+     },
+     "org.kde.kdecoration2": {
+         "blur": true,
+-        "defaultTheme": "Breeze Sierra",
++        "defaultTheme": "Breeze Arc",
+         "kcmodule": true
+     }
+ }

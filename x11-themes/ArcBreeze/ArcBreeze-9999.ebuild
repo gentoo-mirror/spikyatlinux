@@ -5,10 +5,10 @@ EAPI=7
 
 inherit git-r3 cmake-utils autotools eutils
 
-DESCRIPTION="NX Look and Feel package."
-HOMEPAGE="https://github.com/nx-desktop/nx-plasma-look-and-feel"
-EGIT_REPO_URI="https://github.com/nx-desktop/nx-plasma-look-and-feel.git"
-#EGIT_COMMIT="17ecc24fe58666cf68109ddb92506c9b2cb4fc41"
+DESCRIPTION="A Arc theme KDecoration2 theme based on SierraBreeze. "
+HOMEPAGE="https://github.com/matricci/ArcBreeze"
+EGIT_REPO_URI="https://github.com/matricci/ArcBreeze.git"
+EGIT_COMMIT="d76aa7aeaefb40de086708500f26b3cf94de5988"
 
 LICENSE="GPL"
 SLOT="0"
@@ -22,6 +22,7 @@ DEPEND="${RDEPEND}"
 
 src_prepare(){
 		cmake-utils_src_prepare
+		eapply "${FILESDIR}"/${PN}-naming.patch
 }
 
 src_configure() {
@@ -29,6 +30,7 @@ src_configure() {
 		-DCMAKE_INSTALL_PREFIX=/usr
 		-DCMAKE_BUILD_TYPE=Release
 		-DKDE_INSTALL_LIBDIR=lib
+		-DBUILD_TESTING=OFF
 		-DKDE_INSTALL_USE_QT_SYS_PATHS=ON
 )
         cmake-utils_src_configure
