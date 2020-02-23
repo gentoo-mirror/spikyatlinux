@@ -1,5 +1,6 @@
 app-admin/webmin 1.941: A web-based Unix systems administration interface
 app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
+app-emulation/q4wine 1.3.12: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/find_cruft 5.1: find cruft files not managed by portage
@@ -25,7 +26,7 @@ sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/gmrun 1.0.2: A GTK based launcher box with bash style auto completion!
 x11-misc/obmenu-generator 0.87-r1: A fast pipe/static menu generator for the Openbox Window Manager
-x11-themes/ArcBreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
-x11-themes/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
+x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.31 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
+x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
