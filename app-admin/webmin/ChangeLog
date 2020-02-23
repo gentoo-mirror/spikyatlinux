@@ -2,6 +2,13 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*webmin-1.941 (23 Feb 2020)
+
+  23 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  -files/gentoo-setup-1.940, +files/gentoo-setup-1.941, -webmin-1.940.ebuild,
+  +webmin-1.941.ebuild:
+  Updated '2020-02-23'...
+
 *webmin-1.940 (31 Dec 2019)
 
   31 Dec 2019; SpikyAtLinux <spikyatlinux@gmail.com>
