@@ -1,5 +1,5 @@
-app-admin/webmin 1.940: A web-based Unix systems administration interface
-app-benchmarks/s-tui 0.8.3: Stress-Terminal UI monitoring tool
+app-admin/webmin 1.941: A web-based Unix systems administration interface
+app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
 app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/find_cruft 5.1: find cruft files not managed by portage
@@ -12,14 +12,11 @@ dev-php/pecl-mcrypt 1.0.1-r1: Bindings for the libmcrypt library
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
-kde-frameworks/ArcBreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
-kde-frameworks/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
-net-misc/megasync 4.2.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 sys-apps/bleachbit 3.2.0: Clean junk to free disk space and to maintain privacy
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
@@ -28,5 +25,7 @@ sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/gmrun 1.0.2: A GTK based launcher box with bash style auto completion!
 x11-misc/obmenu-generator 0.87-r1: A fast pipe/static menu generator for the Openbox Window Manager
+x11-themes/ArcBreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
+x11-themes/SierraBreeze 9999: OSX-like window decoration for KDE Plasma written in C++
 x11-themes/nx-plasma-look-and-feel 1.6.31 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)

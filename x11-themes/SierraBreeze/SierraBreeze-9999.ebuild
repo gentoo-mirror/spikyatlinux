@@ -3,7 +3,7 @@
 
 EAPI=7
 
-inherit git-r3 autotools eutils
+inherit git-r3 cmake-utils autotools eutils
 
 DESCRIPTION="OSX-like window decoration for KDE Plasma written in C++ "
 HOMEPAGE="https://github.com/ishovkun/SierraBreeze"
@@ -20,6 +20,25 @@ S="${S}/"
 RDEPEND=""
 DEPEND="${RDEPEND}"
 
+src_prepare(){
+		cmake-utils_src_prepare
+}
+
 src_configure() {
-        cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release -DKDE_INSTALL_LIBDIR=lib -DBUILD_TESTING=OFF -DKDE_INSTALL_USE_QT_SYS_PATHS=ON
+		local mycmakeargs=(
+		-DCMAKE_INSTALL_PREFIX=/usr
+		-DCMAKE_BUILD_TYPE=Release
+		-DKDE_INSTALL_LIBDIR=lib
+		-DBUILD_TESTING=OFF
+		-DKDE_INSTALL_USE_QT_SYS_PATHS=ON
+)
+        cmake-utils_src_configure
+}
+
+src_compile(){
+   cmake-utils_src_compile
+}
+
+src_install(){
+   cmake-utils_src_install
 }

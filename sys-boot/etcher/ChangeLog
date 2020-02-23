@@ -1,6 +1,12 @@
 # ChangeLog for sys-boot/etcher
-# Copyright 1999-2019 Gentoo Foundation; Distributed under the GPL v2
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
+
+*etcher-1.5.79 (23 Feb 2020)
+
+  23 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> -etcher-1.5.60.ebuild,
+  +etcher-1.5.79.ebuild:
+  Updated '2020-02-23'...
 
 *etcher-1.5.60 (21 Oct 2019)
 
