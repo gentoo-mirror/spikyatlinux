@@ -7,6 +7,6 @@ LICENSE=Apache-2.0
 RDEPEND=app-arch/lzma dev-libs/nss gnome-base/gconf media-libs/alsa-lib sys-apps/dbus x11-apps/xrandr x11-base/xorg-server x11-libs/gtk+:2 x11-libs/libnotify x11-libs/libXcomposite x11-libs/libXcursor x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libXrender x11-libs/libXScrnSaver x11-libs/libXtst
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://github.com/balena-io/etcher/releases/download/v1.5.60/balena-etcher-electron_1.5.60_amd64.deb
+SRC_URI=https://github.com/balena-io/etcher/releases/download/v1.5.79/balena-etcher-electron_1.5.79_amd64.deb
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	unpacker	3cd8bad0d31e525cd26be1bfa4e61631	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=e688fdd78bcf98eded08bbee2a473697
