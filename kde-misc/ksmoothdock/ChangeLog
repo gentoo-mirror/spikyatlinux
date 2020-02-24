@@ -2,6 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  24 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> ksmoothdock-6.2.ebuild:
+  Updated '2020-02-24'...
+
 *ksmoothdock-6.2 (06 Jan 2020)
 
   06 Jan 2020; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-6.1.ebuild,
