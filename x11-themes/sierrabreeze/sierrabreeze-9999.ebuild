@@ -18,7 +18,9 @@ IUSE=""
 S="${S}/"
 
 RDEPEND=""
-DEPEND="${RDEPEND}"
+DEPEND="${RDEPEND}
+x11-themes/kvantum
+"
 
 src_prepare(){
 		cmake-utils_src_prepare
