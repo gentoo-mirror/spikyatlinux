@@ -8,7 +8,6 @@ app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-db/mariadb 10.4.10-r1: An enhanced, drop-in replacement for MySQL
 dev-php/pecl-mcrypt 1.0.1-r1: Bindings for the libmcrypt library
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
