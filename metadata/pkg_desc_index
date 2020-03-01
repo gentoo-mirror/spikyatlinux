@@ -16,6 +16,7 @@ kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth para
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/ffmulticonverter 1.8.0: FF Multi Converter is a GUI application that converts multiple file formats to different extensions
+media-video/mystiq 20200218: Qt5/C++ FFmpeg Media Converter
 sys-apps/bleachbit 3.2.0: Clean junk to free disk space and to maintain privacy
 sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
