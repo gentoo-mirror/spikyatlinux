@@ -1,6 +1,9 @@
 # ChangeLog for app-portage/portconf
-# Copyright 1999-2019 Gentoo Foundation; Distributed under the GPL v2
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
+
+  10 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> portconf-1.6.9.ebuild:
+  Updated '2020-03-10'...
 
   08 Jun 2019; SpikyAtLinux <spikyatlinux@gmail.com> portconf-1.6.9.ebuild:
   Updated '2019-06-08'...

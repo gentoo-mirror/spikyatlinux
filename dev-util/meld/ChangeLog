@@ -2,6 +2,11 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*meld-1.8.6 (10 Mar 2020)
+
+  10 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +meld-1.8.6.ebuild:
+  Updated '2020-03-10'...
+
   01 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com> -meld-1.8.6.ebuild:
   Updated '2019-07-01'...
 
