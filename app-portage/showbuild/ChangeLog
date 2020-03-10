@@ -1,0 +1,25 @@
+# ChangeLog for app-portage/showbuild
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  10 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> showbuild-0.9-r1.ebuild:
+  Updated '2020-03-10'...
+
+  19 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> showbuild-0.9-r1.ebuild:
+  Updated '2020-02-19'...
+
+  17 May 2018; SpikyAtLinux <spikyatlinux@gmail.com> -metadata.xml:
+  Updated
+
+*showbuild-0.9-r1 (07 Nov 2017)
+
+  07 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> -showbuild-0.9.ebuild,
+  +showbuild-0.9-r1.ebuild:
+  Removed USE-flag tailf from app-portage/showbuild so it uses coreutils
+
+*showbuild-0.9 (05 Jun 2017)
+
+  05 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com> +files/showbuild-0.9,
+  +metadata.xml, +showbuild-0.9.ebuild:
+  Updated all
+

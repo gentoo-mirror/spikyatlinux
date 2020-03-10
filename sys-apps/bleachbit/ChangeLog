@@ -1,0 +1,28 @@
+# ChangeLog for sys-apps/bleachbit
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*bleachbit-3.2.0 (23 Feb 2020)
+
+  23 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> +bleachbit-3.2.0.ebuild,
+  +metadata.xml:
+  Updated '2020-02-23'...
+
+  21 Oct 2019; SpikyAtLinux <spikyatlinux@gmail.com> -bleachbit-2.2.ebuild,
+  -metadata.xml:
+  Removed bleachbit-2.2 cause newer version in tree
+
+*bleachbit-2.2 (01 Apr 2019)
+
+  01 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com> +bleachbit-2.2.ebuild,
+  +metadata.xml:
+  Updated '2019-04-01'...
+
+  02 May 2018; SpikyAtLinux <spikyatlinux@gmail.com> -bleachbit-9999.ebuild:
+  Removed and updated some ebuilds
+
+*bleachbit-9999 (13 Nov 2017)
+
+  13 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> +bleachbit-9999.ebuild:
+  Add sys-apps/bleachbit-9999
+

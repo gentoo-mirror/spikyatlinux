@@ -1,0 +1,51 @@
+# ChangeLog for dev-util/apktool-bin
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  08 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> apktool-bin-2.4.1.ebuild:
+  Updated '2020-02-08'...
+
+*apktool-bin-2.4.1 (31 Dec 2019)
+
+  31 Dec 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -apktool-bin-2.4.0.ebuild, +apktool-bin-2.4.1.ebuild:
+  Updated '2019-12-31'...
+
+*apktool-bin-2.4.0 (09 Apr 2019)
+
+  09 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com>
+  -apktool-bin-2.3.4.ebuild, +apktool-bin-2.4.0.ebuild:
+  Updated '2019-04-09'...
+
+*apktool-bin-2.3.4 (14 Oct 2018)
+
+  14 Oct 2018; SpikyAtLinux <spikyatlinux@gmail.com>
+  -apktool-bin-2.3.3.ebuild, +apktool-bin-2.3.4.ebuild:
+  Updated '2018-10-14'...
+
+*apktool-bin-2.3.3 (02 May 2018)
+
+  02 May 2018; SpikyAtLinux <spikyatlinux@gmail.com>
+  -apktool-bin-2.3.0.ebuild, +apktool-bin-2.3.3.ebuild:
+  Removed and updated some ebuilds
+
+  09 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> files/apktool,
+  files/apktool.patch:
+  Updated dev-util/apktool-bin to v2.3.0
+
+  09 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> files/apktool,
+  files/apktool.patch:
+  Some fixes in apktool ebuild
+
+*apktool-bin-2.3.0 (09 Nov 2017)
+
+  09 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  -apktool-bin-2.2.2.ebuild, +apktool-bin-2.3.0.ebuild:
+  Updated dev-util/apktool-bin to v2.3.0
+
+*apktool-bin-2.2.2 (06 Jun 2017)
+
+  06 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  +apktool-bin-2.2.2.ebuild, +files/apktool, +files/apktool.patch:
+  Add apktool v2.2.2
+

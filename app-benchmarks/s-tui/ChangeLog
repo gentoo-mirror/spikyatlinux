@@ -1,0 +1,25 @@
+# ChangeLog for app-benchmarks/s-tui
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*s-tui-1.0.0 (23 Feb 2020)
+
+  23 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> +s-tui-1.0.0.ebuild:
+  Updated '2020-02-23'...
+
+*s-tui-0.8.3 (10 Aug 2019)
+
+  10 Aug 2019; SpikyAtLinux <spikyatlinux@gmail.com> +s-tui-0.8.3.ebuild:
+  Removed rutorrent v3.9
+
+  02 May 2018; SpikyAtLinux <spikyatlinux@gmail.com> -s-tui-0.6.7_pre.ebuild,
+  -s-tui-9999.ebuild:
+  Removed and updated some ebuilds
+
+*s-tui-9999 (12 Nov 2017)
+*s-tui-0.6.7_pre (12 Nov 2017)
+
+  12 Nov 2017; SpikyAtLinux <spikyatlinux@gmail.com> +s-tui-0.6.7_pre.ebuild,
+  +s-tui-9999.ebuild:
+  Add games-utils/ds4drv
+

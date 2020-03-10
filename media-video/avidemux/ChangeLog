@@ -1,0 +1,37 @@
+# ChangeLog for media-video/avidemux
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*avidemux-2.7.4-r2 (10 Feb 2020)
+
+  10 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +avidemux-2.7.4-r2.ebuild, +files/avidemux-2.7.4-r2-desktop.patch,
+  +metadata.xml:
+  Add desktop patch to media-video/avidemux-2.7.4-r2
+
+  26 Aug 2019; SpikyAtLinux <spikyatlinux@gmail.com> -avidemux-2.7.3.ebuild,
+  -metadata.xml:
+  Removed avidemux cause new version in tree
+
+  09 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com> avidemux-2.7.3.ebuild:
+  Updated '2019-04-09'...
+
+*avidemux-2.7.3 (07 Apr 2019)
+
+  07 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com> +avidemux-2.7.3.ebuild,
+  +metadata.xml:
+  Updated '2019-04-07'...
+
+  01 Apr 2019; SpikyAtLinux <spikyatlinux@gmail.com> -avidemux-2.7.1.ebuild,
+  -metadata.xml:
+  Updated '2019-04-01'...
+
+  01 Mar 2019; SpikyAtLinux <spikyatlinux@gmail.com> avidemux-2.7.1.ebuild:
+  Updated '2019-03-01'...
+
+*avidemux-2.7.1 (26 Jan 2019)
+
+  26 Jan 2019; SpikyAtLinux <spikyatlinux@gmail.com> +avidemux-2.7.1.ebuild,
+  +metadata.xml:
+  Updated '2019-01-26'...
+

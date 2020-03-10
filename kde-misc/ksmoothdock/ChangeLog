@@ -1,0 +1,80 @@
+# ChangeLog for kde-misc/ksmoothdock
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  24 Feb 2020; SpikyAtLinux <spikyatlinux@gmail.com> ksmoothdock-6.2.ebuild:
+  Updated '2020-02-24'...
+
+*ksmoothdock-6.2 (06 Jan 2020)
+
+  06 Jan 2020; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-6.1.ebuild,
+  +ksmoothdock-6.2.ebuild:
+  Updated '2020-01-06'...
+
+*ksmoothdock-6.1 (08 Dec 2019)
+
+  08 Dec 2019; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.15.ebuild,
+  +ksmoothdock-6.1.ebuild:
+  Updated '2019-12-08'...
+
+  10 Aug 2019; SpikyAtLinux <spikyatlinux@gmail.com> ksmoothdock-5.15.ebuild:
+  Updated kde-misc/ksmoothdock
+
+*ksmoothdock-5.15 (07 Aug 2019)
+
+  07 Aug 2019; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.14.ebuild,
+  +ksmoothdock-5.15.ebuild:
+  Updated kde-misc/ksmoothdoch to v5.1.5
+
+  14 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com> ksmoothdock-5.14.ebuild:
+  Fix ebuild for kde-misc/ksmoothdock v5.14
+
+*ksmoothdock-5.14 (14 Jul 2019)
+
+  14 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.12.ebuild,
+  +ksmoothdock-5.14.ebuild:
+  Updated kde-misc/ksmoothdock to version 5.14
+
+*ksmoothdock-5.12 (01 Jul 2019)
+
+  01 Jul 2019; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.11.ebuild,
+  +ksmoothdock-5.12.ebuild:
+  Updated '2019-07-01'...
+
+*ksmoothdock-5.11 (22 Dec 2018)
+
+  22 Dec 2018; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.10.ebuild,
+  +ksmoothdock-5.11.ebuild:
+  Updated '2018-12-22'...
+
+*ksmoothdock-5.10 (21 Nov 2018)
+
+  21 Nov 2018; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.9.ebuild,
+  +ksmoothdock-5.10.ebuild:
+  Updated '2018-11-21'...
+
+  17 May 2018; SpikyAtLinux <spikyatlinux@gmail.com> -metadata.xml:
+  Updated
+
+*ksmoothdock-5.9 (02 May 2018)
+
+  02 May 2018; SpikyAtLinux <spikyatlinux@gmail.com> -ksmoothdock-5.6.ebuild,
+  -ksmoothdock-5.7.ebuild, -ksmoothdock-5.8.ebuild, +ksmoothdock-5.9.ebuild:
+  Removed and updated some ebuilds
+
+*ksmoothdock-5.8 (22 Mar 2018)
+
+  22 Mar 2018; SpikyAtLinux <spikyatlinux@gmail.com> +ksmoothdock-5.8.ebuild:
+  Some fixes
+
+*ksmoothdock-5.7 (15 Jun 2017)
+
+  15 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com> +ksmoothdock-5.7.ebuild:
+  Updated ksmoothdock 5.7
+
+*ksmoothdock-5.6 (05 Jun 2017)
+
+  05 Jun 2017; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/ksmoothdock.desktop, +ksmoothdock-5.6.ebuild, +metadata.xml:
+  Updated all
+
