@@ -10,6 +10,7 @@ app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
+dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
