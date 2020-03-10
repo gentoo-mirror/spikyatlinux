@@ -1,0 +1,18 @@
+# ChangeLog for www-apps/nextcloud
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  25 Feb 2018; SpikyAtLinux <spikyatlinux@gmail.com> -nextcloud-12.0.1.ebuild,
+  -nextcloud-12.0.2.ebuild:
+  Removed phpmyadmin,cause newer version is in tree
+
+*nextcloud-12.0.2 (18 Aug 2017)
+
+  18 Aug 2017; SpikyAtLinux <spikyatlinux@gmail.com> +nextcloud-12.0.2.ebuild:
+  Some updates
+
+*nextcloud-12.0.1 (11 Aug 2017)
+
+  11 Aug 2017; SpikyAtLinux <spikyatlinux@gmail.com> +nextcloud-12.0.1.ebuild:
+  Some ebuild updates
+
