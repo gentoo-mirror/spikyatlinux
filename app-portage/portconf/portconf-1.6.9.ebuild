@@ -7,7 +7,8 @@ inherit eutils git-r3
 
 DESCRIPTION="/etc/portage cleaner"
 HOMEPAGE="https://github.com/megabaks/portconf"
-EGIT_REPO_URI="git://github.com/megabaks/${PN}.git -> ${P}.tar.gz"
+EGIT_REPO_URI="https://github.com/megabaks/${PN}.git -> ${P}.tar.gz"
+EGIT_OVERRIDE_COMMIT_MEGABAKS_PORTCONF="61059564d5fa82b2e322da9365cbaf20ded330cc"
 
 LICENSE="GPL-3"
 SLOT="0"

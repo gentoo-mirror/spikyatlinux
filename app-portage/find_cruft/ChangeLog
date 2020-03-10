@@ -1,6 +1,9 @@
 # ChangeLog for app-portage/find_cruft
-# Copyright 1999-2019 Gentoo Foundation; Distributed under the GPL v2
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
+
+  08 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> find_cruft-5.1.ebuild:
+  Updated '2020-03-08'...
 
 *find_cruft-5.1 (22 Sep 2019)
 
