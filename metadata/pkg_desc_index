@@ -1,7 +1,5 @@
 app-admin/webmin 1.941: A web-based Unix systems administration interface
 app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
-app-emulation/libguestfs 1.38.6-r1: Tools for accessing, inspect and modifying virtual machine (VM) disk images
-app-emulation/libguestfs-appliance 1.38.0-r1: VM appliance disk image used in libguestfs package
 app-emulation/q4wine 1.3.12: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
@@ -9,16 +7,8 @@ app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/porthole 0.6.1-r6: A GTK+-based frontend to Portage
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
-dev-ml/ocaml-fileutils 0.5.2-r1: Pure OCaml functions to manipulate real file (POSIX like) and filename
-dev-ml/ocaml-gettext 0.3.7-r1: Provides support for internationalization of OCaml program
-dev-php/pecl-apcu 5.1.18-r1: Stripped down version of APC supporting only user cache
-dev-php/pecl-apcu_bc 1.0.5-r1: Provides APC backwards compatibility functions via APCu
-dev-php/pecl-mcrypt 1.0.3-r1: Bindings for the libmcrypt library
-dev-php/pecl-memcached 3.1.5-r2: Interface PHP with memcached via libmemcached library
-dev-php/pecl-redis 5.1.1-r1: PHP extension for interfacing with Redis
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
-dev-util/meld 1.8.6: A graphical diff and merge tool
 dev-util/platform-tools 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
@@ -31,8 +21,6 @@ sys-block/kindd 2.0.1: A kindful dd gui written in qt quick.
 sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kernconf 1.0.1: defconfig-based kernel configuration script
-sys-libs/libxcrypt 4.4.12-r4: Extended crypt library for descrypt, md5crypt, bcrypt, and others
-www-apps/nextcloud 18.0.1-r1: Personal cloud that runs on your own server
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/gmrun 1.0.2: A GTK based launcher box with bash style auto completion!
 x11-misc/obmenu-generator 0.87-r1: A fast pipe/static menu generator for the Openbox Window Manager
