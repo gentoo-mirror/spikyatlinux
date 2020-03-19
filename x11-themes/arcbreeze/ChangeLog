@@ -1,0 +1,10 @@
+# ChangeLog for x11-themes/arcbreeze
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*arcbreeze-9999 (19 Mar 2020)
+
+  19 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +arcbreeze-9999.ebuild,
+  +files/arcbreeze-naming.patch:
+  Initial commit
+
