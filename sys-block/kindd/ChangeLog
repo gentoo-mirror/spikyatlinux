@@ -1,0 +1,9 @@
+# ChangeLog for sys-block/kindd
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*kindd-2.0.1 (19 Mar 2020)
+
+  19 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +kindd-2.0.1.ebuild:
+  Initial commit
+
