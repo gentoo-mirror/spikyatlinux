@@ -1,0 +1,11 @@
+# ChangeLog for app-benchmarks/s-tui
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*s-tui-1.0.0 (19 Mar 2020)
+*s-tui-0.8.3 (19 Mar 2020)
+
+  19 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +s-tui-0.8.3.ebuild,
+  +s-tui-1.0.0.ebuild:
+  Initial commit
+
