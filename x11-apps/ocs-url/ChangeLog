@@ -1,0 +1,11 @@
+# ChangeLog for x11-apps/ocs-url
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*ocs-url-9999 (19 Mar 2020)
+*ocs-url-3.1.0 (19 Mar 2020)
+
+  19 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +metadata.xml,
+  +ocs-url-3.1.0.ebuild, +ocs-url-9999.ebuild:
+  Initial commit
+
