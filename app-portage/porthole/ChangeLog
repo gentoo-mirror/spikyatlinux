@@ -1,0 +1,14 @@
+# ChangeLog for app-portage/porthole
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*porthole-0.6.1-r6 (19 Mar 2020)
+
+  19 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/porthole-0.6.1-masking_status.patch,
+  +files/porthole-0.6.1-missing-attribute.patch,
+  +files/porthole-0.6.1-missing_import.patch,
+  +files/porthole-0.6.1-missing_portdir.patch, +metadata.xml,
+  +porthole-0.6.1-r6.ebuild:
+  Initial commit
+
