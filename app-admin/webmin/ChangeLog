@@ -1,0 +1,11 @@
+# ChangeLog for app-admin/webmin
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*webmin-1.941 (25 Mar 2020)
+
+  25 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/gentoo-setup-1.941, +files/init.d.webmin, +files/webmin.service,
+  +webmin-1.941.ebuild:
+  Initial commit
+
