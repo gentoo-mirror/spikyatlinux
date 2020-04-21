@@ -2,9 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*gmrun-1.0.2 (25 Mar 2020)
+*gmrun-1.0.2 (13 Apr 2020)
 
-  25 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com> +gmrun-1.0.2.ebuild,
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com> +gmrun-1.0.2.ebuild,
   +metadata.xml:
   Initial commit
 

@@ -2,9 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*sierrabreeze-9999 (25 Mar 2020)
+*sierrabreeze-9999 (13 Apr 2020)
 
-  25 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com>
   +sierrabreeze-9999.ebuild:
   Initial commit
 

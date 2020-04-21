@@ -1,10 +1,10 @@
-# ChangeLog for kde-misc/ksmoothdock
+# ChangeLog for net-misc/youtube-viewer
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*ksmoothdock-6.2 (13 Apr 2020)
+*youtube-viewer-3.7.5 (13 Apr 2020)
 
   13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com>
-  +files/ksmoothdock.desktop, +ksmoothdock-6.2.ebuild:
+  +youtube-viewer-3.7.5.ebuild:
   Initial commit
 
