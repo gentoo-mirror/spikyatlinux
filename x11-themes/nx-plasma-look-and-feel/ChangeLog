@@ -2,10 +2,10 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*nx-plasma-look-and-feel-9999 (25 Mar 2020)
-*nx-plasma-look-and-feel-1.6.31 (25 Mar 2020)
+*nx-plasma-look-and-feel-9999 (13 Apr 2020)
+*nx-plasma-look-and-feel-1.6.31 (13 Apr 2020)
 
-  25 Mar 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com>
   +nx-plasma-look-and-feel-1.6.31.ebuild,
   +nx-plasma-look-and-feel-9999.ebuild:
   Initial commit

@@ -17,7 +17,7 @@ media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filteri
 media-video/minitube 9999: Qt5 YouTube Client
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
 net-misc/youtube-viewer 3.7.5: A command line utility for viewing youtube-videos in Mplayer
-sys-apps/bleachbit 3.2.0: Clean junk to free disk space and to maintain privacy
+sys-apps/bleachbit 4.0.0: Clean junk to free disk space and to maintain privacy
 sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
