@@ -15,18 +15,21 @@ SLOT="0"
 KEYWORDS="~arm amd64 ~x86"
 IUSE=""
 
-DEPEND="app-shells/bash
-		sys-apps/portage"
+DEPEND="
+	app-shells/bash:=
+	sys-apps/portage
+"
 RDEPEND="${DEPEND}
-		app-portage/eix
-		app-portage/portage-utils
-		sys-apps/gawk
-		app-text/agrep"
+	app-portage/eix
+	app-portage/portage-utils
+	sys-apps/gawk
+	|| ( app-text/agrep dev-libs/tre )
+"
 
-S="${WORKDIR}"
+src_install() {
+	default
 
-src_install(){
-	insinto /etc/
-	newins $S/${P}/portconf.conf portconf.conf
-	dosbin $S/${P}/portconf
+	dobin portconf
+	insinto /etc
+	newins portconf.conf portconf.conf
 }
