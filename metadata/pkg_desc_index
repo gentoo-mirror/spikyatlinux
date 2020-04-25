@@ -3,6 +3,7 @@ app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
 app-emulation/q4wine 1.3.12: Qt GUI configuration tool for Wine
 app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-portage/portage-lostfiles 0.2.0: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
@@ -16,7 +17,6 @@ media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filteri
 media-video/minitube 9999: Qt5 YouTube Client
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
 net-misc/youtube-viewer 3.7.5: A command line utility for viewing youtube-videos in Mplayer
-sys-apps/bleachbit 4.0.0: Clean junk to free disk space and to maintain privacy
 sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
