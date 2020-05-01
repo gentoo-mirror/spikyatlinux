@@ -1,0 +1,11 @@
+# ChangeLog for x11-themes/qtstyleplugins
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*qtstyleplugins-9999 (13 Apr 2020)
+*qtstyleplugins-5.0.0 (13 Apr 2020)
+
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com> +metadata.xml,
+  +qtstyleplugins-5.0.0.ebuild, +qtstyleplugins-9999.ebuild:
+  Initial commit
+

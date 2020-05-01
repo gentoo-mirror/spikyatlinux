@@ -1,0 +1,11 @@
+# ChangeLog for media-video/mystiq
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*mystiq-20200323 (13 Apr 2020)
+*mystiq-20200218 (13 Apr 2020)
+
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com> +mystiq-20200218.ebuild,
+  +mystiq-20200323.ebuild:
+  Initial commit
+

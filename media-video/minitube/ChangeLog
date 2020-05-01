@@ -1,0 +1,11 @@
+# ChangeLog for media-video/minitube
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*minitube-9999 (13 Apr 2020)
+
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/minitube-2.5.1-disable-updates.patch, +metadata.xml,
+  +minitube-9999.ebuild:
+  Initial commit
+

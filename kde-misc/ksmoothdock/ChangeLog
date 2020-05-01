@@ -1,0 +1,10 @@
+# ChangeLog for kde-misc/ksmoothdock
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*ksmoothdock-6.2 (13 Apr 2020)
+
+  13 Apr 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/ksmoothdock.desktop, +ksmoothdock-6.2.ebuild:
+  Initial commit
+
