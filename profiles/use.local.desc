@@ -1,6 +1,6 @@
-# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
-# your descriptions to your package's metadata.xml ONLY.
-# * generated automatically using egencache *
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
 
 app-emulation/q4wine:ico - Enable ico support via media-gfx/icoutils
 app-emulation/q4wine:iso - Support unprivileged mounting of ISO9660 images via sys-fs/fuseiso
