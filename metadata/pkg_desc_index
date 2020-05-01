@@ -13,12 +13,9 @@ kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth para
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
-net-misc/youtube-viewer 3.7.5: A command line utility for viewing youtube-videos in Mplayer
-sys-boot/etcher 1.5.79: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.83: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
-x11-apps/ocs-url 3.1.0 9999: A program enabling web-installation of items via OpenCollaborationServices
-x11-misc/gmrun 1.0.2: A GTK based launcher box with bash style auto completion!
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
-x11-themes/nx-plasma-look-and-feel 1.6.31 9999: NX Look and Feel package.
+x11-themes/nx-plasma-look-and-feel 1.6.34 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
 x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
