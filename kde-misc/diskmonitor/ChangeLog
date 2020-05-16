@@ -1,0 +1,10 @@
+# ChangeLog for kde-misc/diskmonitor
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*diskmonitor-0.3.3 (16 May 2020)
+
+  16 May 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +diskmonitor-0.3.3.ebuild, +files/diskmonitor.desktop:
+  Initial commit
+
