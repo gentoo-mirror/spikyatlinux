@@ -1,6 +1,6 @@
-# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
-# your descriptions to your package's metadata.xml ONLY.
-# * generated automatically using egencache *
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
 
 app-emulation/vmware-workstation:macos-guests - Support macOS guests
 app-emulation/vmware-workstation:modules - Install app-emulation/vmware-modules in order to run VMs locally
