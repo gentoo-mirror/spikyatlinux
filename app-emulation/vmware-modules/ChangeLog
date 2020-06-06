@@ -1,0 +1,10 @@
+# ChangeLog for app-emulation/vmware-modules
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*vmware-modules-15.5.5 (06 Jun 2020)
+
+  06 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +vmware-modules-15.5.5.ebuild:
+  Add vmware-workstation
+
