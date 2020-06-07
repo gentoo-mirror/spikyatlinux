@@ -1,0 +1,10 @@
+# ChangeLog for app-portage/portage-lostfiles
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*portage-lostfiles-0.2.0 (07 Jun 2020)
+
+  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +portage-lostfiles-0.2.0.ebuild:
+  Initial commit
+
