@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=tailf? ( sys-apps/util-linux ) !tailf? ( sys-apps/coreutils ) sys-apps/portage app-shells/bash
 REQUIRED_USE=tailf? ( !x86-macos !x64-macos )
 SLOT=0
-_md5_=5af999b01a366eda95e46a7c1ba58fb9
+_md5_=8f24cc5c5604c9522078a9b4cfec38c2

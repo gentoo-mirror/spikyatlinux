@@ -9,4 +9,4 @@ RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/balena-io/etcher/releases/download/v1.5.83/balena-etcher-electron_1.5.83_amd64.deb
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	unpacker	b5891c9326ad2e7905c011d44c927c34	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=e688fdd78bcf98eded08bbee2a473697
+_md5_=debfe249a54eb842e916dfe72758cd66

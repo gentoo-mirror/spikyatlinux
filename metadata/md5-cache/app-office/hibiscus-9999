@@ -6,4 +6,4 @@ LICENSE=GPL
 RDEPEND=>=app-office/jameica-2.1.0
 SLOT=0
 SRC_URI=https://www.willuhn.de/products/hibiscus/releases/nightly/hibiscus-2.9.0-nightly.zip
-_md5_=85251aa1c773a894a5a8a7408e1f11e5
+_md5_=e935be25d9ec4200392ee28c2c37b08b
