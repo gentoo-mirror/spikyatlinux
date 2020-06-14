@@ -2,6 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  14 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> avidemux-2.7.4-r2.ebuild:
+  Updated '2020-06-14'...
+
 *avidemux-2.7.4-r2 (07 Jun 2020)
 
   07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
