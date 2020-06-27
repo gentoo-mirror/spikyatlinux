@@ -2,9 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*photocollage-1.4.4 (07 Jun 2020)
+*photocollage-1.4.4 (27 Jun 2020)
 
-  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
   +photocollage-1.4.4.ebuild:
   Initial commit
 

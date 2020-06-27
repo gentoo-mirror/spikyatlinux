@@ -2,12 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> portconf-1.6.9.ebuild:
-  Updated '2020-06-07'...
+*portconf-1.6.9 (27 Jun 2020)
 
-*portconf-1.6.9 (07 Jun 2020)
-
-  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +metadata.xml,
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +metadata.xml,
   +portconf-1.6.9.ebuild:
   Initial commit
 

@@ -2,9 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*showbuild-0.9-r1 (07 Jun 2020)
+*showbuild-0.9-r1 (27 Jun 2020)
 
-  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +files/showbuild-0.9,
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +files/showbuild-0.9,
   +showbuild-0.9-r1.ebuild:
   Initial commit
 

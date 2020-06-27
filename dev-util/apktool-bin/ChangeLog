@@ -2,9 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*apktool-bin-2.4.1 (07 Jun 2020)
+*apktool-bin-2.4.1 (27 Jun 2020)
 
-  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
   +apktool-bin-2.4.1.ebuild, +files/apktool, +files/apktool.patch:
   Initial commit
 
