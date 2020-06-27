@@ -1,0 +1,9 @@
+# ChangeLog for dev-ml/dune
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*dune-1.11.4 (27 Jun 2020)
+
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +dune-1.11.4.ebuild:
+  Updated '2020-06-27'...
+

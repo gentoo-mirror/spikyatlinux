@@ -1,0 +1,16 @@
+# ChangeLog for dev-util/platform-tools
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*platform-tools-30.0.3 (27 Jun 2020)
+
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +platform-tools-30.0.3.ebuild, platform-tools-9999.ebuild:
+  Updated '2020-06-27'...
+
+*platform-tools-9999 (07 Jun 2020)
+
+  07 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/72platformtools-env.d, +platform-tools-9999.ebuild:
+  Initial commit
+
