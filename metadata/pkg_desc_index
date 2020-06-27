@@ -15,6 +15,7 @@ kde-misc/corectrl 1.1.0: Core control application.
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 kde-misc/plasma-applet-window-appmenu 0.6.0 9999: Plasma 5 applet in order to show the window appmenu
+kde-plasma/discover 5.18.5-r1: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
