@@ -59,10 +59,13 @@ src_prepare() {
 src_configure() {
 	local mycmakeargs=(
 		-DCMAKE_DISABLE_FIND_PACKAGE_packagekitqt5=ON
+		-DCMAKE_DISABLE_FIND_PACKAGE_AppStreamQt=OFF
+		-DCMAKE_DISABLE_FIND_PACKAGE_flatpak=OFF
 		-DCMAKE_DISABLE_FIND_PACKAGE_Snapd=ON
 		-DBUILD_FlatpakBackend=ON
 		-DBUILD_FwupdBackend=$(usex firmware)
 		$(cmake_use_find_package telemetry KUserFeedback)
+		$(cmake_use_find_package flatpak flatpak)
 	)
 
 	ecm_src_configure
