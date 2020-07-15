@@ -1,6 +1,6 @@
 app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
-app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
-app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/pacvis 0.4.2 9999: Displays dependency graphs of packages
 app-portage/portage-lostfiles 0.2.0: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
