@@ -1,6 +1,6 @@
 app-benchmarks/s-tui 0.8.3 1.0.0: Stress-Terminal UI monitoring tool
-app-office/hibiscus 2.8.23 9999: Official prebuilt nightly HBCI Plugin for Jameica
-app-office/jameica 2.8.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/pacvis 0.4.2 9999: Displays dependency graphs of packages
 app-portage/portage-lostfiles 0.2.0: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
@@ -11,6 +11,7 @@ dev-ml/dune 1.11.4: A composable build system for OCaml
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/platform-tools 30.0.3 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
+games-action/minecraft-launcher 2.1.15852: Official launcher for Minecraft
 kde-misc/corectrl 1.1.0: Core control application.
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
