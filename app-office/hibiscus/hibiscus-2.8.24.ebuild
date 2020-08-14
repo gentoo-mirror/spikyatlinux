@@ -1,4 +1,4 @@
-# Copyright 2018-2019 spikyatlinux overlay
+# Copyright 2018-2020 spikyatlinux overlay
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI="7"
@@ -12,7 +12,7 @@ SLOT="0"
 KEYWORDS="~x86 amd64"
 S="${WORKDIR}"
 
-RDEPEND=">=app-office/jameica-2.1.0"
+RDEPEND=">=app-office/jameica-2.8.0"
 
 src_install() {
 	mkdir ${D}

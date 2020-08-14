@@ -1,15 +1,14 @@
-# Copyright 1999-2009 Gentoo Foundation
+# Copyright 2018-2020 spikyatlinux overlay
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI="6"
+EAPI="7"
 
 DESCRIPTION="Official prebuilt nightly Jameica Online Banking Software, written in Java"
 HOMEPAGE="http://www.jameica.org"
 SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux-2.9.0-nightly.zip
 			-> ${P}.zip )
 		 amd64? (
-		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-2.9.0-nightly.zip
-		 	-> ${P}-linux64.zip )"
+		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-2.9.0-nightly.zip -> ${P}-linux64.zip )"
 LICENSE="GPL"
 SLOT="0"
 KEYWORDS=""
@@ -19,7 +18,7 @@ S="${WORKDIR}"
 DEPEND="app-arch/unzip"
 RDEPEND="${DEPEND}
 >=virtual/jre-1.6.0
-app-office/hibiscus"
+=app-office/hibiscus-9999"
 
 src_install() {
 	mkdir ${D}/opt
