@@ -1,9 +1,9 @@
 DEFINED_PHASES=install
 DESCRIPTION=Official prebuilt nightly HBCI Plugin for Jameica
-EAPI=6
+EAPI=7
 HOMEPAGE=http://jameica.org
 LICENSE=GPL
-RDEPEND=>=app-office/jameica-2.1.0
+RDEPEND==app-office/jameica-9999
 SLOT=0
-SRC_URI=https://www.willuhn.de/products/hibiscus/releases/nightly/hibiscus-2.9.0-nightly.zip
-_md5_=85251aa1c773a894a5a8a7408e1f11e5
+SRC_URI=https://www.willuhn.de/products/hibiscus/releases/nightly/hibiscus-2.9.0-nightly.zip -> hibiscus-9999.zip
+_md5_=43f8365154d6faa54fafcfd2afb75c68
