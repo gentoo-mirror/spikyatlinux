@@ -24,6 +24,7 @@ sys-boot/etcher 1.5.83: Flash OS images to SD cards & USB drives, safely and eas
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kconfig-hardened-check 0.5.5 9999: A script for checking the hardening options in the Linux kernel config
 sys-libs/libcpuid 0.5.0: A small C library for x86 (and x86_64) CPU detection and feature extraction
+www-plugins/ublock 1.29.0: An efficient blocker for Chromium and Firefox. Fast and lean
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.34 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
