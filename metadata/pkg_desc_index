@@ -18,6 +18,7 @@ kde-plasma/discover 5.18.5-r1: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
+media-video/tartube 2.1.070 9999: A GUI front-end for youtube-dl
 sys-apps/cpu-x 4.0.0: A Free software that gathers information on CPU, motherboard and more
 sys-boot/etcher 1.5.83: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
@@ -25,6 +26,6 @@ sys-kernel/kconfig-hardened-check 0.5.5 9999: A script for checking the hardenin
 sys-libs/libcpuid 0.5.0: A small C library for x86 (and x86_64) CPU detection and feature extraction
 www-plugins/ublock 1.29.0: An efficient blocker for Chromium and Firefox. Fast and lean
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
-x11-themes/nx-plasma-look-and-feel 1.6.34 9999: NX Look and Feel package.
+x11-themes/nx-plasma-look-and-feel 1.6.51 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
 x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
