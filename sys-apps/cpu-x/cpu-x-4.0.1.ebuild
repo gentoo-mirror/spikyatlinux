@@ -5,7 +5,7 @@ EAPI=7
 
 MY_PN="CPU-X"
 
-inherit cmake-utils xdg
+inherit cmake-utils xdg gnome2-utils
 
 DESCRIPTION="A Free software that gathers information on CPU, motherboard and more"
 HOMEPAGE="https://x0rg.github.io/CPU-X/"
