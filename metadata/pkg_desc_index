@@ -7,6 +7,7 @@ app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
 app-text/pdfarranger 1.5.3: Merge or split pdfs; rearrange, rotate, crop pages.
+dev-ml/dune 1.7.2 1.11.4: A composable build system for OCaml
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/platform-tools 30.0.3 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
@@ -14,7 +15,7 @@ kde-misc/corectrl 1.1.0: Core control application.
 kde-misc/diskmonitor 0.3.3: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 kde-misc/plasma-applet-window-appmenu 0.6.0 9999: Plasma 5 applet in order to show the window appmenu
-kde-plasma/discover 5.18.5-r1: KDE Plasma resources management GUI
+kde-plasma/discover 5.18.5-r1 5.19.5-r1: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/avidemux 2.7.4-r2: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200218 20200323: Qt5/C++ FFmpeg Media Converter
@@ -24,6 +25,7 @@ sys-boot/etcher 1.5.83: Flash OS images to SD cards & USB drives, safely and eas
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-kernel/kconfig-hardened-check 0.5.5 9999: A script for checking the hardening options in the Linux kernel config
 sys-libs/libcpuid 0.5.0: A small C library for x86 (and x86_64) CPU detection and feature extraction
+www-apps/rutorrent 3.10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 www-plugins/ublock 1.29.0: An efficient blocker for Chromium and Firefox. Fast and lean
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.51 9999: NX Look and Feel package.
