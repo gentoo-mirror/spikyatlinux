@@ -8,7 +8,7 @@ inherit git-r3 cmake-utils autotools eutils
 DESCRIPTION="KDE tool to monitor SMART devices and MDRaid health status "
 HOMEPAGE="https://github.com/papylhomme/diskmonitor"
 EGIT_REPO_URI="https://github.com/papylhomme/diskmonitor.git"
-EGIT_COMMIT="5494847a44b12beb2186afd65edffcdd1e40df8e"
+EGIT_COMMIT="d463d8af56ea78b59105d5e0b5ab0f80d9e420b9"
 
 LICENSE="GPL"
 SLOT="0"
