@@ -17,7 +17,7 @@ kde-plasma/discover 5.18.5-r1 5.19.5-r1: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 sys-apps/cpu-x 4.0.1: A Free software that gathers information on CPU, motherboard and more
-sys-boot/etcher 1.5.106 9999: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.106: Flash OS images to SD cards & USB drives, safely and easily.
 sys-boot/multibootusb 9.2.0 9999: Boot multiple live Linux distros from an USB flash drive
 sys-libs/libcpuid 0.5.0: A small C library for x86 (and x86_64) CPU detection and feature extraction
 www-apps/rutorrent 3.10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
