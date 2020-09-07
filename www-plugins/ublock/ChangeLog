@@ -1,9 +1,0 @@
-# ChangeLog for www-plugins/ublock
-# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
-# (auto-generated from git log)
-
-*ublock-1.29.0 (14 Aug 2020)
-
-  14 Aug 2020; SpikyAtLinux <spikyatlinux@gmail.com> +ublock-1.29.0.ebuild:
-  Updated '2020-08-14'...
-
