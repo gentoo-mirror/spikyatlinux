@@ -1,4 +1,4 @@
-# Copyright 1999-2020 Gentoo Foundation
+# Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -10,9 +10,10 @@ HOMEPAGE="https://github.com/megabaks/portconf"
 EGIT_REPO_URI="https://github.com/megabaks/${PN}.git -> ${P}.tar.gz"
 EGIT_OVERRIDE_COMMIT_MEGABAKS_PORTCONF="61059564d5fa82b2e322da9365cbaf20ded330cc"
 
-LICENSE="GPL-3"
+LICENSE="GPL-3+"
 SLOT="0"
-KEYWORDS="~arm amd64 ~x86"
+KEYWORDS="~amd64 ~arm ~x86"
+
 IUSE=""
 
 DEPEND="
