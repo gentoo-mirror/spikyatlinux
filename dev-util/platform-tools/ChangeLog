@@ -2,6 +2,12 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*platform-tools-30.0.4 (09 Sep 2020)
+
+  09 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  -platform-tools-30.0.3.ebuild, +platform-tools-30.0.4.ebuild:
+  Updated '2020-09-09'...
+
   07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
   Updated '2020-09-07'...
 
