@@ -1,0 +1,9 @@
+# ChangeLog for app-portage/remerge
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*remerge-0.0.4 (10 Sep 2020)
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +remerge-0.0.4.ebuild:
+  Updated '2020-09-10'...
+
