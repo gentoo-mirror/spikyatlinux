@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/nx-desktop/nx-plasma-look-and-feel"
 EGIT_REPO_URI="https://github.com/nx-desktop/nx-plasma-look-and-feel.git"
 EGIT_COMMIT="9939bf7f9a9d1c09d0ae0f6f26ac9c997a4166db"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""

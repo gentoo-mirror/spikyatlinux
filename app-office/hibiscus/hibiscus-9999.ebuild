@@ -7,7 +7,7 @@ DESCRIPTION="Official prebuilt nightly HBCI Plugin for Jameica"
 HOMEPAGE="http://jameica.org"
 SRC_URI="https://www.willuhn.de/products/hibiscus/releases/nightly/${PN}-2.9.0-nightly.zip -> ${P}.zip"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
 S="${WORKDIR}"

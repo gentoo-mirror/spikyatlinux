@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/matricci/ArcBreeze"
 EGIT_REPO_URI="https://github.com/matricci/ArcBreeze.git"
 EGIT_COMMIT="d76aa7aeaefb40de086708500f26b3cf94de5988"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
 IUSE=""

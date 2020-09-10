@@ -11,7 +11,6 @@ app-text/pdfarranger 1.6.2: Merge or split pdfs; rearrange, rotate, crop pages.
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/platform-tools 30.0.4 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
-kde-misc/corectrl 1.1.0 9999: Core control application.
 kde-misc/diskmonitor 0.3.4: KDE tool to monitor SMART devices and MDRaid health status
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 kde-misc/plasma-applet-window-appmenu 0.6.0 9999: Plasma 5 applet in order to show the window appmenu

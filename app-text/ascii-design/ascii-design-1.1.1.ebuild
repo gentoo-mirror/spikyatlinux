@@ -9,7 +9,7 @@ DESCRIPTION="Ascii Design is an ascii-art program based on figlet engine."
 HOMEPAGE="https://github.com/Faster3ck/Ascii-Design"
 SRC_URI="https://github.com/Faster3ck/Ascii-Design/archive/v${PV}.tar.gz -> ascii-design-${PV}.tar.gz"
 
-LICENSE="GPLv3"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64 ~x86"
 IUSE=""

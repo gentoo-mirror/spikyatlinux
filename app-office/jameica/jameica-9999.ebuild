@@ -9,7 +9,7 @@ SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linu
 			-> ${P}.zip )
 		 amd64? (
 		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-2.9.0-nightly.zip -> ${P}-linux64.zip )"
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
 
