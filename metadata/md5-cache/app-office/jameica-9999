@@ -3,8 +3,8 @@ DEPEND=app-arch/unzip
 DESCRIPTION=Official prebuilt nightly Jameica Online Banking Software, written in Java
 EAPI=7
 HOMEPAGE=http://www.jameica.org
-LICENSE=GPL
+LICENSE=GPL-3
 RDEPEND=app-arch/unzip >=virtual/jre-1.6.0 =app-office/hibiscus-9999
 SLOT=0
 SRC_URI=x86? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux-2.9.0-nightly.zip -> jameica-9999.zip ) amd64? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux64-2.9.0-nightly.zip -> jameica-9999-linux64.zip )
-_md5_=e4a7672e86c4a9f1b22018205015cb2f
+_md5_=7562bf83c171b6a48acfcd54ed7fd743
