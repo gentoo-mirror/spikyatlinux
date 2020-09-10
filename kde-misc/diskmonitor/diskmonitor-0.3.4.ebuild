@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/papylhomme/diskmonitor"
 EGIT_REPO_URI="https://github.com/papylhomme/diskmonitor.git"
 EGIT_COMMIT="d463d8af56ea78b59105d5e0b5ab0f80d9e420b9"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64 x86"
 IUSE=""

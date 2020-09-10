@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/dangvd/ksmoothdock"
 EGIT_REPO_URI="https://github.com/dangvd/ksmoothdock.git"
 EGIT_COMMIT="15f7c9e802240e86bf0150cc523ea280bad6c9b8"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64 ~x86"
 IUSE=""

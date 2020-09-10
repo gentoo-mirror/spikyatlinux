@@ -8,7 +8,7 @@ DESCRIPTION="Android platform-tools same as android-tools, but latest versions w
 HOMEPAGE="https://developer.android.com/studio/releases/platform-tools.html"
 SRC_URI="https://dl.google.com/android/repository/platform-tools-latest-linux.zip -> ${P}-${PV}.zip"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 S="${WORKDIR}"
