@@ -1,0 +1,34 @@
+# ChangeLog for app-portage/portconf
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-10'...
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-10'...
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-10'...
+
+  09 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> portconf-1.6.9.ebuild:
+  Updated '2020-09-09'...
+
+  09 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-09'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-07'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-07'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2020-09-07'...
+
+*portconf-1.6.9 (27 Jun 2020)
+
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +metadata.xml,
+  +portconf-1.6.9.ebuild:
+  Initial commit
+

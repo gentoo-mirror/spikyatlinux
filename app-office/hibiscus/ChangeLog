@@ -1,0 +1,46 @@
+# ChangeLog for app-office/hibiscus
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-10'...
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz,
+  hibiscus-2.8.24.ebuild, hibiscus-9999.ebuild:
+  Updated '2020-09-10'...
+
+  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-10'...
+
+  09 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-09'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> hibiscus-2.8.24.ebuild:
+  Updated '2020-09-07'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-07'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-09-07'...
+
+  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2020-09-07'...
+
+  14 Aug 2020; SpikyAtLinux <spikyatlinux@gmail.com> hibiscus-2.8.24.ebuild,
+  hibiscus-9999.ebuild:
+  Updated '2020-08-14'...
+
+*hibiscus-2.8.24 (15 Jul 2020)
+
+  15 Jul 2020; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.8.23.ebuild,
+  +hibiscus-2.8.24.ebuild:
+  Updated '2020-07-15'...
+
+*hibiscus-9999 (27 Jun 2020)
+*hibiscus-2.8.23 (27 Jun 2020)
+
+  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com> +hibiscus-2.8.23.ebuild,
+  +hibiscus-9999.ebuild:
+  Initial commit
+

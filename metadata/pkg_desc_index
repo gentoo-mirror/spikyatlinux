@@ -1,0 +1,20 @@
+app-benchmarks/s-tui 1.0.2 9999: Stress-Terminal UI monitoring tool
+app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+app-portage/logclean 18.4.1: Keep only (compressed) logs of installed packages and cleanup emerge.log
+app-portage/portconf 1.6.9: /etc/portage cleaner
+app-portage/remerge 0.0.4: Continue unsuccessfull merge of last ebuild from /var/log/emerge.log
+app-portage/showbuild 0.9-r1: Script to follow log of running portage builds
+app-text/ascii-design 1.1.1: Ascii Design is an ascii-art program based on figlet engine.
+app-text/pdfarranger 1.6.2: Merge or split pdfs; rearrange, rotate, crop pages.
+dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
+dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
+dev-util/platform-tools 30.0.4 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
+kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
+media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
+media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
+www-apps/rutorrent 3.10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
+x11-themes/nx-plasma-look-and-feel 1.6.51 9999: NX Look and Feel package.
+x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
+x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
