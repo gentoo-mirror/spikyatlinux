@@ -2,41 +2,11 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-09-10'...
+*nx-plasma-look-and-feel-9999 (27 Sep 2020)
+*nx-plasma-look-and-feel-1.6.51 (27 Sep 2020)
 
-  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz,
-  nx-plasma-look-and-feel-1.6.51.ebuild, nx-plasma-look-and-feel-9999.ebuild:
-  Updated '2020-09-10'...
-
-  10 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz,
-  nx-plasma-look-and-feel-1.6.51.ebuild:
-  Updated '2020-09-10'...
-
-  09 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-09-09'...
-
-  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-09-07'...
-
-  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-09-07'...
-
-  07 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
-  Updated '2020-09-07'...
-
-*nx-plasma-look-and-feel-1.6.51 (20 Aug 2020)
-
-  20 Aug 2020; SpikyAtLinux <spikyatlinux@gmail.com>
-  -nx-plasma-look-and-feel-1.6.34.ebuild,
-  +nx-plasma-look-and-feel-1.6.51.ebuild:
-  Updated '2020-08-20'...
-
-*nx-plasma-look-and-feel-9999 (27 Jun 2020)
-*nx-plasma-look-and-feel-1.6.34 (27 Jun 2020)
-
-  27 Jun 2020; SpikyAtLinux <spikyatlinux@gmail.com>
-  +nx-plasma-look-and-feel-1.6.34.ebuild,
+  27 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  +nx-plasma-look-and-feel-1.6.51.ebuild,
   +nx-plasma-look-and-feel-9999.ebuild:
-  Initial commit
+  Initial reupload
 
