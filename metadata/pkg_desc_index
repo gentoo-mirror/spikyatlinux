@@ -1,5 +1,4 @@
 app-benchmarks/s-tui 1.0.2 9999: Stress-Terminal UI monitoring tool
-app-crypt/archlinux-keyring 20200820: GnuPG keyring of Archlinux developer keys
 app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/logclean 18.4.1: Keep only (compressed) logs of installed packages and cleanup emerge.log
