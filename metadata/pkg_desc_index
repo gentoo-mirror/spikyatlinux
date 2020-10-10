@@ -1,5 +1,5 @@
 app-benchmarks/s-tui 1.0.2 9999: Stress-Terminal UI monitoring tool
-app-emulation/virt-manager 3.1.0: A graphical tool for administering virtual machines
+app-crypt/archlinux-keyring 20200820: GnuPG keyring of Archlinux developer keys
 app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 app-portage/logclean 18.4.1: Keep only (compressed) logs of installed packages and cleanup emerge.log
@@ -14,6 +14,7 @@ dev-util/platform-tools 30.0.4 9999: Android platform-tools same as android-tool
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
+sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.51 9999: NX Look and Feel package.
