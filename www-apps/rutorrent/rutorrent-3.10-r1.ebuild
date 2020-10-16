@@ -1,13 +1,14 @@
 # Copyright 1999-2018 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 
-inherit webapp
+inherit git-r3 webapp
 
 DESCRIPTION="ruTorrent is a front-end for the popular Bittorrent client rTorrent"
 HOMEPAGE="https://github.com/Novik/ruTorrent"
-SRC_URI="https://github.com/Novik/ruTorrent/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+EGIT_REPO_URI="https://github.com/Novik/ruTorrent.git"
+EGIT_COMMIT="75e2ccc031466684b803ac8340ed3d205c49baaf"
 
 LICENSE="GPL-2"
 KEYWORDS="~alpha ~amd64 ~ppc ~x86"
@@ -20,7 +21,7 @@ DEPEND="
 "
 RDEPEND="virtual/httpd-php"
 
-S="${WORKDIR}/ruTorrent-${PV}"
+#S="${WORKDIR}/ruTorrent-${PV}"
 
 pkg_setup() {
 	webapp_pkg_setup
@@ -31,6 +32,7 @@ src_prepare() {
 	find -name '\.gitignore' -type f -exec rm -rf {} \;
 	# The 3.8 release of ruTorrent includes an .htaccess file that defines a .htpasswd that doesn't exist
 	rm '.htaccess'
+	rm -rf .git
 }
 
 src_install() {
