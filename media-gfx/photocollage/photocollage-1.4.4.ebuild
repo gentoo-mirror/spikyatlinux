@@ -3,9 +3,10 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python{2_7,3_5,3_6,3_7} )
+PYTHON_COMPAT=( python3_{6,7,8,9} )
+DISTUTILS_USE_SETUPTOOLS=no
 
-inherit desktop distutils-r1
+inherit eutils distutils-r1
 
 DESCRIPTION="Graphical tool to make photo collage posters"
 HOMEPAGE="https://github.com/adrienverge/PhotoCollage"
@@ -18,7 +19,7 @@ IUSE=""
 
 S="${WORKDIR}/PhotoCollage-${PV}"
 
-DEPEND="
+RDEPEND="
 	dev-python/pillow[${PYTHON_USEDEP}]
 	dev-python/pycairo[${PYTHON_USEDEP}]
 	dev-python/six[${PYTHON_USEDEP}]
