@@ -44,7 +44,10 @@ DEPEND="
 	>=kde-frameworks/kxmlgui-${KFMIN}:5
 	firmware? ( sys-apps/fwupd )
 	telemetry? ( dev-libs/kuserfeedback:5 )
-	flatpak? ( sys-apps/flatpak dev-libs/appstream )
+	flatpak? (
+	sys-apps/flatpak
+	dev-libs/appstream:0
+	)
 "
 RDEPEND="${DEPEND}
 	>=dev-qt/qtquickcontrols2-${QTMIN}:5
@@ -55,16 +58,19 @@ src_prepare() {
 	ecm_src_prepare
 	# we don't need it with PackageKitBackend off
 	ecm_punt_bogus_dep KF5 Archive
+	sed -e "/set/ s/ Qt5::Test//" -i CMakeLists.txt || die
 }
 
 src_configure() {
 	local mycmakeargs=(
 		-DCMAKE_DISABLE_FIND_PACKAGE_packagekitqt5=ON
 		-DCMAKE_DISABLE_FIND_PACKAGE_AppStreamQt=OFF
+		-DCMAKE_DISABLE_FIND_PACKAGE_Flatpak=OFF
 		-DCMAKE_DISABLE_FIND_PACKAGE_Snapd=ON
-		-DBUILD_FlatpakBackend=ON
+		-DBUILD_FlatpakBackend=$(usex flatpak)
 		-DBUILD_FwupdBackend=$(usex firmware)
 		$(cmake_use_find_package telemetry KUserFeedback)
+		$(cmake_use_find_package flatpak Flatpak)
 	)
 
 	ecm_src_configure
