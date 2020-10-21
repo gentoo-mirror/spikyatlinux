@@ -1,3 +1,4 @@
+app-admin/customrescuecd-x86_64 0.11.1: A system rescue cd or usbstick for desktop and server based on gentoo
 app-benchmarks/s-tui 1.0.2 9999: Stress-Terminal UI monitoring tool
 app-office/hibiscus 2.8.24 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica 2.8.6 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
@@ -15,8 +16,10 @@ kde-plasma/discover 5.19.5-r1 5.20.0-r2: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-gfx/posterazor 1.5.1: PosteRazor cuts raster images into multipage PDF documents.
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
+sys-boot/customrescuecd-x86_64-grub 0.1-r1: Grub menu entries for the .iso image of customrescuecd
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10-r1: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+www-client/badwolf 1.0.3 9999: Minimalist and privacy-oriented WebKitGTK+ browser
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.51 9999: NX Look and Feel package.
 x11-themes/qtstyleplugins 5.0.0 9999: Additional style plugins for Qt5 (gtk2, cleanlook, plastic, motif)
