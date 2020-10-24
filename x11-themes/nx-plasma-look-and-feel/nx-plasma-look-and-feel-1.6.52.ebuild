@@ -8,7 +8,7 @@ inherit git-r3 cmake-utils autotools eutils
 DESCRIPTION="NX Look and Feel package."
 HOMEPAGE="https://github.com/nx-desktop/nx-plasma-look-and-feel"
 EGIT_REPO_URI="https://github.com/nx-desktop/nx-plasma-look-and-feel.git"
-EGIT_COMMIT="9939bf7f9a9d1c09d0ae0f6f26ac9c997a4166db"
+EGIT_COMMIT="69298672a0aa2bbde6e2903fc59a71ede673e94b"
 
 LICENSE="GPL-3"
 SLOT="0"

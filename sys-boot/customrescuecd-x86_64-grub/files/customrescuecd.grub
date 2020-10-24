@@ -35,7 +35,7 @@ submenu "${longname}" --class submenu {
 ${grub_string}
 		set isofile=${path}
 		loopback loop \${isofile}
-		linux (loop)/boot/x86_64/customrescue64 ${CRCD_BOOTOPTIONS} customisobasedir=customresccd customisolabel=CRC64 vga=791 net.ifnames=0
+		linux (loop)/boot/x86_64/customrescue64 ${CRCD_BOOTOPTIONS} isoboot="${crcd}" customisobasedir=customresccd customisolabel=CRC64 vga=791 net.ifnames=0
 	}
 }
 EOF
