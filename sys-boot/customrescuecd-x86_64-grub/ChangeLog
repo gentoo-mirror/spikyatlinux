@@ -1,0 +1,11 @@
+# ChangeLog for sys-boot/customrescuecd-x86_64-grub
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*customrescuecd-x86_64-grub-0.1-r1 (21 Oct 2020)
+
+  21 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +customrescuecd-x86_64-grub-0.1-r1.ebuild, +files/customrescuecd.default,
+  +files/customrescuecd.grub, +metadata.xml:
+  Updated '2020-10-21'...
+
