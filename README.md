@@ -64,15 +64,17 @@ or if you have eix installed
 
 #################################################
 
-- desktop+plasma+systemd
-- desktop+plasma+openrc
-- desktop+gnome+systemd
-- desktop+gnome+openrc
-- desktop+plasma+gnome+systemd
-- desktop+plasma+gnome+openrc
-- no-multilib+plasma+systemd
-- no-multilib+gnome+systemd
-- no-multilib+plasma+gnome+systemd
+- desktop/desktop-openrc
+- desktop/plasma/systemd
+- desktop/plasma-openrc
+- desktop/gnome/systemd
+- desktop/gnome-openrc
+- desktop/plasma+gnome/systemd
+- desktop/plasma+gnome-openrc
+- no-multilib/desktop
+- no-multilib/plasma/systemd
+- no-multilib/gnome/systemd
+- no-multilib/plasma+gnome/systemd
 
 #################################################
 
