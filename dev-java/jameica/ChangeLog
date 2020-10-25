@@ -1,11 +1,11 @@
-# ChangeLog for app-office/jameica
+# ChangeLog for dev-java/jameica
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*jameica-9999 (27 Sep 2020)
-*jameica-2.8.6 (27 Sep 2020)
+*jameica-9999 (25 Oct 2020)
+*jameica-2.8.6 (25 Oct 2020)
 
-  27 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  25 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
   +files/jameica.desktop, +jameica-2.8.6.ebuild, +jameica-9999.ebuild:
-  Initial reupload
+  Updated '2020-10-25'...
 
