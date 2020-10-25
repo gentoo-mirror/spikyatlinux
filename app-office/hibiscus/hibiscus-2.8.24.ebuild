@@ -14,7 +14,7 @@ SLOT="0"
 KEYWORDS="~x86 amd64"
 S="${WORKDIR}"
 
-RDEPEND=">=app-office/jameica-2.8.0"
+RDEPEND=">=dev-java/jameica-2.8.0"
 
 QA_PREBUILT="
 opt/jameica/plugins/hibiscus/lib/libhbci4java-card-freebsd-64.so
