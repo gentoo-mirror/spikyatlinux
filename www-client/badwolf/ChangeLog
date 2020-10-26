@@ -1,0 +1,21 @@
+# ChangeLog for www-client/badwolf
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz,
+  -metadata.xml:
+  Updated '2020-10-26'...
+
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-10-26'...
+
+  25 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2020-10-25'...
+
+*badwolf-9999 (21 Oct 2020)
+*badwolf-1.0.3 (21 Oct 2020)
+
+  21 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +badwolf-1.0.3.ebuild,
+  +badwolf-9999.ebuild, +metadata.xml:
+  Updated '2020-10-21'...
+

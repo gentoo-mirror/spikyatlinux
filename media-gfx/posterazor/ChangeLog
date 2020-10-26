@@ -1,0 +1,21 @@
+# ChangeLog for media-gfx/posterazor
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-10-26'...
+
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2020-10-26'...
+
+  25 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2020-10-25'...
+
+*posterazor-1.5.1 (18 Oct 2020)
+
+  18 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/posterazor-1.5-format-security.patch,
+  +files/posterazor-1.5-includes.patch, +files/posterazor-gcc.patch,
+  +posterazor-1.5.1.ebuild:
+  Updated '2020-10-18'...
+
