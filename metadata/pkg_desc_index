@@ -15,7 +15,7 @@ media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-gfx/posterazor 1.5.1: PosteRazor cuts raster images into multipage PDF documents.
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-www-apps/rutorrent 3.10-r1: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+www-apps/rutorrent 3.10-r2: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 www-client/badwolf 1.0.3 9999: Minimalist and privacy-oriented WebKitGTK+ browser
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.52 9999: NX Look and Feel package.
