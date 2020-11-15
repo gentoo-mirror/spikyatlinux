@@ -2,18 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-10-26'...
+*ksmoothdock-6.2 (26 Oct 2020)
 
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-10-26'...
-
-  25 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-10-25'...
-
-*ksmoothdock-6.2 (27 Sep 2020)
-
-  27 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
   +files/ksmoothdock.desktop, +ksmoothdock-6.2.ebuild:
-  Initial reupload
+  Initial commit
 

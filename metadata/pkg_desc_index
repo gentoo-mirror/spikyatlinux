@@ -11,7 +11,6 @@ dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, bi
 dev-util/bluegriffon 3.1: The next-generation Web Editor based on the rendering engine of Firefox
 dev-util/platform-tools 30.0.4 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
-kde-plasma/discover 5.19.5-r1 5.20.1-r1: KDE Plasma resources management GUI
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-gfx/posterazor 1.5.1: PosteRazor cuts raster images into multipage PDF documents.
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
