@@ -2,25 +2,9 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz,
-  -metadata.xml:
-  Updated '2020-10-26'...
+*rutorrent-3.10-r1 (26 Oct 2020)
 
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-10-26'...
-
-  25 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
-  Updated '2020-10-25'...
-
-*rutorrent-3.10-r1 (16 Oct 2020)
-
-  16 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> -rutorrent-3.10.ebuild,
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
   +rutorrent-3.10-r1.ebuild:
-  Updated '2020-10-16'...
-
-*rutorrent-3.10 (27 Sep 2020)
-
-  27 Sep 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
-  +metadata.xml, +rutorrent-3.10.ebuild:
-  Initial reupload
+  Initial commit
 
