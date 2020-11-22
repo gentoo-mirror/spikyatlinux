@@ -9,6 +9,6 @@ KEYWORDS=~alpha ~amd64 ~ppc ~x86
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=virtual/httpd-php >=app-admin/webapp-config-1.50.15
-SLOT=3.10-r1
+SLOT=3.10-r2
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	webapp	16783e418aca3ffa461d68310bf7ab12
-_md5_=15acb2ccd2ffca3cab304920e07ee761
+_md5_=ea5bb1f5f367ab8558b3b297a2181cc4
