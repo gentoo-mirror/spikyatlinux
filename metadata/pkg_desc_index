@@ -14,6 +14,7 @@ kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth para
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-gfx/posterazor 1.5.1: PosteRazor cuts raster images into multipage PDF documents.
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
+net-print/epson-inkjet-printer-escpr 1.7.8: Epson Inkjet Printer Driver (ESC/P-R)
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10-r2: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 www-client/badwolf 1.0.3 9999: Minimalist and privacy-oriented WebKitGTK+ browser
