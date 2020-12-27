@@ -1,0 +1,12 @@
+# ChangeLog for sys-kernel/asus-wmi-sensors
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*asus-wmi-sensors-9999 (27 Dec 2020)
+*asus-wmi-sensors-0_pre20190611 (27 Dec 2020)
+
+  27 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com>
+  +asus-wmi-sensors-0_pre20190611.ebuild, +asus-wmi-sensors-9999.ebuild,
+  +metadata.xml:
+  Bump asscii-design to EAPI 7
+
