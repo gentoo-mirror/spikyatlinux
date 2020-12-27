@@ -1,9 +1,9 @@
 # Copyright 2004-2017 SpikyAtLinux, ebuild writer
 # Distributed under the terms of the GNU General Public License v3
 
-EAPI="6"
+EAPI="7"
 
-inherit eutils qmake-utils
+inherit eutils qmake-utils autotools desktop eutils
 
 DESCRIPTION="Ascii Design is an ascii-art program based on figlet engine."
 HOMEPAGE="https://github.com/Faster3ck/Ascii-Design"
