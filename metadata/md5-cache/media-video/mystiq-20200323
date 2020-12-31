@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure install
+DEPEND=dev-qt/qtcore dev-qt/qtgui dev-qt/qtnetwork dev-qt/qtopengl dev-qt/qtmultimedia dev-qt/qtwidgets dev-qt/qtquickcontrols2 media-video/ffmpeg
+DESCRIPTION=Qt5/C++ FFmpeg Media Converter
+EAPI=7
+HOMEPAGE=https://github.com/swl-x/MystiQ
+IUSE=sox
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2
+RDEPEND=dev-qt/qtcore dev-qt/qtgui dev-qt/qtnetwork dev-qt/qtopengl dev-qt/qtmultimedia dev-qt/qtwidgets dev-qt/qtquickcontrols2 media-video/ffmpeg sox? ( media-sound/sox x11-libs/libnotify )
+SLOT=0
+SRC_URI=https://github.com/swl-x/MystiQ/archive/v20.03.23.tar.gz -> mystiq-20200323.tar.gz
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=4f51eb68070997e534af21aff9aae9f3

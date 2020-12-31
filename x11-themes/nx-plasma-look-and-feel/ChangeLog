@@ -1,0 +1,12 @@
+# ChangeLog for x11-themes/nx-plasma-look-and-feel
+# Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*nx-plasma-look-and-feel-9999 (26 Oct 2020)
+*nx-plasma-look-and-feel-1.6.52 (26 Oct 2020)
+
+  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  +nx-plasma-look-and-feel-1.6.52.ebuild,
+  +nx-plasma-look-and-feel-9999.ebuild:
+  Initial commit
+
