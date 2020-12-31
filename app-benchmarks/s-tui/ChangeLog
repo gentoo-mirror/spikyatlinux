@@ -2,10 +2,10 @@
 # Copyright 1999-2020 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*s-tui-9999 (26 Oct 2020)
-*s-tui-1.0.2 (26 Oct 2020)
+*s-tui-9999 (31 Dec 2020)
+*s-tui-1.0.2 (31 Dec 2020)
 
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
   +s-tui-1.0.2.ebuild, +s-tui-9999.ebuild:
   Initial commit
 

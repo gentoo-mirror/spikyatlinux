@@ -4,14 +4,8 @@
 
 *ascii-design-1.1.1-r1 (31 Dec 2020)
 
-  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com>
-  -ascii-design-1.1.1.ebuild, +ascii-design-1.1.1-r1.ebuild:
-  Updated '2020-12-31'...
-
-*ascii-design-1.1.1 (26 Oct 2020)
-
-  26 Oct 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
-  +ascii-design-1.1.1.ebuild, +files/ascii-design.desktop,
+  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  +ascii-design-1.1.1-r1.ebuild, +files/ascii-design.desktop,
   +files/ascii-design.png:
   Initial commit
 
