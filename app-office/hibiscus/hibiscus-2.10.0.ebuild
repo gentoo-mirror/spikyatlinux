@@ -5,9 +5,11 @@ EAPI="7"
 
 inherit flag-o-matic toolchain-funcs
 
+MY_PV="2.10"
+
 DESCRIPTION="Official prebuilt nightly HBCI Plugin for Jameica"
 HOMEPAGE="http://jameica.org"
-SRC_URI="http://www.willuhn.de/products/${PN}/releases/${PV}/${PN}-${PV}.zip"
+SRC_URI="http://www.willuhn.de/products/${PN}/releases/${MY_PV}/${PN}-${PV}.zip"
 
 LICENSE="GPL-3"
 SLOT="0"
