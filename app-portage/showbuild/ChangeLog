@@ -1,0 +1,10 @@
+# ChangeLog for app-portage/showbuild
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*showbuild-0.9-r1 (31 Dec 2020)
+
+  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  +files/showbuild-0.9, +showbuild-0.9-r1.ebuild:
+  Initial commit
+
