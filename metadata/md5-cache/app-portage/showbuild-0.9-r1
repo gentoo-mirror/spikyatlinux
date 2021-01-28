@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Script to follow log of running portage builds
+EAPI=7
+HOMEPAGE=https://github.com/junghans/cj-overlay
+IUSE=tailf
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=tailf? ( sys-apps/util-linux ) !tailf? ( sys-apps/coreutils ) sys-apps/portage app-shells/bash
+REQUIRED_USE=tailf
+SLOT=0
+_md5_=f439fe4b650238c3baf91f586492ec59
