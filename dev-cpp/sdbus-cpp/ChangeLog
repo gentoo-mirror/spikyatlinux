@@ -1,0 +1,11 @@
+# ChangeLog for dev-cpp/sdbus-cpp
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*sdbus-cpp-0.8.3 (28 Jan 2021)
+
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/remove_download_from_external_project.patch, +metadata.xml,
+  +sdbus-cpp-0.8.3.ebuild:
+  Updated '2021-01-28'...
+
