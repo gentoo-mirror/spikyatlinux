@@ -1,0 +1,11 @@
+# ChangeLog for app-admin/grub-customizer
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*grub-customizer-9999 (28 Jan 2021)
+*grub-customizer-5.1.0 (28 Jan 2021)
+
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +grub-customizer-5.1.0.ebuild, +grub-customizer-9999.ebuild, +metadata.xml:
+  Updated '2021-01-28'...
+
