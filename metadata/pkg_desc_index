@@ -22,6 +22,7 @@ net-print/epson-inkjet-printer-escpr 1.7.8: Epson Inkjet Printer Driver (ESC/P-R
 sys-kernel/asus-wmi-sensors 0_pre20190611 9999: ASUS WMI Sensor driver
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10-r2: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+www-client/brave-bin 1.19.88: Brave Web Browser
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
 x11-themes/nx-plasma-look-and-feel 1.6.52 9999: NX Look and Feel package.
 x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
