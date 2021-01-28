@@ -5,7 +5,6 @@
 *sdbus-cpp-0.8.3 (28 Jan 2021)
 
   28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
-  +files/remove_download_from_external_project.patch, +metadata.xml,
-  +sdbus-cpp-0.8.3.ebuild:
-  Updated '2021-01-28'...
+  +files/remove_download_from_external_project.patch, +sdbus-cpp-0.8.3.ebuild:
+  Initial commit
 

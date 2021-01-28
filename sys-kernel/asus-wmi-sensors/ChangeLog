@@ -2,11 +2,10 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*asus-wmi-sensors-9999 (31 Dec 2020)
-*asus-wmi-sensors-0_pre20190611 (31 Dec 2020)
+*asus-wmi-sensors-9999 (28 Jan 2021)
+*asus-wmi-sensors-0_pre20190611 (28 Jan 2021)
 
-  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com>
-  +asus-wmi-sensors-0_pre20190611.ebuild, +asus-wmi-sensors-9999.ebuild,
-  +metadata.xml:
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +asus-wmi-sensors-0_pre20190611.ebuild, +asus-wmi-sensors-9999.ebuild:
   Initial commit
 

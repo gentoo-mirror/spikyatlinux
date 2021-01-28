@@ -6,7 +6,7 @@
 *properties-cpp-0_pre20180409 (28 Jan 2021)
 
   28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +files/FindGtest.cmake,
-  +files/optional_tests.patch, +metadata.xml,
-  +properties-cpp-0_pre20180409.ebuild, +properties-cpp-9999.ebuild:
-  Updated '2021-01-28'...
+  +files/optional_tests.patch, +properties-cpp-0_pre20180409.ebuild,
+  +properties-cpp-9999.ebuild:
+  Initial commit
 

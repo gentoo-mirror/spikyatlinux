@@ -2,9 +2,8 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*logclean-18.4.1 (31 Dec 2020)
+*logclean-18.4.1 (28 Jan 2021)
 
-  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
-  +logclean-18.4.1.ebuild:
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +logclean-18.4.1.ebuild:
   Initial commit
 

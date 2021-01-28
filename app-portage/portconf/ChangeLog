@@ -2,9 +2,8 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*portconf-1.6.9 (31 Dec 2020)
+*portconf-1.6.9 (28 Jan 2021)
 
-  31 Dec 2020; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
-  +portconf-1.6.9.ebuild:
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +portconf-1.6.9.ebuild:
   Initial commit
 

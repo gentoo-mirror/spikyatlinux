@@ -6,6 +6,6 @@
 *grub-customizer-5.1.0 (28 Jan 2021)
 
   28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
-  +grub-customizer-5.1.0.ebuild, +grub-customizer-9999.ebuild, +metadata.xml:
-  Updated '2021-01-28'...
+  +grub-customizer-5.1.0.ebuild, +grub-customizer-9999.ebuild:
+  Initial commit
 

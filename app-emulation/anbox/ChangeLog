@@ -10,7 +10,6 @@
   +files/anbox-bridge.network, +files/anbox-container-manager.initd,
   +files/anbox-container-manager.service,
   +files/anbox-session-manager.service, +files/anbox.confd,
-  +files/no_bundled_sdbus.patch, +files/remove_systemd_dependency.patch,
-  +metadata.xml:
-  Updated '2021-01-28'...
+  +files/no_bundled_sdbus.patch, +files/remove_systemd_dependency.patch:
+  Initial commit
 
