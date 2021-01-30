@@ -9,10 +9,8 @@ SRC_URI=""
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86 ~x64-macos ~x86-macos"
+KEYWORDS="~amd64 ~x86"
 IUSE="tailf"
-
-REQUIRED_USE="tailf? ( !x86-macos !x64-macos )"
 
 DEPEND=""
 RDEPEND="
