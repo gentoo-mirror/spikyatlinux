@@ -19,8 +19,9 @@ S="${WORKDIR}"
 RDEPEND=">=dev-java/jameica-2.10.0"
 
 QA_PREBUILT="
-opt/jameica/plugins/hibiscus/lib/libhbci4java-card-freebsd-64.so
-opt/jameica/plugins/hibiscus/lib/libhbci4java-sizrdh-linux-gcc2.so
+    opt/${PN}/lib/libhbci4java-card-freebsd-64.so
+    opt/${PN}/lib/libhbci4java-sizrdh-linux-gcc2.so
+    opt/${PN}/lib/libtowitoko-2.0.7-amd64.so
 "
 
 src_install() {
