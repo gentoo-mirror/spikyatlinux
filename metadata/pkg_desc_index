@@ -1,7 +1,6 @@
 app-admin/grub-customizer 5.1.0 9999: A graphical grub2 settings manager
 app-benchmarks/s-tui 1.0.2 9999: Stress-Terminal UI monitoring tool
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
-app-emulation/anbox 0_pre20201129 9999: Container-based approach to boot a full Android system
 app-office/hibiscus 2.10.0 2.10.0-r1 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-portage/logclean 18.4.1: Keep only (compressed) logs of installed packages and cleanup emerge.log
 app-portage/portconf 1.6.9: /etc/portage cleaner
