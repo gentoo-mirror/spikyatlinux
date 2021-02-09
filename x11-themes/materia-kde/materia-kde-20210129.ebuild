@@ -5,7 +5,6 @@ EAPI=7
 
 DESCRIPTION="GTK port of Materia Theme for Plasma 5 desktop."
 HOMEPAGE="https://github.com/PapirusDevelopmentTeam/materia-kde"
-LICENSE="GPL-3"
 
 if [[ ${PV} == 99999999 ]]; then
 	inherit git-r3
@@ -18,7 +17,7 @@ fi
 
 LICENSE="GPL-3"
 SLOT="0"
-IUSE="+kvantum +ico"
+IUSE="kvantum +ico"
 
 DEPEND="
 	kde-plasma/plasma-desktop:5

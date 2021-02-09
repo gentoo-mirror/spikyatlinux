@@ -2,6 +2,10 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  09 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz,
+  materia-kde-20210129.ebuild:
+  Updated '2021-02-09'...
+
 *materia-kde-20210129 (09 Feb 2021)
 
   09 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com>

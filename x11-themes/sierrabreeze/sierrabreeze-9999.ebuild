@@ -10,7 +10,7 @@ HOMEPAGE="https://github.com/ishovkun/SierraBreeze"
 EGIT_REPO_URI="https://github.com/ishovkun/SierraBreeze.git"
 EGIT_COMMIT="0e132fa46871283265c4f0e22e7bb04d8ee7553e"
 
-LICENSE="GPL"
+LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
 IUSE=""
