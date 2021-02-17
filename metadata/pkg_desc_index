@@ -20,7 +20,7 @@ sys-kernel/asus-wmi-sensors 0_pre20190611 9999: ASUS WMI Sensor driver
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10-r2: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/arcbreeze 9999: A Arc theme KDecoration2 theme based on SierraBreeze.
-x11-themes/materia-kde 20210129: GTK port of Materia Theme for Plasma 5 desktop.
+x11-themes/materia-kde 20210129 20210217: GTK port of Materia Theme for Plasma 5 desktop.
 x11-themes/nx-plasma-look-and-feel 1.6.54 9999: NX Look and Feel package.
 x11-themes/papirus-icon-theme 20210201: Papirus icon theme for GTK
 x11-themes/sierrabreeze 9999: OSX-like window decoration for KDE Plasma written in C++
