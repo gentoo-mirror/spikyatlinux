@@ -2,6 +2,10 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  21 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> showem-1.0.3.ebuild,
+  showem-9999.ebuild:
+  Updated '2021-02-21'...
+
 *showem-9999 (20 Feb 2021)
 *showem-1.0.3 (20 Feb 2021)
 
