@@ -2,6 +2,13 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*materia-kde-20210307 (07 Mar 2021)
+
+  07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  -materia-kde-20210129.ebuild, -materia-kde-20210217.ebuild,
+  +materia-kde-20210307.ebuild:
+  Updated '2021-03-07-10:20'...
+
 *materia-kde-20210217 (17 Feb 2021)
 
   17 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com>
