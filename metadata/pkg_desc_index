@@ -5,11 +5,10 @@ app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
 app-portage/showem 1.0.3 9999: View output of a parallel emerge from a separate terminal
 app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.0 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
-dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
+dev-util/apktool-bin 2.5.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/platform-tools 30.0.5 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
-sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 www-apps/rutorrent 3.10-r2: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/materia-kde 20210307: GTK port of Materia Theme for Plasma 5 desktop.
 x11-themes/papirus-icon-theme 20210302: Papirus icon theme for GTK
