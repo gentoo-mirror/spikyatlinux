@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=app-arch/unzip >=virtual/jre-1.6.0 >=app-office/hibiscus-2.11
 SLOT=0
 SRC_URI=x86? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux-2.11.0-nightly.zip -> jameica-2.11.zip ) amd64? ( http://www.willuhn.de/products/jameica/releases/nightly/jameica-linux64-2.11.0-nightly.zip -> jameica-2.11-linux64.zip )
-_md5_=b9ae2705140ca15804e2941d1f2e7c58
+_md5_=474f38cbc389d29f88e79961f765c50f

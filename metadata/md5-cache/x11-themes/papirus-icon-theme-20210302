@@ -11,4 +11,4 @@ RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/20210302.tar.gz -> papirus-icon-theme-20210302.tar.gz
 _eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=28606e6fbeb83a524880d4a8ad332544
+_md5_=c94974d968e5842bb3d1f5c11b2bb81d

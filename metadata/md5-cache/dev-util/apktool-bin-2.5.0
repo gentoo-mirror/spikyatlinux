@@ -11,4 +11,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/iBotPeaches/Apktool/releases/download/v2.5.0/apktool_2.5.0.jar
 _eclasses_=java-pkg-2	c4e6af2574fd1dc79b43a6e27af4b5fb	java-utils-2	378e4cda228ea0231a0ac283cb2ad25c
-_md5_=e9bad0057d4a83156ce6124d27d1b4a0
+_md5_=fc74c7f9e9cd3798d72248fde128586c

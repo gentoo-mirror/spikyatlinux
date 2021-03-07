@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=virtual/httpd-php >=app-admin/webapp-config-1.50.15
 SLOT=3.10-r6
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	webapp	1d03df021d958f89f4cc78e289d0b116
-_md5_=6330ab07ebff85b503e35a50093b674d
+_md5_=bee077c171fe3294613fdc7759db4446
