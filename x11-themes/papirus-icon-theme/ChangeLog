@@ -2,6 +2,12 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*papirus-icon-theme-20210302 (07 Mar 2021)
+
+  07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  -papirus-icon-theme-20210201.ebuild, +papirus-icon-theme-20210302.ebuild:
+  Updated '2021-03-07-10:20'...
+
   15 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
   Updated '2021-02-15'...
 
