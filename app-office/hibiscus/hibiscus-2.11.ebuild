@@ -5,19 +5,18 @@ EAPI="7"
 
 inherit flag-o-matic toolchain-funcs
 
-MY_PV="2.10"
+MY_PV="2.11.0-nightly"
 
 DESCRIPTION="Official prebuilt nightly HBCI Plugin for Jameica"
 HOMEPAGE="http://jameica.org"
-SRC_URI="https://www.willuhn.de/products/${PN}/releases/${MY_PV}/${PN}-${PV}.zip"
-
+SRC_URI="https://www.willuhn.de/products/${PN}/releases/nightly/${PN}-${MY_PV}.zip"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="x86 amd64"
+KEYWORDS="~x86 ~amd64"
 RESTRICT="strip"
 S="${WORKDIR}"
 
-RDEPEND=">=dev-java/jameica-2.10.0"
+RDEPEND=">=dev-java/jameica-2.11.0"
 
 QA_PREBUILT="
     opt/${PN}/lib/libct.so

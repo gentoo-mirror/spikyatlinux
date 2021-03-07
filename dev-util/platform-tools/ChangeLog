@@ -2,6 +2,13 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*platform-tools-31.0.0 (07 Mar 2021)
+
+  07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  -platform-tools-30.0.5.ebuild, +platform-tools-31.0.0.ebuild,
+  -platform-tools-9999.ebuild:
+  Updated '2021-03-07-11:23'...
+
   07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
   Updated '2021-03-07-11:02'...
 
