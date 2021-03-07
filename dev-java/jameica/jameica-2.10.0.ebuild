@@ -12,7 +12,7 @@ SRC_URI="x86? ( https://www.willuhn.de/products/${PN}/releases/current/${PN}/${P
 		 	-> ${P}-linux64.zip )"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~x86 amd64"
+KEYWORDS="x86 amd64"
 
 S="${WORKDIR}"
 
