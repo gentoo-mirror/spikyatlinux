@@ -1,4 +1,4 @@
-# Copyright 2018-2020 spikyatlinux overlay
+# Copyright 2018-2021 spikyatlinux overlay
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI="7"

@@ -1,4 +1,4 @@
-# Copyright 2004-2017 SpikyAtLinux, ebuild writer
+# Copyright 2018-2021 spikyatlinux overlay
 # Distributed under the terms of the GNU General Public License v3
 
 EAPI="7"
