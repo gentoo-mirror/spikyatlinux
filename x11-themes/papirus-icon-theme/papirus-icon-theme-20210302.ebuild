@@ -3,7 +3,7 @@
 
 EAPI=7
 
-inherit xdg
+inherit xdg-utils
 if [[ -z ${PV%%*9999} ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/PapirusDevelopmentTeam/${PN}.git"
@@ -33,4 +33,9 @@ BDEPEND="
 
 src_test() {
 	emake test-all
+}
+
+pkg_postrm()
+{
+xdg_icon_cache_update;
 }
