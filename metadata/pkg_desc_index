@@ -7,7 +7,6 @@ app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on fi
 dev-java/jameica 2.10.0 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 dev-util/apktool-bin 2.4.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/platform-tools 30.0.5 9999: Android platform-tools same as android-tools, but latest versions without sdk from google
-kde-misc/ksmoothdock 6.2: KSmoothDock is a dock program for KDE with smooth parabolic zooming
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
