@@ -6,7 +6,6 @@ HOMEPAGE=https://git.io/papirus-icon-theme
 IUSE=test
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/20210302.tar.gz -> papirus-icon-theme-20210302.tar.gz
