@@ -62,19 +62,23 @@ or if you have eix installed
 #### I´ve merged original gentoo desktop profiles with
 #### openrc and systemd profiles
 
-#################################################
+####################### OpenRC Profiles #######################
+- amd64 default/linux/amd64/17.1/desktop/plasma+gnome-openrc stable
 
-- desktop/plasma+gnome-openrc
-- desktop/plasma+gnome/systemd
-- no-multilib/desktop
-- no-multilib/plasma-openrc
-- no-multilib/gnome-openrc
-- no-multilib/plasma+gnome-openrc
-- no-multilib/plasma/systemd
-- no-multilib/gnome/systemd
-- no-multilib/plasma+gnome/systemd
+####################### SystemD Profiles #######################
+- amd64 default/linux/amd64/17.1/desktop/plasma+gnome/systemd stable
 
-#################################################
+###################### NoMultilib Profiles ######################
+- amd64 default/linux/amd64/17.1/no-multilib/desktop stable
+- amd64 default/linux/amd64/17.1/no-multilib/plasma-openrc stable
+- amd64 default/linux/amd64/17.1/no-multilib/gnome-openrc stable
+- amd64 default/linux/amd64/17.1/no-multilib/plasma+gnome-openrc stable
+- amd64 default/linux/amd64/17.1/no-multilib/plasma/systemd stable
+- amd64 default/linux/amd64/17.1/no-multilib/gnome/systemd stable
+- amd64 default/linux/amd64/17.1/no-multilib/plasma+gnome/systemd stable
+
+####################### Hardened Profiles #######################
+- amd64 default/linux/amd64/17.1/hardened/plasma-openrc dev
 
 #### ;-)
 
