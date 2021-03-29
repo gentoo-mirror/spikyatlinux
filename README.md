@@ -64,8 +64,10 @@ or if you have eix installed
 
 ####################### OpenRC Profiles #######################
 - amd64 default/linux/amd64/17.1/desktop/plasma+gnome-openrc stable
+
 ####################### SystemD Profiles #######################
 - amd64 default/linux/amd64/17.1/desktop/plasma+gnome/systemd stable
+
 ###################### NoMultilib Profiles ######################
 - amd64 default/linux/amd64/17.1/no-multilib/desktop stable
 - amd64 default/linux/amd64/17.1/no-multilib/plasma-openrc stable
@@ -74,6 +76,7 @@ or if you have eix installed
 - amd64 default/linux/amd64/17.1/no-multilib/plasma/systemd stable
 - amd64 default/linux/amd64/17.1/no-multilib/gnome/systemd stable
 - amd64 default/linux/amd64/17.1/no-multilib/plasma+gnome/systemd stable
+
 ####################### Hardened Profiles #######################
 - amd64 default/linux/amd64/17.1/hardened/plasma-openrc dev
 
