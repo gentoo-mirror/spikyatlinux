@@ -82,4 +82,4 @@ or if you have eix installed
 
 #### ;-)
 
-[![HitCount](http://hits.dwyl.io/spikyatlinux/ebuilds_for_gentoo.svg)](http://hits.dwyl.io/spikyatlinux/ebuilds_for_gentoo)
+[![HitCount](http://hits.dwyl.com/spikyatlinux/ebuilds_for_gentoo.svg)](http://hits.dwyl.com/spikyatlinux/ebuilds_for_gentoo)
