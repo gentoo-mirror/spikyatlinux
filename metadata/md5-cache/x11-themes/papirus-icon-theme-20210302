@@ -3,6 +3,7 @@ DEFINED_PHASES=postrm test
 DESCRIPTION=Papirus icon theme for GTK
 EAPI=7
 HOMEPAGE=https://git.io/papirus-icon-theme
+INHERIT=xdg-utils
 IUSE=test
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
