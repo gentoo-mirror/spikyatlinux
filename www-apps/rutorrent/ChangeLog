@@ -2,11 +2,11 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*rutorrent-3.10-r8 (29 Mar 2021)
+*rutorrent-3.10-r8 (05 Apr 2021)
 
-  29 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  05 Apr 2021; SpikyAtLinux <spikyatlinux@gmail.com>
   -rutorrent-3.10-r6.ebuild, +rutorrent-3.10-r8.ebuild:
-  Updated '2021-03-29-11:51'...
+  Updated '2021-04-05-14:10'...
 
   07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com> rutorrent-3.10-r6.ebuild:
   Updated '2021-03-07-12:02'...

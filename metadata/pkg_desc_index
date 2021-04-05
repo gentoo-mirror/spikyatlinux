@@ -12,7 +12,6 @@ media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-libs/avidemux-core 2.7.8: Core libraries for simple video cutting, filtering and encoding tasks
 media-libs/avidemux-plugins 2.7.8: Plugins for the video editor media-video/avidemux
 media-video/avidemux 2.7.8: Video editor designed for simple cutting, filtering and encoding tasks
-media-video/makemkv 1.16.3: Tool for ripping and streaming Blu-ray, HD-DVD and DVD discs
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 www-apps/rutorrent 3.10-r8: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/materia-kde 20210307: GTK port of Materia Theme for Plasma 5 desktop.

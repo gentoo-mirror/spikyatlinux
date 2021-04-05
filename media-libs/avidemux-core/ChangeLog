@@ -2,10 +2,6 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  29 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
-  avidemux-core-2.7.8.ebuild:
-  Updated '2021-03-29-11:51'...
-
 *avidemux-core-2.7.8 (20 Mar 2021)
 
   20 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com>
