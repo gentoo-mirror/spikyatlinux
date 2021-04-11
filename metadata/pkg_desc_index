@@ -8,6 +8,7 @@ app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on fi
 dev-java/jameica 2.10.0 2.11: Official prebuilt nightly Jameica Online Banking Software, written in Java
 dev-util/apktool-bin 2.5.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/platform-tools 31.0.0: Android platform-tools same as android-tools, but latest versions without sdk from google
+kde-misc/sierrabreezeenhanced 1.0.0 9999: Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-libs/avidemux-core 2.7.8: Core libraries for simple video cutting, filtering and encoding tasks
 media-libs/avidemux-plugins 2.7.8: Plugins for the video editor media-video/avidemux
