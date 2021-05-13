@@ -12,11 +12,11 @@ HOMEPAGE="http://jameica.org"
 SRC_URI="https://www.willuhn.de/products/${PN}/releases/nightly/${PN}-${MY_PV}.zip"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~x86 ~amd64"
+KEYWORDS=""
 RESTRICT="strip"
 S="${WORKDIR}"
 
-RDEPEND=">=dev-java/jameica-2.11.0"
+RDEPEND="=dev-java/jameica-9999"
 
 QA_PREBUILT="
     opt/${PN}/lib/libct.so
