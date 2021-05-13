@@ -13,14 +13,14 @@ SRC_URI="x86? ( http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linu
 		 http://www.willuhn.de/products/${PN}/releases/nightly/${PN}-linux64-${MY_PV}-nightly.zip -> ${P}-linux64.zip )"
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~x86 ~amd64"
+KEYWORDS=""
 
 S="${WORKDIR}"
 
 DEPEND="app-arch/unzip"
 RDEPEND="${DEPEND}
 >=virtual/jre-1.6.0
->=app-office/hibiscus-2.11"
+=app-office/hibiscus-9999"
 
 src_install() {
 	mkdir ${D}/opt
