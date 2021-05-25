@@ -81,5 +81,3 @@ or if you have eix installed
 - amd64 default/linux/amd64/17.1/hardened/plasma-openrc dev
 
 #### ;-)
-
-[![HitCount](http://hits.dwyl.com/spikyatlinux/ebuilds_for_gentoo.svg)](http://hits.dwyl.com/spikyatlinux/ebuilds_for_gentoo)
