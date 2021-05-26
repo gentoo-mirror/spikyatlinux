@@ -1,5 +1,4 @@
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
-app-emulation/nemu 2.6.0_p20210519: ncurses interface for QEMU
 app-office/hibiscus 2.10.3 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-portage/portage-lostfiles 0.2.3: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
