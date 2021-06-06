@@ -16,4 +16,3 @@ media-video/avidemux 2.7.8: Video editor designed for simple cutting, filtering 
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 www-apps/rutorrent 3.10-r8: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/materia-kde 20210410: GTK port of Materia Theme for Plasma 5 desktop.
-x11-themes/papirus-icon-theme 20210501: Papirus icon theme for GTK
