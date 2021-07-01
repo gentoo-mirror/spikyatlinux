@@ -8,7 +8,7 @@ inherit git-r3 webapp
 DESCRIPTION="ruTorrent is a front-end for the popular Bittorrent client rTorrent"
 HOMEPAGE="https://github.com/Novik/ruTorrent"
 EGIT_REPO_URI="https://github.com/Novik/ruTorrent.git"
-EGIT_COMMIT="53056a8e73f037cf23c2420a3c7162b7a41f7e82"
+EGIT_COMMIT="9eff223cb2bc124201195a59a6d4e0e3122fbd3f"
 
 LICENSE="GPL-2"
 KEYWORDS="~amd64 ~x86"

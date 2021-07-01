@@ -14,5 +14,5 @@ media-libs/avidemux-core 2.7.8: Core libraries for simple video cutting, filteri
 media-libs/avidemux-plugins 2.7.8-r1: Plugins for the video editor media-video/avidemux
 media-video/avidemux 2.7.8: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
-www-apps/rutorrent 3.10-r8: ruTorrent is a front-end for the popular Bittorrent client rTorrent
-x11-themes/materia-kde 20210410: GTK port of Materia Theme for Plasma 5 desktop.
+www-apps/rutorrent 3.10-r10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+x11-themes/materia-kde 20210624: GTK port of Materia Theme for Plasma 5 desktop.
