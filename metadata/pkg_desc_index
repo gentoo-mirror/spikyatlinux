@@ -6,6 +6,7 @@ app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
 app-portage/showem 1.0.3 9999: View output of a parallel emerge from a separate terminal
 app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.0 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+dev-util/android-udev-rules 20210501: Comprehensive list of udev rules to connect to android devices
 dev-util/apktool-bin 2.5.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/platform-tools 31.0.2: Android platform-tools same as android-tools, but latest versions without sdk from google
 kde-misc/sierrabreezeenhanced 1.0.0 9999: Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
@@ -15,4 +16,4 @@ media-libs/avidemux-plugins 2.7.8-r1: Plugins for the video editor media-video/a
 media-video/avidemux 2.7.8: Video editor designed for simple cutting, filtering and encoding tasks
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 www-apps/rutorrent 3.10-r10: ruTorrent is a front-end for the popular Bittorrent client rTorrent
-x11-themes/materia-kde 20210624: GTK port of Materia Theme for Plasma 5 desktop.
+x11-themes/materia-kde 20210722: GTK port of Materia Theme for Plasma 5 desktop.
