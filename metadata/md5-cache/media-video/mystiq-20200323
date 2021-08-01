@@ -10,5 +10,5 @@ LICENSE=LGPL-2
 RDEPEND=dev-qt/qtcore dev-qt/qtgui dev-qt/qtnetwork dev-qt/qtopengl dev-qt/qtmultimedia dev-qt/qtwidgets dev-qt/qtquickcontrols2 media-video/ffmpeg sox? ( media-sound/sox x11-libs/libnotify )
 SLOT=0
 SRC_URI=https://github.com/swl-x/MystiQ/archive/v20.03.23.tar.gz -> mystiq-20200323.tar.gz
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1
+_eclasses_=multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa
 _md5_=942b0eb64e5746920326cdc9e3285482
