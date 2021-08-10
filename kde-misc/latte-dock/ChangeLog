@@ -1,0 +1,25 @@
+# ChangeLog for kde-misc/latte-dock
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com> -Manifest.gz,
+  -latte-dock-9999.ebuild:
+  Updated '2021-03-07-10:20'...
+
+  15 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2021-02-15'...
+
+  09 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2021-02-09'...
+
+  08 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2021-02-08'...
+
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2021-01-28'...
+
+*latte-dock-9999 (28 Jan 2021)
+
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +latte-dock-9999.ebuild:
+  Initial commit
+
