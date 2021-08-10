@@ -2,6 +2,7 @@ app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on th
 app-office/hibiscus 2.10.3 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-portage/portage-lostfiles 0.2.3: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
+app-portage/remerge 0.0.8: Continue unsuccessfull merge of last ebuild from /var/log/emerge.log
 app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
 app-portage/showem 1.0.3 9999: View output of a parallel emerge from a separate terminal
 app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on figlet engine.
@@ -9,6 +10,7 @@ dev-java/jameica 2.10.0 9999: Official prebuilt nightly Jameica Online Banking S
 dev-util/android-udev-rules 20210501: Comprehensive list of udev rules to connect to android devices
 dev-util/apktool-bin 2.5.0: A tool for reverse engineering 3rd party, closed, binary Android apps
 dev-util/platform-tools 31.0.2: Android platform-tools same as android-tools, but latest versions without sdk from google
+kde-misc/latte-dock 9999: Elegant dock, based on KDE Frameworks
 kde-misc/sierrabreezeenhanced 1.0.0 9999: Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-libs/avidemux-core 2.7.8: Core libraries for simple video cutting, filtering and encoding tasks
