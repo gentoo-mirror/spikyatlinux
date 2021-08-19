@@ -1,14 +1,10 @@
-# ChangeLog for kde-misc/latte-dock
+# ChangeLog for net-print/epson-inkjet-printer-escpr
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*latte-dock-9999 (10 Aug 2021)
-
-  10 Aug 2021; SpikyAtLinux <spikyatlinux@gmail.com> +latte-dock-9999.ebuild:
-  Updated '2021-08-10-19:54'...
-
   07 Mar 2021; SpikyAtLinux <spikyatlinux@gmail.com> -Manifest.gz,
-  -latte-dock-9999.ebuild:
+  -epson-inkjet-printer-escpr-1.7.8.ebuild, -files/1.6.5-warnings.patch,
+  -files/epson-inkjet-printer-escpr-1.7.8-fnocommon.patch:
   Updated '2021-03-07-10:20'...
 
   15 Feb 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
@@ -23,8 +19,10 @@
   28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
   Updated '2021-01-28'...
 
-*latte-dock-9999 (28 Jan 2021)
+*epson-inkjet-printer-escpr-1.7.8 (28 Jan 2021)
 
-  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com> +latte-dock-9999.ebuild:
+  28 Jan 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +epson-inkjet-printer-escpr-1.7.8.ebuild, +files/1.6.5-warnings.patch,
+  +files/epson-inkjet-printer-escpr-1.7.8-fnocommon.patch:
   Initial commit
 
