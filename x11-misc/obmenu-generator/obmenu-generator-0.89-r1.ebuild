@@ -30,8 +30,8 @@ PATCHES=(
 )
 
 src_install() {
-	insinto /usr/bin/
-	doins $S/obmenu-generator-0.89/obmenu-generator
+	exeinto /usr/bin/
+	doexe $S/obmenu-generator-0.89/obmenu-generator
 
 	insinto /etc/xdg/obmenu-generator
 	doins $S/obmenu-generator-0.89/schema.pl
