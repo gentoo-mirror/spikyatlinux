@@ -1,0 +1,10 @@
+# ChangeLog for x11-misc/obmenu-generator
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*obmenu-generator-0.89-r1 (22 Aug 2021)
+
+  22 Aug 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/fix-gtk-cache-error.patch, +obmenu-generator-0.89-r1.ebuild:
+  Updated '2021-08-22-21:20'...
+
