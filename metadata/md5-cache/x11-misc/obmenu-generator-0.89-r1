@@ -10,4 +10,4 @@ RDEPEND=dev-lang/perl[gdbm] dev-perl/Data-Dump gtk2-icon? ( dev-perl/Gtk2 ) gtk3
 SLOT=0
 SRC_URI=https://github.com/trizen/obmenu-generator/archive/0.89.tar.gz -> obmenu-generator-0.89.tar.gz
 _eclasses_=optfeature	30ce9dec2b8943338c9b015bd32bac6a
-_md5_=d6a595c5e6048e0aec3662de7dec23de
+_md5_=91f8ad6641d1d7c41e2ba7017c14ad25
