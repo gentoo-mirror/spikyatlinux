@@ -16,9 +16,9 @@ if [[ "${PV}" == *9999* ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/bottlesdevs/${PN^}.git"
 else
-	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}-treviso-3.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64"
-	S="${WORKDIR}/${P^}"
+	S="${WORKDIR}/${PN^}-${PV}-treviso-3"
 fi
 
 RESTRICT="mirror"
@@ -36,6 +36,7 @@ DEPEND="
 "
 RDEPEND="
 	${DEPEND}
+	app-arch/patool
 	gui-libs/libhandy:1[introspection]
 "
 
