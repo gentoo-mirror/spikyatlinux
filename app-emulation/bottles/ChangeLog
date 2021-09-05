@@ -1,0 +1,11 @@
+# ChangeLog for app-emulation/bottles
+# Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*bottles-9999 (05 Sep 2021)
+*bottles-2021.8.28 (05 Sep 2021)
+
+  05 Sep 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +bottles-2021.8.28.ebuild, +bottles-9999.ebuild:
+  Updated '2021-09-05-19:54'...
+
