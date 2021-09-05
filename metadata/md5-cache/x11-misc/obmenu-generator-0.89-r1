@@ -2,6 +2,7 @@ DEFINED_PHASES=install postinst
 DESCRIPTION=A fast pipe/static menu generator for the Openbox Window Manager
 EAPI=7
 HOMEPAGE=https://github.com/trizen/obmenu-generator
+INHERIT=optfeature
 IUSE=+gtk2-icon +gtk3-icon
 KEYWORDS=amd64 x86
 LICENSE=GPL-3+
