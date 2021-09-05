@@ -2,6 +2,10 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  22 Aug 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  obmenu-generator-0.89-r1.ebuild:
+  Updated '2021-08-22-21:33'...
+
 *obmenu-generator-0.89-r1 (22 Aug 2021)
 
   22 Aug 2021; SpikyAtLinux <spikyatlinux@gmail.com>
