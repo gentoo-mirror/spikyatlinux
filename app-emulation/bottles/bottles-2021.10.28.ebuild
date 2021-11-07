@@ -16,9 +16,9 @@ if [[ "${PV}" == *9999* ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/bottlesdevs/${PN^}.git"
 else
-	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}-treviso-3.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}-treviso.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64"
-	S="${WORKDIR}/${PN^}-${PV}-treviso-3"
+	S="${WORKDIR}/${PN^}-${PV}-treviso"
 fi
 
 RESTRICT="mirror"
@@ -30,6 +30,7 @@ DEPEND="
 	${PYTHON_DEPS}
 	>=x11-libs/gtk+-3.24.10[introspection]
 	dev-libs/appstream-glib[introspection]
+	dev-python/markdown
 	$(python_gen_cond_dep '
 		dev-python/pygobject:3[${PYTHON_MULTI_USEDEP},cairo]
 	')
