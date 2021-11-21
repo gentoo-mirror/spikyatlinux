@@ -2,6 +2,15 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  21 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> +Manifest.gz:
+  Updated '2021-11-21-16:25'...
+
+*bottles-2021.10.28 (07 Nov 2021)
+
+  07 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  -bottles-2021.8.28.ebuild, +bottles-2021.10.28.ebuild:
+  Updated '2021-11-07-13:01'...
+
   05 Sep 2021; SpikyAtLinux <spikyatlinux@gmail.com> bottles-9999.ebuild:
   Updated '2021-09-05-19:56'...
 
