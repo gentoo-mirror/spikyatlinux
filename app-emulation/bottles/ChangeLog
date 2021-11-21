@@ -11,6 +11,12 @@
   -bottles-2021.8.28.ebuild, +bottles-2021.10.28.ebuild:
   Updated '2021-11-07-13:01'...
 
+*bottles-2021.10.14 (27 Oct 2021)
+
+  27 Oct 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +bottles-2021.10.14.ebuild:
+  Updated '2021-10-27-13:18'...
+
   05 Sep 2021; SpikyAtLinux <spikyatlinux@gmail.com> bottles-9999.ebuild:
   Updated '2021-09-05-19:56'...
 

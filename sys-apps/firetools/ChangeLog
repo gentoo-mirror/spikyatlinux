@@ -12,3 +12,10 @@
   +firetools-9999.ebuild:
   Updated '2021-11-07-13:01'...
 
+*firetools-9999 (27 Oct 2021)
+*firetools-0.9.64 (27 Oct 2021)
+
+  27 Oct 2021; SpikyAtLinux <spikyatlinux@gmail.com> +firetools-0.9.64.ebuild,
+  +firetools-9999.ebuild:
+  Updated '2021-10-27-13:18'...
+

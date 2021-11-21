@@ -5,6 +5,12 @@
   21 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
   Updated '2021-11-21-16:25'...
 
+*rutorrent-3.10-r12 (27 Oct 2021)
+
+  27 Oct 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  -rutorrent-3.10-r11.ebuild, +rutorrent-3.10-r12.ebuild:
+  Updated '2021-10-27-13:18'...
+
 *rutorrent-3.10-r11 (05 Sep 2021)
 
   05 Sep 2021; SpikyAtLinux <spikyatlinux@gmail.com>
