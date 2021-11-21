@@ -16,9 +16,9 @@ if [[ "${PV}" == *9999* ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/bottlesdevs/${PN^}.git"
 else
-	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}-treviso.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/${PV}-treviso-4.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64"
-	S="${WORKDIR}/${PN^}-${PV}-treviso"
+	S="${WORKDIR}/${PN^}-${PV}-treviso-4"
 fi
 
 RESTRICT="mirror"
