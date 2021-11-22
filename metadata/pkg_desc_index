@@ -16,7 +16,7 @@ dev-util/platform-tools 31.0.3: Android platform-tools same as android-tools, bu
 kde-misc/sierrabreezeenhanced 1.0.0 9999: Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
 media-gfx/photocollage 1.4.4: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
-net-print/epson-inkjet-printer-escpr 1.7.16: Epson Inkjet Printer Driver (ESC/P-R)
+net-print/epson-inkjet-printer-escpr 1.7.17: Epson Inkjet Printer Driver (ESC/P-R)
 sys-apps/firetools 0.9.64 9999: Graphical user interface of Firajail security sandbox
 www-apps/rutorrent 2021.11.16: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-themes/materia-kde 20210814: GTK port of Materia Theme for Plasma 5 desktop.
