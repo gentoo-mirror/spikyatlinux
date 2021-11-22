@@ -1,4 +1,4 @@
-# Copyright 2018-2021 spikyatlinux overlay
+# Copyright 2021 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -6,6 +6,7 @@ EAPI=7
 inherit eutils
 
 DESCRIPTION="View output of a parallel emerge from a separate terminal"
+HOMEPAGE="${BASE_SERVER_URI}/${PN}"
 
 if [[ ${PV} == 9999 ]]; then
 	inherit git-r3
@@ -13,7 +14,6 @@ if [[ ${PV} == 9999 ]]; then
 	KEYWORDS=""
 else
     BASE_SERVER_URI="https://github.com/TheGreatMcPain"
-    HOMEPAGE="${BASE_SERVER_URI}/${PN}"
     SRC_URI="${BASE_SERVER_URI}/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
     KEYWORDS="~amd64 ~x86"
 fi

@@ -1,5 +1,5 @@
-# Copyright 2018-2021 spikyatlinux overlay
-# Distributed under the terms of the GNU General Public License v3
+# Copyright 2021 Gentoo Authors
+# Distributed under the terms of the GNU General Public License v2
 
 EAPI="7"
 

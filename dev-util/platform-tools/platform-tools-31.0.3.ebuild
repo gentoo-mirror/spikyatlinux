@@ -1,10 +1,10 @@
-# Copyright 2018-2021 spikyatlinux overlay
+# Copyright 2021 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI="6"
 inherit eutils unpacker
 
-DESCRIPTION="Android platform-tools same as android-tools, but latest versions without sdk from google"
+DESCRIPTION="Android platform-tools same as android-tools, but without sdk from google"
 HOMEPAGE="https://developer.android.com/studio/releases/platform-tools.html"
 SRC_URI="https://dl.google.com/android/repository/platform-tools-latest-linux.zip -> ${P}-${PV}.zip"
 
