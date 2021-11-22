@@ -12,7 +12,7 @@ dev-java/jameica 2.10.0 9999: Official prebuilt nightly Jameica Online Banking S
 dev-php/pdlib 1.0.2: PHP bindings for dlib
 dev-util/android-udev-rules 20210501: Comprehensive list of udev rules to connect to android devices
 dev-util/apktool-bin 2.5.0: A tool for reverse engineering 3rd party, closed, binary Android apps
-dev-util/platform-tools 31.0.3: Android platform-tools same as android-tools, but latest versions without sdk from google
+dev-util/platform-tools 31.0.3: Android platform-tools same as android-tools, but without sdk from google
 kde-misc/sierrabreezeenhanced 1.0.3 9999: Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
 media-gfx/photocollage 1.4.5: Graphical tool to make photo collage posters
 media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter

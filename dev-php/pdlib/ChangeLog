@@ -2,6 +2,13 @@
 # Copyright 1999-2021 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> -Manifest.gz,
+  pdlib-1.0.2.ebuild:
+  Updated '2021-11-22-11:53'...
+
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
+  Updated '2021-11-22-11:07'...
+
   22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> Manifest.gz:
   Updated '2021-11-22-11:06'...
 
