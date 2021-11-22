@@ -19,4 +19,4 @@ media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 net-print/epson-inkjet-printer-escpr 1.7.17: Epson Inkjet Printer Driver (ESC/P-R)
 sys-apps/firetools 0.9.64 9999: Graphical user interface of Firajail security sandbox
 www-apps/rutorrent 2021.11.16: ruTorrent is a front-end for the popular Bittorrent client rTorrent
-x11-themes/materia-kde 20210814: GTK port of Materia Theme for Plasma 5 desktop.
+x11-themes/materia-kde 20211027: GTK port of Materia Theme for Plasma 5 desktop.
