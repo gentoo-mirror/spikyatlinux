@@ -3,7 +3,7 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{6..10} )
+PYTHON_COMPAT=( python3_{7..10} )
 inherit python-single-r1 meson gnome2-utils xdg
 
 DESCRIPTION="Easily manage WINE prefixes in a new way"
@@ -32,7 +32,7 @@ DEPEND="
 	dev-libs/appstream-glib[introspection]
 	dev-python/markdown
 	$(python_gen_cond_dep '
-		dev-python/pygobject:3[${PYTHON_MULTI_USEDEP},cairo]
+		dev-python/pygobject:3[${PYTHON_USEDEP},cairo]
 	')
 "
 RDEPEND="
