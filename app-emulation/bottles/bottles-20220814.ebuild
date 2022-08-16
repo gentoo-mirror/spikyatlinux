@@ -23,7 +23,7 @@ else
 	year="${PV::4}" month="${PV:4:2}" day="${PV:6:2}" patch="${PVR:10:1}"
 	MY_PV="${year}.${month#0}.${day#0}-${VERSION_CODENAME}${patch:+"-${patch}"}"
 	SRC_URI="https://github.com/bottlesdevs/${PN^}/archive/refs/tags/${MY_PV}.tar.gz -> ${PF}.tar.gz"
-	KEYWORDS=""
+	KEYWORDS="~amd64"
 	S="${WORKDIR}/${PN^}-${MY_PV}"
 fi
 
@@ -58,6 +58,7 @@ RDEPEND="
 	app-arch/cabextract
 	app-arch/p7zip
 	app-i18n/ibus
+	dev-lang/sassc
 	dev-libs/expat
 	dev-libs/glib:2
 	dev-libs/libffi
