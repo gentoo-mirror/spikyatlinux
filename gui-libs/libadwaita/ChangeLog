@@ -2,6 +2,9 @@
 # Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  16 Aug 2022; Alexander Weber <web.alexander@web.de> libadwaita-1.2.ebuild:
+  update app-emulation/bottles ebuilds
+
 *libadwaita-1.2 (06 Aug 2022)
 
   06 Aug 2022; SpikyAtLinux <spikyatlinux@gmail.com> +libadwaita-1.2.ebuild:
