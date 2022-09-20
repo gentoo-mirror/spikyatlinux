@@ -1,15 +1,16 @@
-BDEPEND=>=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5 >=kde-frameworks/extra-cmake-modules-5.82.0:5 dev-util/ninja >=dev-util/cmake-3.9.6
+BDEPEND=>=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5 >=kde-frameworks/extra-cmake-modules-5.82.0:5
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup test
-DEPEND=kde-frameworks/plasma kde-plasma/kdecoration kde-frameworks/kiconthemes dev-qt/qtcore dev-qt/qtgui dev-qt/qtdeclarative dev-qt/qtx11extras dev-util/desktop-file-utils x11-misc/shared-mime-info dev-qt/qtcore:5
-DESCRIPTION=Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration
-EAPI=7
-HOMEPAGE=https://github.com/kupiqu/SierraBreezeEnhanced.git
-INHERIT=ecm cmake-utils multilib
+DEPEND=kde-frameworks/plasma kde-plasma/kdecoration kde-frameworks/kiconthemes dev-qt/qtcore dev-qt/qtgui dev-qt/qtdeclarative dev-qt/qtx11extras dev-qt/qtcore:5
+DESCRIPTION=A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
+EAPI=8
+HOMEPAGE=https://github.com/kupiqu/SierraBreezeEnhanced
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=ecm cmake multilib
 IUSE=debug debug
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=kde-frameworks/plasma kde-plasma/kdecoration kde-frameworks/kiconthemes dev-qt/qtcore dev-qt/qtgui dev-qt/qtdeclarative dev-qt/qtx11extras || ( kde-frameworks/breeze-icons:* kde-frameworks/oxygen-icons:* ) >=kde-frameworks/kf-env-4 dev-qt/qtcore:5
 SLOT=0
 SRC_URI=https://github.com/kupiqu/SierraBreezeEnhanced/archive/refs/tags/V1.0.3.tar.gz -> sierrabreezeenhanced-1.0.3.tar.gz
-_eclasses_=cmake	44afbf15c35884f7c840470f1cf05d0d	cmake-utils	9e91c7445357e208267f5ab7e693d456	ecm	542fb4c59adc3702f566140a9bdf49f8	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	dab5d8ec471d025b79c9e6906bcf3bff	flag-o-matic	a3abd6002fafb3022597be6b8d01f88b	multilib	4fbbbc98f236f1b43acd99476bc3cd85	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	58ec4e54962bf45d065fb95030701514	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	virtualx	975d49ff3b3f451efe7a95f230532135	wrapper	4a1902f969e5718126434fc35f3a0d9c	xdg	6024fbc93167fad782e2032933654857	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
-_md5_=d5abc0a87c7b71a015b24da6f1b46a3a
+_eclasses_=cmake	44afbf15c35884f7c840470f1cf05d0d	ecm	6f19455c3ec51029d40be1fdc6cdb8e0	flag-o-matic	29a755b1291d64133634d80b0328f153	multilib	5ca4e49abed8e3a2f7b56920eadee157	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	58ec4e54962bf45d065fb95030701514	toolchain-funcs	1542e649be915f43f6908a9e93909961	virtualx	644887c82aefdf12001489391fca4f02	xdg	6024fbc93167fad782e2032933654857	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
+_md5_=4e2c5a0ffc1e67e8a9fa83974dd11183
