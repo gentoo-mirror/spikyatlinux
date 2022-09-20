@@ -1,0 +1,11 @@
+# ChangeLog for app-misc/font-manager
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*font-manager-9999 (20 Sep 2022)
+*font-manager-0.8.8 (20 Sep 2022)
+
+  20 Sep 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  +font-manager-0.8.8.ebuild, +font-manager-9999.ebuild:
+  Updated '2022-09-20-12:32'...
+
