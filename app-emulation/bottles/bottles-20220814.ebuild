@@ -58,7 +58,6 @@ RDEPEND="
 	app-arch/cabextract
 	app-arch/p7zip
 	app-i18n/ibus
-	dev-lang/sassc
 	dev-libs/expat
 	dev-libs/glib:2
 	dev-libs/libffi
@@ -74,6 +73,7 @@ RDEPEND="
 	media-libs/freetype
 	media-libs/libcanberra[gtk3]
 	media-libs/vulkan-loader
+	media-gfx/imagemagick
 	net-fs/samba[winbind]
 	net-libs/gnutls
 	net-libs/webkit-gtk:4
