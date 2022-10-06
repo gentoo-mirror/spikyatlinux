@@ -1,0 +1,11 @@
+# ChangeLog for app-backup/timeshift-autosnap
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*timeshift-autosnap-0.9-r1 (06 Oct 2022)
+
+  06 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/timeshift-autosnap-remove-arch-specific.patch, +metadata.xml,
+  +timeshift-autosnap-0.9-r1.ebuild:
+  Updated '2022-10-06-12:18'...
+

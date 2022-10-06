@@ -1,0 +1,11 @@
+# ChangeLog for app-backup/grub-btrfs
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*grub-btrfs-4.11-r2 (06 Oct 2022)
+
+  06 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/grub-btrfs-4.11-remove-docs-from-make.patch,
+  +grub-btrfs-4.11-r2.ebuild:
+  Updated '2022-10-06-12:18'...
+
