@@ -38,9 +38,8 @@ media-gfx/iscan-plugin-network-nt 1.1.4: Network scanning plugin for EPSON scann
 media-gfx/photocollage 1.4.5: Graphical tool to make photo collage posters
 media-plugins/kodi-inputstream-adaptive 19.0.3: Kodi's Adaptive inputstream addon
 media-tv/hypnotix 2.6: An IPTV streaming application
-media-video/mystiq 20200323: Qt5/C++ FFmpeg Media Converter
 net-print/epson-inkjet-printer-escpr 1.7.17 1.7.19: Epson Inkjet Printer Driver (ESC/P-R)
-sys-apps/czkawka-bin 4.1.0: A multi-functional app to find duplicates, empty folders, similar images, etc.
+sys-apps/czkawka-bin 5.0.2: A multi-functional app to find duplicates, empty folders, similar images, etc.
 sys-apps/firetools 0.9.64 9999: Graphical user interface of Firajail security sandbox
 sys-fs/fvs 0.3.4: File Versioning System with hash comparison, deduplication and data storage to create unlinked states that can be deleted
 www-apps/rutorrent 2022.06.02: ruTorrent is a front-end for the popular Bittorrent client rTorrent

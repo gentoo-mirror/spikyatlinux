@@ -1,0 +1,9 @@
+# ChangeLog for app-portage/pyerge
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*pyerge-0.7.2 (12 Oct 2022)
+
+  12 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com> +pyerge-0.7.2.ebuild:
+  Updated '2022-10-12-19:06'...
+
