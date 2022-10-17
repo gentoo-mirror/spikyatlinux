@@ -3,7 +3,7 @@ app-backup/timeshift 22.06.5: A system restore utility for Linux
 app-backup/timeshift-autosnap 0.9-r1: Automatically creates a timeshift-snapshot when executed
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-misc/font-manager 0.8.8 9999: A simple font management application for Gtk+ Desktop Environments
-app-office/hibiscus 2.10.7 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/hibiscus 2.10.8 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica-syntax 2.10.0: Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
 app-portage/portage-lostfiles 0.2.3: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
@@ -23,6 +23,6 @@ media-gfx/iscan-plugin-network-nt 1.1.4: Network scanning plugin for EPSON scann
 media-plugins/kodi-inputstream-adaptive 19.0.3: Kodi's Adaptive inputstream addon
 net-print/epson-inkjet-printer-escpr 1.7.22: Epson Inkjet Printer Driver (ESC/P-R)
 sys-apps/czkawka-bin 5.0.2: A multi-functional app to find duplicates, empty folders, similar images, etc.
-www-apps/rutorrent 2022.06.02: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+www-apps/rutorrent 2022.09.19: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-misc/tint2-psuinfo 1.2: A psutil-based command to display customizable system info, intended for Tint2 or other panels
 x11-themes/materia-kde 20220823: GTK port of Materia Theme for Plasma 5 desktop.
