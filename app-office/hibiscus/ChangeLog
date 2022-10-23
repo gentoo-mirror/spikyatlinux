@@ -2,6 +2,12 @@
 # Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*hibiscus-2.10.8 (17 Oct 2022)
+
+  17 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.7.ebuild,
+  +hibiscus-2.10.8.ebuild:
+  Updated '2022-10-17-18:16'...
+
 *hibiscus-2.10.7 (27 Jun 2022)
 
   27 Jun 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.6.ebuild,
