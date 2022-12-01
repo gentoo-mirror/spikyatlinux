@@ -25,8 +25,8 @@ LICENSE="GPL-2"
 SLOT="0"
 
 RDEPEND="
-	>=dev-python/psutil-5.6.0[${PYTHON_USEDEP}]
-	>=dev-python/urwid-2.0.1[${PYTHON_USEDEP}]
+	>=dev-python/psutil-5.9.1[${PYTHON_USEDEP}]
+	>=dev-python/urwid-2.1.2[${PYTHON_USEDEP}]
 "
 
 distutils_enable_tests unittest
