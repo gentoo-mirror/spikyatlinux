@@ -25,6 +25,8 @@ media-plugins/kodi-inputstream-adaptive 19.0.3: Kodi's Adaptive inputstream addo
 net-print/epson-inkjet-printer-escpr 1.7.22: Epson Inkjet Printer Driver (ESC/P-R)
 sys-apps/czkawka-bin 5.0.2: A multi-functional app to find duplicates, empty folders, similar images, etc.
 www-apps/rutorrent 2022.09.19: ruTorrent is a front-end for the popular Bittorrent client rTorrent
+x11-misc/mimeo 2022.7: Open files by MIME-type or file name using regular expressions.
+x11-misc/obfilebrowser 2021: An Openbox pipe menu application and file browser.
 x11-misc/tint2-psuinfo 1.2: A psutil-based command to display customizable system info, intended for Tint2 or other panels
 x11-themes/materia-kde 20220823: GTK port of Materia Theme for Plasma 5 desktop.
 x11-wm/wmutils 1.7 9999: Set of window manipulation tools
