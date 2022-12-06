@@ -1,0 +1,10 @@
+# ChangeLog for x11-misc/obfilebrowser
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*obfilebrowser-2021 (03 Dec 2022)
+
+  03 Dec 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  +obfilebrowser-2021.ebuild:
+  Updated '2022-12-03-22:09'...
+

@@ -1,0 +1,9 @@
+# ChangeLog for x11-misc/mimeo
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*mimeo-2022.7 (03 Dec 2022)
+
+  03 Dec 2022; SpikyAtLinux <spikyatlinux@gmail.com> +mimeo-2022.7.ebuild:
+  Updated '2022-12-03-22:09'...
+

@@ -10,7 +10,6 @@ app-portage/portage-lostfiles 0.2.3: A simple script to identify files not track
 app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/pyerge 0.7.2: Wrapper tool for emerge - it can mount RAM disk and compile packages inside it.
 app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
-app-shells/oh-my-zsh 20220910: A ready-to-use zsh configuration with plugins
 app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.2 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 dev-php/pdlib 1.0.2: PHP bindings for dlib
