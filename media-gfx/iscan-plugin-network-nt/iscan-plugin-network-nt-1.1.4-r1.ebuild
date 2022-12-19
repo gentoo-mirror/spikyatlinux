@@ -13,7 +13,7 @@ HOMEPAGE="https://download.ebz.epson.net/dsc/search/01/search/?OSC=LX"
 
 ISCAN_VERSION="3.65.0"
 
-SRC_URI="https://download2.ebz.epson.net/imagescanv3/fedora/latest1/rpm/x64/imagescan-bundle-fedora-32-${ISCAN_VERSION}.x64.rpm.tar.gz"
+SRC_URI="https://web.archive.org/web/20221027001620if_/https://download2.ebz.epson.net/imagescanv3/fedora/latest1/rpm/x64/imagescan-bundle-fedora-32-${ISCAN_VERSION}.x64.rpm.tar.gz"
 LICENSE="GPL-3+"
 SLOT="0"
 KEYWORDS="~amd64"

@@ -2,6 +2,10 @@
 # Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+  16 Dec 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  epson-inkjet-printer-escpr-1.7.22.ebuild:
+  Updated '2022-12-16-12:50'...
+
 *epson-inkjet-printer-escpr-1.7.22 (16 Oct 2022)
 
   16 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com>
