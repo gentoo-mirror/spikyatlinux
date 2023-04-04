@@ -1,10 +1,8 @@
 app-admin/s-tui 1.1.4: Stress-Terminal UI monitoring tool
-app-backup/timeshift 22.06.5: A system restore utility for Linux
-app-backup/timeshift-autosnap 0.9-r1: Automatically creates a timeshift-snapshot when executed
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-misc/font-manager 0.8.8 9999: A simple font management application for Gtk+ Desktop Environments
 app-mobilephone/abextract 2.0-r1: Tool to extract and repack ADB backup
-app-office/hibiscus 2.10.9 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/hibiscus 2.10.10 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica-syntax 2.10.0: Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
 app-portage/portage-lostfiles 0.2.3: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner

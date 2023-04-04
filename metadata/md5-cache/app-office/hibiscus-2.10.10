@@ -1,5 +1,5 @@
 DEFINED_PHASES=install prepare
-DESCRIPTION=Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
+DESCRIPTION=Official prebuilt nightly HBCI Plugin for Jameica
 EAPI=7
 HOMEPAGE=https://www.willuhn.de/products/hibiscus/
 INHERIT=flag-o-matic toolchain-funcs
@@ -8,6 +8,6 @@ LICENSE=GPL-3
 RDEPEND=>=dev-java/jameica-2.10.0
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://www.willuhn.de/products/syntax/releases/2.10/syntax-2.10.0.zip
+SRC_URI=https://www.willuhn.de/products/hibiscus/releases/2.10/hibiscus-2.10.10.zip
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	8f942ebdcf04334697649d4a0bf65a32	flag-o-matic	69394e25812406faa1f90edaf4969395	multilib	5ca4e49abed8e3a2f7b56920eadee157	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	wrapper	4a1902f969e5718126434fc35f3a0d9c
-_md5_=b69fc6bedbd30259c28a56231d474b60
+_md5_=e42ad0e1356373d78e22f0d8821f5b25

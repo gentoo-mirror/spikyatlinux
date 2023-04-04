@@ -11,5 +11,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=virtual/httpd-php app-admin/webapp-config
 SLOT=2022.09.19
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53	webapp	67df5bab481d0b9428f9ab7b3de690e4
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a	webapp	ad783226c3d38ede384db5643af60dbd
 _md5_=13a6b142ff15c9765ca94b26d84659e4
