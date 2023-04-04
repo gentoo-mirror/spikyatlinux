@@ -6,3 +6,6 @@
 # v1.930 Fixed a security hole that allows remote exploits if the option to
 # change expired passwords is enabled.
 >=app-admin/webmin-1.930
+
+# Fixed download link
+=media-gfx/iscan-plugin-network-nt-1.1.4-r1
