@@ -2,19 +2,19 @@ app-admin/s-tui 1.1.4: Stress-Terminal UI monitoring tool
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-misc/font-manager 0.8.8 9999: A simple font management application for Gtk+ Desktop Environments
 app-mobilephone/abextract 2.0-r1: Tool to extract and repack ADB backup
-app-office/hibiscus 2.10.10 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/hibiscus 2.10.12 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica-syntax 2.10.0: Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
 app-portage/portage-lostfiles 0.2.3: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9: /etc/portage cleaner
 app-portage/pyerge 0.7.2: Wrapper tool for emerge - it can mount RAM disk and compile packages inside it.
 app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1-r1: Ascii Design is an ascii-art program based on figlet engine.
-dev-java/jameica 2.10.2 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
-dev-php/pdlib 1.0.2: PHP bindings for dlib
+dev-java/jameica 2.10.4 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
+dev-php/pdlib 1.0.2 1.1.0: PHP bindings for dlib
 dev-util/android-tools-google 34.0.1: Android platform-tools same as android-tools, but without sdk from google
 dev-util/apktool-bin 2.6.1: A tool for reverse engineering 3rd party, closed, binary Android apps
 kde-misc/kim5 9999: Kde Image Menu
-kde-misc/sierrabreezeenhanced 1.3.1: A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
+kde-misc/sierrabreezeenhanced 1.3.3: A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
 media-fonts/nerd-fonts 2.1.0: Collection of fonts that are patched to include a high number of glyphs (icons).
 media-gfx/icoextract 0.1.4: Extract icons from Windows PE files (.exe/.dll)
 media-gfx/iscan-plugin-network-nt 1.1.4-r1: Network scanning plugin for EPSON scanners (nonfree)
