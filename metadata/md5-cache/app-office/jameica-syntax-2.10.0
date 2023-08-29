@@ -1,6 +1,6 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
-EAPI=8
+EAPI=7
 HOMEPAGE=https://www.willuhn.de/products/hibiscus/
 INHERIT=flag-o-matic toolchain-funcs
 KEYWORDS=x86 amd64

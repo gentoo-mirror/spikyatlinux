@@ -15,7 +15,6 @@ kde-misc/sierrabreezeenhanced 1.3.3: A fork of BreezeEnhanced to make it (arguab
 media-fonts/nerd-fonts 2.1.0: Collection of fonts that are patched to include a high number of glyphs (icons).
 media-gfx/icoextract 0.1.4: Extract icons from Windows PE files (.exe/.dll)
 media-gfx/iscan-plugin-network-nt 1.1.4-r1: Network scanning plugin for EPSON scanners (nonfree)
-media-plugins/kodi-inputstream-adaptive 19.0.3: Kodi's Adaptive inputstream addon
 net-print/epson-inkjet-printer-escpr 1.7.22: Epson Inkjet Printer Driver (ESC/P-R)
 x11-misc/lightdm-qt5-greeter 0.11.1: lightdm-qt5-greeter is a simple frontend for the lightdm displaymanager, written in c++ and qt5.
 x11-misc/mimeo 2022.7: Open files by MIME-type or file name using regular expressions.
