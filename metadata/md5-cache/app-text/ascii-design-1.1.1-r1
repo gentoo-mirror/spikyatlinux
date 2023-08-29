@@ -2,7 +2,7 @@ BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/
 DEFINED_PHASES=compile install postinst
 DEPEND=dev-qt/qtcore:5 app-misc/figlet
 DESCRIPTION=Ascii Design is an ascii-art program based on figlet engine.
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/Faster3ck/Ascii-Design
 INHERIT=eutils qmake-utils autotools desktop eutils
 KEYWORDS=amd64 ~x86

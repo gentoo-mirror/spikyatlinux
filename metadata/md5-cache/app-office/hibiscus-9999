@@ -1,6 +1,6 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=Official prebuilt nightly HBCI Plugin for Jameica
-EAPI=7
+EAPI=8
 HOMEPAGE=https://www.willuhn.de/products/hibiscus/
 INHERIT=flag-o-matic toolchain-funcs
 LICENSE=GPL-3

@@ -1,7 +1,7 @@
 BDEPEND=test? ( >=dev-python/psutil-5.9.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-python/urwid-2.1.2[python_targets_python3_10(-)?,python_targets_python3_11(-)?] python_targets_python3_10? ( dev-python/unittest-or-fail[python_targets_python3_10(-)?,python_targets_python3_11(-)?] ) python_targets_python3_11? ( dev-python/unittest-or-fail[python_targets_python3_10(-)?,python_targets_python3_11(-)?] ) ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) >=dev-python/setuptools-67.8.0-r1[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
 DEFINED_PHASES=compile configure install postinst prepare test
 DESCRIPTION=Stress-Terminal UI monitoring tool
-EAPI=7
+EAPI=8
 HOMEPAGE=https://amanusk.github.io/s-tui/
 INHERIT=distutils-r1 optfeature
 IUSE=test python_targets_python3_10 python_targets_python3_11
