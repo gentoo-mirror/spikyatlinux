@@ -1,0 +1,102 @@
+--- a/portconf	2023-08-06 11:05:55.018560696 +0200
++++ b/portconf	2023-08-06 11:02:11.506544622 +0200
+@@ -26,8 +26,8 @@
+ COUNT="${COUNT:-10}"
+ ############################################################################
+ ################ ignore ####################################################
+-[[ -n "${IGNORE_CATEGORY}" ]] && IGNORE_CATEGORY="$(sed -e '/^$/d' -e 's/$/\/.*/g' <<< "`tr "[:space:]" $'\n' <<< "${IGNORE_CATEGORY}"`")"
+-[[ -n "${IGNORE_PN}" ]] && IGNORE_PN="$(sed -e '/^$/d' -e 's/^/.*\//g' <<< "`tr "[:space:]" $'\n' <<< "${IGNORE_PN}"`")"
++[[ -n "${IGNORE_CATEGORY}" ]] && IGNORE_CATEGORY="$(sed -e '/^$/d' -e 's/$/\/.*/g' <<< "$(tr "[:space:]" $'\n' <<< "${IGNORE_CATEGORY}")")"
++[[ -n "${IGNORE_PN}" ]] && IGNORE_PN="$(sed -e '/^$/d' -e 's/^/.*\//g' <<< "$(tr "[:space:]" $'\n' <<< "${IGNORE_PN}")")"
+ IGNORE="${IGNORE_CATEGORY}
+ ${IGNORE_PN}"
+ IGNORE="$(sed -e '/^$/d' <<< "${IGNORE}")"
+@@ -37,11 +37,11 @@
+ sort_passed_uses(){
+ 	for opt in ${1};do
+ 		opt="${opt//\*/\\*}"
+-		uses="$(tr "[:space:]" $'\n' <<< ${uses} | grep -v -e "^${opt#-}$" -e "^\-${opt#-}$" | tr $'\n' " ")"
+-		uses+=" $(tr "[:space:]" $'\n' <<< ${1} | grep -e "^${opt#-}$" -e "^\-${opt#-}$" | tail -n1)"
++		uses="$(tr "[:space:]" $'\n' <<< "${uses}" | grep -v -e "^${opt#-}$" -e "^-${opt#-}$" | tr $'\n' " ")"
++		uses+=" $(tr "[:space:]" $'\n' <<< "${1}" | grep -e "^${opt#-}$" -e "^-${opt#-}$" | tail -n1)"
+ 		unset opt
+ 	done
+-	echo ${uses}
++	echo "${uses}"
+ 	unset uses
+ }
+ ############################################################################
+@@ -51,11 +51,11 @@
+ 	[[ -f "${1}/make.defaults" ]] && . "${1}/make.defaults"
+ 	use="$USE"
+ 	if [[ -f "${1}/parent" ]]; then
+-		for path in `cat ${1}/parent`;do
++		for path in $(cat "${1}"/parent);do
+ 			use="$use $(profile "${1}/$path")"
+ 		done
+ 	fi
+-	echo $use
++	echo "$use"
+ }
+ 
+ [[ -h "/etc/make.profile" ]] && pre_profile="$(profile `readlink -f /etc/make.profile`)"
+@@ -811,7 +811,7 @@
+ 	set -f
+ 	FULL="${PROFILE} ${MAKE_USES}"
+ 	for opt in ${FULL};do
+-		GLOBAL+=" $(echo ${FULL} | tr "[:space:]" $'\n' | grep -e "^${opt#-}$" -e "^\-${opt#-}$" | tail -n1)"
++		GLOBAL+=" $(echo ${FULL} | tr "[:space:]" $'\n' | grep -e "^${opt#-}$" -e "^-${opt#-}$" | tail -n1)"
+ 	done
+ 	GLOBAL="$(echo ${GLOBAL} | tr "[:space:]" $'\n' | sort -u)"
+ ############################################################################
+@@ -883,7 +883,7 @@
+ 
+ 				if grep -q "^${use}$" <<< "${GLOBAL}" && grep -q "^${use}$" <<< "${LOCAL}";then
+ 					global_use="${global_use} ${use}"
+-				elif grep -q "^\-${use}$" <<< "${GLOBAL}" && grep -q "^\-${use}$" <<< "${LOCAL}";then
++				elif grep -q "^-${use}$" <<< "${GLOBAL}" && grep -q "^-${use}$" <<< "${LOCAL}";then
+ 					global_use="${global_use} -${use}"
+ 					incorrect_use="${incorrect_use// ${use}/}"
+ 				fi
+@@ -1126,7 +1126,7 @@
+ 			if grep -q "^${flag}$" <<< "${USE}" && grep -q "^${flag}$" <<< "${PROFILE}";then
+ 				echo -e "Twice defined: ${red}${use}${restore}"
+ 				sed -e "s|[^[:punct:]]\<${flag}\>||g" -i ${tmp_file}
+-			elif grep -q "^\-${flag}$" <<< "${USE}" && grep -q "^\-${flag}$" <<< "${PROFILE}";then
++			elif grep -q "^-${flag}$" <<< "${USE}" && grep -q "^-${flag}$" <<< "${PROFILE}";then
+ 				echo -e "Twice defined: ${red}-${use}${restore}"
+ 				sed -e "s|[^[:punct:]]\-\<${flag}\>||g" -i ${tmp_file}
+ 			fi
+@@ -1435,7 +1435,7 @@
+ 	tmp_file="$(mktemp)"
+ 	cp "${orig_file}" "${tmp_file}"
+ 	while read use;do
+-		if grep -q "^${use/-/\-}$" <<< "$(use_mask)";then
++		if grep -q "^${use/-/-}$" <<< "$(use_mask)";then
+ 			if grep -q "^-" <<< "${use}";then
+ 				echo -e "Twice unmasked: ${red}${use}${restore}"
+ 				sed -e "s|^${use}.*||" -e '/^$/d' -e 's/[ \t]*$//' -i "${tmp_file}"
+@@ -1742,7 +1742,7 @@
+ 			rm -rf ${trash} 2>/dev/null || echo failed && exit 1
+ 		else
+ 			break
+-			
++
+ 		fi
+ 	done
+ 	echo "done"
+@@ -1811,11 +1811,11 @@
+ --full
+ -f"
+ opts=" ${PORTCONF_DEFAULT_OPTS} ${@}"
+-grep -q -e " \--yes\>" -e " \-y\>" <<< " ${opts}" && yes="1"
+-grep -q -e " \--pretend\>" -e " \-p\>" <<< " ${opts}" && PRETEND="1"
++grep -q -e " --yes\>" -e " -y\>" <<< " ${opts}" && yes="1"
++grep -q -e " --pretend\>" -e " -p\>" <<< " ${opts}" && PRETEND="1"
+ opts="$(sed -e 's| --yes\>||g;s| -y\>||g' -e 's| --pretend\>||g;s| -p\>||g' <<< " ${opts}")"
+ if grep -q "${eix_dep_keys//\-/\\-}" <<< "${opts}";then
+-	if grep -q -e " \--regen-cache\>" -e " \-rc\>" <<< " ${opts}";then
++	if grep -q -e " --regen-cache\>" -e " -rc\>" <<< " ${opts}";then
+ 		eix_check
+ 		opts="$(sed -e 's| --regen-cache\>||g;s| -rc\>||g' -e '/^[ \t]$/d' <<< " ${opts}")"
+ 	else

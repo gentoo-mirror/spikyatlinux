@@ -9,5 +9,5 @@ LICENSE=ISC
 PROPERTIES=live
 RDEPEND=x11-libs/libxcb x11-libs/xcb-util x11-libs/xcb-util-cursor
 SLOT=0
-_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
+_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
 _md5_=3427009af67ef682746506669f0754a0
