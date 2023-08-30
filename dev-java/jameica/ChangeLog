@@ -1,0 +1,29 @@
+# ChangeLog for dev-java/jameica
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*jameica-2.10.4 (11 Jun 2023)
+
+  11 Jun 2023; SpikyAtLinux <spikyatlinux@gmail.com> -jameica-2.10.2.ebuild,
+  +jameica-2.10.4.ebuild:
+  Updated '2023-06-11-11:36'...
+
+*jameica-2.10.2 (04 May 2022)
+
+  04 May 2022; SpikyAtLinux <spikyatlinux@gmail.com> -jameica-2.10.1.ebuild,
+  +jameica-2.10.2.ebuild:
+  Updated '2022-05-04-19:41'...
+
+*jameica-2.10.1 (03 Dec 2021)
+
+  03 Dec 2021; SpikyAtLinux <spikyatlinux@gmail.com> -jameica-2.10.0.ebuild,
+  +jameica-2.10.1.ebuild:
+  Updated '2021-12-03-19:30'...
+
+*jameica-9999 (22 Nov 2021)
+*jameica-2.10.0 (22 Nov 2021)
+
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> +files/jameica.desktop,
+  +jameica-2.10.0.ebuild, +jameica-9999.ebuild:
+  Initial commit
+

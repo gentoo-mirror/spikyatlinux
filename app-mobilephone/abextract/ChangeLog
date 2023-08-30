@@ -1,0 +1,9 @@
+# ChangeLog for app-mobilephone/abextract
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*abextract-2.0-r1 (23 Oct 2022)
+
+  23 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com> +abextract-2.0-r1.ebuild:
+  Updated '2022-10-23-10:17'...
+

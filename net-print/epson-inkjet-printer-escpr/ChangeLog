@@ -1,0 +1,29 @@
+# ChangeLog for net-print/epson-inkjet-printer-escpr
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+  16 Dec 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  epson-inkjet-printer-escpr-1.7.22.ebuild:
+  Updated '2022-12-16-12:50'...
+
+*epson-inkjet-printer-escpr-1.7.22 (16 Oct 2022)
+
+  16 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  -epson-inkjet-printer-escpr-1.7.17.ebuild,
+  -epson-inkjet-printer-escpr-1.7.19.ebuild,
+  +epson-inkjet-printer-escpr-1.7.22.ebuild:
+  Updated '2022-10-16-21:21'...
+
+*epson-inkjet-printer-escpr-1.7.19 (27 Jun 2022)
+
+  27 Jun 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  +epson-inkjet-printer-escpr-1.7.19.ebuild:
+  Updated '2022-06-27-17:24'...
+
+*epson-inkjet-printer-escpr-1.7.17 (22 Nov 2021)
+
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +epson-inkjet-printer-escpr-1.7.17.ebuild, +files/1.6.5-warnings.patch,
+  +files/epson-inkjet-printer-escpr-1.7.7-fnocommon.patch:
+  Initial commit
+

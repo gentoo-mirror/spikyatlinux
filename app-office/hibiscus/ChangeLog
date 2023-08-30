@@ -1,0 +1,59 @@
+# ChangeLog for app-office/hibiscus
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*hibiscus-2.10.12 (11 Jun 2023)
+
+  11 Jun 2023; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.10.ebuild,
+  +hibiscus-2.10.12.ebuild:
+  Updated '2023-06-11-11:36'...
+
+*hibiscus-2.10.10 (04 Apr 2023)
+
+  04 Apr 2023; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.9.ebuild,
+  +hibiscus-2.10.10.ebuild:
+  Updated '2023-04-04-11:18'...
+
+*hibiscus-2.10.9 (01 Dec 2022)
+
+  01 Dec 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.8.ebuild,
+  +hibiscus-2.10.9.ebuild:
+  Updated '2022-12-01-17:45'...
+
+*hibiscus-2.10.8 (17 Oct 2022)
+
+  17 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.7.ebuild,
+  +hibiscus-2.10.8.ebuild:
+  Updated '2022-10-17-18:16'...
+
+*hibiscus-2.10.7 (27 Jun 2022)
+
+  27 Jun 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.6.ebuild,
+  +hibiscus-2.10.7.ebuild:
+  Updated '2022-06-27-13:54'...
+
+*hibiscus-2.10.6 (14 May 2022)
+
+  14 May 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.5.ebuild,
+  +hibiscus-2.10.6.ebuild:
+  Updated '2022-05-14-20:51'...
+
+*hibiscus-2.10.5 (04 May 2022)
+
+  04 May 2022; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.4.ebuild,
+  +hibiscus-2.10.5.ebuild:
+  Updated '2022-05-04-19:41'...
+
+*hibiscus-2.10.4 (03 Dec 2021)
+
+  03 Dec 2021; SpikyAtLinux <spikyatlinux@gmail.com> -hibiscus-2.10.3.ebuild,
+  +hibiscus-2.10.4.ebuild, hibiscus-9999.ebuild:
+  Updated '2021-12-03-19:30'...
+
+*hibiscus-9999 (22 Nov 2021)
+*hibiscus-2.10.3 (22 Nov 2021)
+
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> +hibiscus-2.10.3.ebuild,
+  +hibiscus-9999.ebuild:
+  Initial commit
+

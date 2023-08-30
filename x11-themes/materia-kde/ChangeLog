@@ -1,0 +1,28 @@
+# ChangeLog for x11-themes/materia-kde
+# Copyright 1999-2022 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*materia-kde-20220823 (16 Oct 2022)
+
+  16 Oct 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  -materia-kde-20220510.ebuild, +materia-kde-20220823.ebuild:
+  Updated '2022-10-16-21:21'...
+
+*materia-kde-20220510 (04 Jun 2022)
+
+  04 Jun 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  -materia-kde-20211226.ebuild, +materia-kde-20220510.ebuild:
+  Updated '2022-06-04-21:06'...
+
+*materia-kde-20211226 (12 Jan 2022)
+
+  12 Jan 2022; SpikyAtLinux <spikyatlinux@gmail.com>
+  -materia-kde-20211027.ebuild, +materia-kde-20211226.ebuild:
+  Updated '2022-01-12-23:57'...
+
+*materia-kde-20211027 (22 Nov 2021)
+
+  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com>
+  +materia-kde-20211027.ebuild:
+  Initial commit
+

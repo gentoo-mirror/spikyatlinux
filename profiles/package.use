@@ -1,0 +1,5 @@
+# My use flags for my openbox set
+x11-misc/rofi windowmode
+x11-misc/tint2 tint2conf
+x11-terms/rxvt-unicode fading-colors 24-bit-color gdk-pixbuf iso14755 perl
+x11-wm/openbox imlib xdg

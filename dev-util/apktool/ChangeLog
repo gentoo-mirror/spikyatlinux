@@ -1,0 +1,10 @@
+# ChangeLog for dev-util/apktool
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*apktool-2.7.0 (11 Jul 2023)
+
+  11 Jul 2023; SpikyAtLinux <spikyatlinux@gmail.com> +apktool-2.7.0.ebuild,
+  +files/apktool:
+  Updated '2023-07-11-19:13'...
+
