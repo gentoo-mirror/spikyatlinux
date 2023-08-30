@@ -2,13 +2,10 @@
 # Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-*pdlib-1.1.0 (11 Jun 2023)
+*pdlib-1.1.0 (30 Aug 2023)
+*pdlib-1.0.2 (30 Aug 2023)
 
-  11 Jun 2023; SpikyAtLinux <spikyatlinux@gmail.com> +pdlib-1.1.0.ebuild:
-  Updated '2023-06-11-11:36'...
-
-*pdlib-1.0.2 (22 Nov 2021)
-
-  22 Nov 2021; SpikyAtLinux <spikyatlinux@gmail.com> +pdlib-1.0.2.ebuild:
+  30 Aug 2023; SpikyAtLinux <spikyatlinux@gmail.com> +pdlib-1.0.2.ebuild,
+  +pdlib-1.1.0.ebuild:
   Initial commit
 
