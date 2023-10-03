@@ -3,7 +3,7 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{8..11} )
+PYTHON_COMPAT=( python3_{8..12} )
 inherit python-single-r1 xdg
 
 DESCRIPTION="A psutil-based command to display customizable system info, intended for Tint2 or other panels"

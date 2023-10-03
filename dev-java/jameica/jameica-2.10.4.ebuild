@@ -3,7 +3,7 @@
 
 EAPI="7"
 
-DESCRIPTION="Official prebuilt nightly Jameica Online Banking Software, written in Java"
+DESCRIPTION="Official Jameica Online Banking Software, written in Java"
 HOMEPAGE="http://www.jameica.org"
 SRC_URI="x86? ( https://www.willuhn.de/products/${PN}/releases/current/${PN}/${PN}-linux.zip
 			-> ${P}.zip )
