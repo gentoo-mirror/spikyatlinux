@@ -1,0 +1,10 @@
+# ChangeLog for sys-apps/czkawka-bin
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*czkawka-bin-5.1.0 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com>
+  +czkawka-bin-5.1.0.ebuild:
+  Removed old files.
+

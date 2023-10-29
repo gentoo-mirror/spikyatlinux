@@ -1,0 +1,11 @@
+# ChangeLog for kde-misc/Burn-My-Windows
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*Burn-My-Windows-40 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com>
+  +Burn-My-Windows-40.ebuild, +files/36-blacklist-spectacle.patch,
+  +files/blacklist-spectacle.patch, +metadata.xml:
+  Removed old files.
+

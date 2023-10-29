@@ -1,0 +1,11 @@
+# ChangeLog for www-apps/rutorrent
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*rutorrent-2022.09.19 (29 Oct 2023)
+*rutorrent-4.2.6 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +rutorrent-4.2.6.ebuild,
+  +rutorrent-2022.09.19.ebuild:
+  Removed old files.
+
