@@ -1,0 +1,10 @@
+# ChangeLog for x11-wm/bspwm
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*bspwm-0.9.10-r50 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +bspwm-0.9.10-r50.ebuild,
+  +files/bspwm-session, +metadata.xml:
+  Removed old files.
+

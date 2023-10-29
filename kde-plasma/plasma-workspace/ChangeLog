@@ -1,0 +1,13 @@
+# ChangeLog for kde-plasma/plasma-workspace
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*plasma-workspace-5.27.8-r2 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com>
+  +files/plasma-workspace-5.22.5-krunner-cwd-at-home.patch,
+  +files/plasma-workspace-5.24.80-split-libkworkspace.patch, +files/plasma-wor
+  kspace-5.27.8-plasmacalendarintegration-holidayregion.patch, +metadata.xml,
+  +plasma-workspace-5.27.8-r2.ebuild:
+  Removed old files.
+

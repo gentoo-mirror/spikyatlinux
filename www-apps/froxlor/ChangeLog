@@ -1,0 +1,9 @@
+# ChangeLog for www-apps/froxlor
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*froxlor-0.10.38 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +froxlor-0.10.38.ebuild:
+  Removed old files.
+

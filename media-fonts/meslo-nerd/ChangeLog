@@ -1,0 +1,9 @@
+# ChangeLog for media-fonts/meslo-nerd
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*meslo-nerd-3.0.1 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +meslo-nerd-3.0.1.ebuild:
+  Removed old files.
+

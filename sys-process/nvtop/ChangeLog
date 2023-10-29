@@ -1,0 +1,9 @@
+# ChangeLog for sys-process/nvtop
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*nvtop-3.0.2 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +nvtop-3.0.2.ebuild:
+  Removed old files.
+

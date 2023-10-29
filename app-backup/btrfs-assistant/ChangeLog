@@ -1,0 +1,11 @@
+# ChangeLog for app-backup/btrfs-assistant
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*btrfs-assistant-9999 (29 Oct 2023)
+*btrfs-assistant-1.8 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com>
+  +btrfs-assistant-1.8.ebuild, +btrfs-assistant-9999.ebuild:
+  Removed old files.
+

@@ -1,0 +1,13 @@
+# ChangeLog for x11-misc/i3lock-color
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*i3lock-color-9999 (29 Oct 2023)
+*i3lock-color-2.13.4 (29 Oct 2023)
+*i3lock-color-2.13.2 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com>
+  +i3lock-color-2.13.2.ebuild, +i3lock-color-2.13.4.ebuild,
+  +i3lock-color-9999.ebuild, +metadata.xml:
+  Removed old files.
+

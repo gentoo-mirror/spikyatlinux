@@ -2,6 +2,11 @@
 # Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
+*nerd-fonts-3.0.2 (29 Oct 2023)
+
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +nerd-fonts-3.0.2.ebuild:
+  Removed old files.
+
 *nerd-fonts-2.1.0-r1 (30 Aug 2023)
 
   30 Aug 2023; SpikyAtLinux <spikyatlinux@gmail.com>
