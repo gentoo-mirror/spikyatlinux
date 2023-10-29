@@ -1,0 +1,15 @@
+BDEPEND=>=virtual/rust-1.53 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install test unpack
+DEPEND=x11-misc/tabbed
+DESCRIPTION=Mostly just a rust rewrite of https://github.com/albertored11/bsptab
+EAPI=8
+HOMEPAGE=https://virtio-fs.gitlab.io/
+INHERIT=cargo git-r3
+IUSE=debug
+KEYWORDS=~amd64
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=x11-misc/tabbed
+SLOT=0
+_eclasses_=toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	cargo	8520ae1bed0e6965d027399b471a3595	git-r3	2358a7b20091609e24bd3a83b3ac5991
+_md5_=59e5508cfd72bdb14508ba5e31fb9f6d
