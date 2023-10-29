@@ -1,0 +1,9 @@
+# ChangeLog for x11-misc/tbsm
+# Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
+# (auto-generated from git log)
+
+*tbsm-0.7 (30 Aug 2023)
+
+  30 Aug 2023; SpikyAtLinux <spikyatlinux@gmail.com> +tbsm-0.7.ebuild:
+  Initial commit
+
