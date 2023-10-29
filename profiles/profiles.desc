@@ -1,4 +1,4 @@
-####################### OpenRC Profiles #######################
+######################## OpenRC Profiles #######################
 amd64 default/linux/amd64/17.1/desktop/plasma+gnome-openrc stable
 ####################### SystemD Profiles #######################
 amd64 default/linux/amd64/17.1/desktop/plasma+gnome/systemd stable
