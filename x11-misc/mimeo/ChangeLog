@@ -2,11 +2,8 @@
 # Copyright 1999-2023 Gentoo Foundation; Distributed under the GPL v2
 # (auto-generated from git log)
 
-  03 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> mimeo-2023.ebuild:
-  Updated '2023-10-03-12:56'...
+*mimeo-2023 (29 Oct 2023)
 
-*mimeo-2023 (30 Aug 2023)
-
-  30 Aug 2023; SpikyAtLinux <spikyatlinux@gmail.com> +mimeo-2023.ebuild:
+  29 Oct 2023; SpikyAtLinux <spikyatlinux@gmail.com> +mimeo-2023.ebuild:
   Initial commit
 
