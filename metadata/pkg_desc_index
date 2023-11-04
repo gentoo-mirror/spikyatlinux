@@ -2,7 +2,7 @@ app-admin/s-tui 1.1.4-r1: Stress-Terminal UI monitoring tool
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-misc/font-manager 0.8.8 9999: A simple font management application for Gtk+ Desktop Environments
 app-mobilephone/abextract 2.0-r1: Tool to extract and repack ADB backup
-app-office/hibiscus 2.10.14 9999: Official prebuilt nightly HBCI Plugin for Jameica
+app-office/hibiscus 2.10.15 9999: Official prebuilt nightly HBCI Plugin for Jameica
 app-office/jameica-syntax 2.10.0: Jameica plugin SynTAX ist eine freie Finanzbuchhaltung für Selbständige nach SKR03/04
 app-text/ascii-design 1.1.1-r2: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.4 2.10.4-r1 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
