@@ -16,10 +16,8 @@ media-fonts/nerd-fonts 3.1.1: Collection of fonts that are patched to include a 
 media-gfx/icoextract 0.1.4: Extract icons from Windows PE files (.exe/.dll)
 media-gfx/iscan-plugin-network-nt 1.1.4-r2: Network scanning plugin for EPSON scanners (nonfree)
 x11-misc/lightdm-qt5-greeter 0.11.1: lightdm-qt5-greeter is a simple frontend for the lightdm displaymanager, written in c++ and qt5.
-x11-misc/ly 0.6.0 9999: a TUI display manager
 x11-misc/mimeo 2023: Open files by MIME-type or file name using regular expressions.
 x11-misc/obfilebrowser 2021: An Openbox pipe menu application and file browser.
-x11-misc/tbsm 0.7: A pure bash session or application launcher. Inspired by cdm, tdm and krunner
 x11-misc/tint2-psuinfo 1.2: A psutil-based command to display customizable system info, intended for Tint2 or other panels
 x11-themes/materia-kde 20220823-r1: GTK port of Materia Theme for Plasma 5 desktop.
 x11-wm/wmutils 1.7 9999: Set of window manipulation tools
