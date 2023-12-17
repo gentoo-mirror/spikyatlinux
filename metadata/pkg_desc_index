@@ -8,10 +8,10 @@ app-text/ascii-design 1.1.1-r2: Ascii Design is an ascii-art program based on fi
 dev-java/jameica 2.10.4 2.10.4-r1 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 dev-php/pdlib 1.0.2 1.1.0: PHP bindings for dlib
 dev-util/android-tools-google 34.0.5: Android platform-tools same as android-tools, but without sdk from google
-dev-util/apktool 2.8.1: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.9.1: A tool for reengineering 3rd party, closed, binary Android apps
 kde-misc/kim5 9999: Kde Image Menu
 kde-misc/sierrabreezeenhanced 1.3.3: A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
-media-fonts/nerd-fonts 2.1.0-r1: Collection of fonts that are patched to include a high number of glyphs (icons).
+media-fonts/nerd-fonts 3.1.1: Collection of fonts that are patched to include a high number of glyphs (icons).
 media-gfx/icoextract 0.1.4: Extract icons from Windows PE files (.exe/.dll)
 media-gfx/iscan-plugin-network-nt 1.1.4-r2: Network scanning plugin for EPSON scanners (nonfree)
 x11-misc/lightdm-qt5-greeter 0.11.1: lightdm-qt5-greeter is a simple frontend for the lightdm displaymanager, written in c++ and qt5.
