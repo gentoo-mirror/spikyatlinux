@@ -8,5 +8,5 @@ RDEPEND==dev-java/jameica-9999
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://www.willuhn.de/products/hibiscus/releases/nightly/hibiscus-2.11.0-nightly.zip
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b2b07efa51009704f88173b2c7feab47
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425
 _md5_=03bb21b23b575f318642a842d5e3d64c
