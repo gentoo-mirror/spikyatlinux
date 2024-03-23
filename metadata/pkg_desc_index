@@ -1,5 +1,4 @@
 app-admin/s-tui 1.1.4-r1: Stress-Terminal UI monitoring tool
-app-backup/btrfs-assistant 1.9 9999: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/timeshift 23.12.2 24.01.1: A system restore utility for Linux
 app-backup/timeshift-autosnap 0.9: Automatically creates a timeshift-snapshot when executed
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
@@ -11,10 +10,8 @@ app-office/jameica-syntax 2.10.0: Jameica plugin SynTAX ist eine freie Finanzbuc
 app-portage/find_cruft 5.2: find cruft files not managed by portage
 app-portage/portage-lostfiles 0.2.3-r1 0.5.4: A simple script to identify files not tracked by Portage package manager
 app-portage/portconf 1.6.9-r2: /etc/portage cleaner
-app-portage/porttail 1.0.0_alpha1 1.9999: Dynamically follow and view running Portage builds
 app-portage/pyerge 0.7.2: Wrapper tool for emerge - it can mount RAM disk and compile packages inside it.
 app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
-app-portage/upgrade-portage 1.07: Simple way to upgrade Gentoo system
 app-shells/shell-text 1.1-r1: Formatting text in echo commands
 app-text/ascii-design 1.1.1-r2: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.4-r1 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
@@ -23,8 +20,6 @@ dev-php/pecl-mcrypt 1.0.5-r1: Bindings for the libmcrypt library
 dev-php/pecl-memcached 3.2.0-r2: Interface PHP with memcached via libmemcached library
 dev-util/android-tools-google 34.0.5: Android platform-tools same as android-tools, but without sdk from google
 dev-util/apktool 2.9.3: A tool for reengineering 3rd party, closed, binary Android apps
-games-emulation/ryujinx 1.1.1052: Experimental Nintendo Switch emulator written in C#
-gui-apps/eww 0.4.0-r1: Elkowars Wacky Widgets is a standalone widget system made in Rust
 kde-misc/Burn-My-Windows 40: Disintegrate your windows with style
 kde-misc/kim5 9999: Kde Image Menu
 kde-misc/sierrabreezeenhanced 1.3.3: A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
