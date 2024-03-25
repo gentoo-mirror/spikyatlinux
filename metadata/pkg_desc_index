@@ -14,7 +14,6 @@ app-text/ascii-design 1.1.1-r2: Ascii Design is an ascii-art program based on fi
 dev-java/jameica 2.10.4-r1 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
 dev-php/pdlib 1.1.0: PHP bindings for dlib
 dev-php/pecl-mcrypt 1.0.5-r1: Bindings for the libmcrypt library
-dev-php/pecl-memcached 3.2.0-r2: Interface PHP with memcached via libmemcached library
 dev-util/android-tools-google 34.0.5: Android platform-tools same as android-tools, but without sdk from google
 dev-util/apktool 2.9.3: A tool for reengineering 3rd party, closed, binary Android apps
 media-fonts/nerd-fonts 3.1.1: Collection of fonts that are patched to include a high number of glyphs (icons).
@@ -31,5 +30,4 @@ x11-misc/jgmenu 4.4.0: Simple, independent and contemporary-looking X11 menu, de
 x11-misc/mimeo 2023: Open files by MIME-type or file name using regular expressions.
 x11-misc/obfilebrowser 2021: An Openbox pipe menu application and file browser.
 x11-misc/pywal 3.3.0: Generate and change color-schemes on the fly
-x11-wm/dk 2.0-r1: A list based tiling window manager in the vein of dwm, bspwm, and xmonad.
 x11-wm/wmutils 1.7: Set of window manipulation tools
