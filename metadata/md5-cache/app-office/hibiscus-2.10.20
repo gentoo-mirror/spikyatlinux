@@ -8,6 +8,6 @@ LICENSE=GPL-3
 RDEPEND=>=dev-java/jameica-2.10.0
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://www.willuhn.de/products/hibiscus/releases/2.10/hibiscus-2.10.18.zip
+SRC_URI=https://www.willuhn.de/products/hibiscus/releases/2.10/hibiscus-2.10.20.zip
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	288c54efeb5e2aa70775e39032695ad4
 _md5_=b501ee04d910d99d3ea26105dfa55fc5
