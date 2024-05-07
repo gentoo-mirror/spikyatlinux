@@ -1,4 +1,5 @@
 app-admin/s-tui 1.1.6: Stress-Terminal UI monitoring tool
+app-antivirus/maldet 1.6.5: Linux Malware Detect (LMD) is a malware scanner for Linux released under the GNU GPLv2 license
 app-backup/timeshift 24.01.1: A system restore utility for Linux
 app-backup/timeshift-autosnap 0.9: Automatically creates a timeshift-snapshot when executed
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
@@ -25,6 +26,7 @@ net-misc/networkmanager-dmenu 2.3.1-r1: Control networkmanager using DMENU
 sys-apps/czkawka 7.0.0: CLI frontend of Czkawka
 sys-fs/dua-cli 2.29.0: A tool to conveniently learn about the disk usage of directories, fast!
 sys-process/nvtop 3.1.0: NVIDIA GPUs htop like monitoring tool
+www-apps/rutorrent 4.3.1: ruTorrent is a front-end for the popular Bittorrent client rTorrent
 x11-misc/betterlockscreen 4.2.0: sweet looking lockscreen for linux system
 x11-misc/dunst 1.11.0-r1: Lightweight replacement for common notification daemons
 x11-misc/i3lock-color 2.13.5: The world's most popular non-default computer lockscreen
