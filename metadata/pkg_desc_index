@@ -3,6 +3,7 @@ app-admin/hardinfo2 2.2.4-r2: System Information and Benchmark for Linux Systems
 app-backup/timeshift 24.06.3: A system restore utility for Linux
 app-backup/timeshift-autosnap 0.9-r1: Automatically creates a timeshift-snapshot when executed
 app-benchmarks/phoronix-test-suite 10.8.4-r1: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-crypt/gtkhash 1.5-r1 9999: A cross-platform desktop utility for computing message digests or checksums
 app-editors/bluegriffon-bin 3.1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-emulation/quickemu 4.9.6: Create and run optimised Windows, macOS and Linux desktop virtual machines
 app-mobilephone/scrcpy 2.7-r1 3.0-r1: Display and control your Android device
