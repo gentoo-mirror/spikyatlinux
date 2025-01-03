@@ -11,4 +11,4 @@ RDEPEND=>=sys-libs/glibc-2.30-r8 dev-libs/nspr dev-libs/nss x11-libs/gtk+:2 virt
 SLOT=0
 SRC_URI=http://bluegriffon.org/freshmeat/3.1/bluegriffon-3.1.Ubuntu18.04-x86_64.tar.bz2 -> bluegriffon-bin-3.1.tar.bz2 http://bluegriffon.org/BG_files/bluegriffon.png -> bluegriffon-bin.png
 _eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
-_md5_=d41d6dab0fb7baecdee6b02aba91928f
+_md5_=3585f4109754072cf0d417af89b4512c
