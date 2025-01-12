@@ -35,20 +35,26 @@ and run "emaint sync -r spikyatlinux",
 without quotes of course.
 
 #################################################
-## Add my repository
+#### Add my repository
 #################################################
 
-# With eselect
+#### With eselect
 
 ```
 eselect repository enable spikyatlinux
 emaint sync -r spikyatlinux
 ```
 
-# if you have eix installed
+#### if you have eix installed
 
 ```
 sudo eix-update
 ```
 
 #################################################
+### Merged some original profiles
+- spikyatlinux:gnome+hardened (stable)
+- spikyatlinux:plasma+gnome (stable)
+- spikyatlinux:plasma+gnome+hardened (stable)
+- spikyatlinux:plasma-hardened (stable)
+
