@@ -7,6 +7,6 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-3+
 RDEPEND=x11-libs/libX11 x11-libs/libXrandr x11-libs/cairo x11-libs/pango gnome-base/librsvg dev-libs/glib dev-libs/libxml2
 SLOT=0
-SRC_URI=https://github.com/jgmenu/jgmenu/archive/refs/tags/v4.4.1.tar.gz -> jgmenu-4.4.1.tar.gz
+SRC_URI=https://github.com/jgmenu/jgmenu/archive/refs/tags/v4.5.0.tar.gz -> jgmenu-4.5.0.tar.gz
 _eclasses_=optfeature	538bce96e5589935b57e178e8635f301
 _md5_=b066468223a63428b49c464b72e9aae1
