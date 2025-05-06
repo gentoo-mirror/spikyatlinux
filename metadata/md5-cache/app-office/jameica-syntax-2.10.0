@@ -9,5 +9,5 @@ RDEPEND=>=dev-java/jameica-2.10.0
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://www.willuhn.de/products/syntax/releases/2.10/syntax-2.10.0.zip
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
 _md5_=55a6989e884e9720859578fa4c36d4d2
