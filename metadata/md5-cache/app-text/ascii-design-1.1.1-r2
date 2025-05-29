@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=app-misc/figlet dev-qt/qtcore:5
 SLOT=0
 SRC_URI=https://github.com/Faster3ck/Ascii-Design/archive/v1.1.1.tar.gz -> ascii-design-1.1.1.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	216128ca9bbff45fbea22427005310c7	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=cc7fec5c53dc8f9de583a977f3e5d6e7
