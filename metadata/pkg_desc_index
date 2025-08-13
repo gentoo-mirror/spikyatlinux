@@ -1,6 +1,6 @@
 app-admin/cmd-polkit 0.3.0: Command-line Polkit tool
 app-admin/hardinfo2 2.2.10: System Information and Benchmark for Linux Systems
-app-backup/timeshift 24.06.6: A system restore utility for Linux
+app-backup/timeshift 25.07.5: A system restore utility for Linux
 app-backup/timeshift-autosnap 0.9-r1: Automatically creates a timeshift-snapshot when executed
 app-editors/bluegriffon-bin 3.1-r1: The Open Source next-gen Web Editor based on the rendering engine of Firefox
 app-emulation/quickemu 4.9.7: Create and run optimised Windows, macOS and Linux desktop virtual machines
@@ -12,7 +12,7 @@ app-portage/pyerge 0.7.2-r1: Wrapper tool for emerge - it can mount RAM disk and
 app-portage/showbuild 0.9.1-r1: Script to follow log of running portage builds
 app-text/ascii-design 1.1.1-r2: Ascii Design is an ascii-art program based on figlet engine.
 dev-java/jameica 2.10.4-r1 9999: Official prebuilt nightly Jameica Online Banking Software, written in Java
-dev-php/pdlib 1.1.0-r3: PHP bindings for dlib
+dev-php/pdlib 1.1.0-r4: PHP bindings for dlib
 dev-php/pecl-mcrypt 1.0.7-r1: Bindings for the libmcrypt library
 dev-python/cloudscraper 1.2.69-r2: A Python module to bypass Cloudflare's anti-bot page
 dev-python/i3ipc 2.2.1-r1: An improved Python library to control i3wm and sway.
