@@ -5,3 +5,4 @@
 app-admin/hardinfo2:benchmark - sysbench for benchmarking
 app-admin/hardinfo2:fwupd - fwupd
 app-admin/hardinfo2:gtk3 - gtk+ user interface
+app-misc/yazi:cli - Install CLI Data Distribution Service
