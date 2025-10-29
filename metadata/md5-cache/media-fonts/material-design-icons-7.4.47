@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup
+DESCRIPTION=mdi/font Dist for Material Design Icons.
+EAPI=8
+HOMEPAGE=https://materialdesignicons.com/
+INHERIT=font
+IUSE=X
+KEYWORDS=amd64 arm arm64 ppc64 x86
+LICENSE=Apache-2.0
+SLOT=0
+SRC_URI=https://github.com/Templarian/MaterialDesign-Webfont/archive/refs/tags/v7.4.47.tar.gz -> material-design-icons-7.4.47.tar.gz
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=fea8d9210df86943c9f0d389cd98a842
